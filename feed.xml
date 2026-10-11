@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-11：周日晨报（周五收 $361.54，+0.4%）· Meta 评估 2027 部署 TPU · OCP 峰会明日开幕 · 48 小时无新评级动作</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-11</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/9）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），常规时段约 &lt;span class=&quot;num&quot;&gt;16.5M&lt;/span&gt; 股成交，低于 &lt;span class=&quot;num&quot;&gt;3&lt;/span&gt; 个月均值约 &lt;span class=&quot;num&quot;&gt;22.5M&lt;/span&gt; 股；缩量企稳，位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）附近，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（Finnhub / Zacks，10/9 收盘）；华尔街周末盘点：Morgan Stanley 认为 AVGO 估值有吸引力、隐含约 &lt;span class=&quot;num&quot;&gt;36%&lt;/span&gt; 上行空间，UBS 重申 Buy；The Information 称 Meta 正评估 &lt;span class=&quot;num&quot;&gt;2027&lt;/span&gt; 年起部署 Google TPU；SemiAnalysis 测算 TPU v7 的 TCO 比 NVIDIA GB200 低约 &lt;span class=&quot;num&quot;&gt;30%&lt;/span&gt;。（TipRanks 10/10）；OCP 全球峰会明日（10/12）圣何塞开幕：博通展示 Tomahawk 6 / Ultra、Jericho 4、Thor Ultra 800G / Thor 2 400G 与第三代 TH6-Davisson CPO；Asad Khamisy 10/12 主旨演讲将展示 &lt;span class=&quot;num&quot;&gt;10&lt;/span&gt; 万+加速器集群扩展方案。（博通官方 10/8）</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-10：周六晨报（周五收 $361.54，+0.4% 缩量企稳）· OpenAI 芯片融资添新细节 · Weiss 上调评级 · 富士贴装验证 Tomahawk 6-Davisson</title>
       <link>https://avgo.pages.dev/briefs/2026-10-10</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-10</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
       <description>周一（9/21）收盘 &lt;span class=&quot;num&quot;&gt;$362.66&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+1.41%&lt;/span&gt;），除权日（每股派息 &lt;span class=&quot;num&quot;&gt;$0.65&lt;/span&gt;）逆势上涨，盘中区间 &lt;span class=&quot;num&quot;&gt;$353.5 – $363.97&lt;/span&gt;（Finnhub）；分析师综合评级 Moderate Buy（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+40%&lt;/span&gt; 上行空间；过去一周无新的评级调整；社交平台热议 AVGO：散户多空分歧，看多者盯 $530 目标价与 AI 订单，看空者提示较 &lt;span class=&quot;num&quot;&gt;$494&lt;/span&gt; 高点已跌约 &lt;span class=&quot;num&quot;&gt;28%&lt;/span&gt;（详见💬社交平台头条）</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-21：收盘 $357.61（+3.0%）· 9/21（周一）除权 $0.65</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-21</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
-      <description>最新为 9 月 18 日（周五）收盘 &lt;span class=&quot;num&quot;&gt;$357.61&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+3.0%&lt;/span&gt;），周末美股休市，无价格更新；今日（9/21）为除权日：每股派息 &lt;span class=&quot;num&quot;&gt;$0.65&lt;/span&gt;，9 月 30 日支付，除权后股价技术性调整属正常；分析师综合评级 Moderate Buy（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+42%&lt;/span&gt; 上行空间；周末无新评级变化</description>
     </item>
   </channel>
 </rss>
