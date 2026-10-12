@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-12：周一晨报（上周五收 $361.54，+0.4%）· OCP 峰会今日开幕 · 博通 CDS 创纪录 136bp 信用担忧升温 · 48 小时无新评级动作</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-12</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/9）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），常规时段约 &lt;span class=&quot;num&quot;&gt;16.5M&lt;/span&gt; 股成交，低于 &lt;span class=&quot;num&quot;&gt;3&lt;/span&gt; 个月均值约 &lt;span class=&quot;num&quot;&gt;22.5M&lt;/span&gt; 股；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）附近，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（Finnhub，10/9 收盘）；AI 融资叙事现分歧：X 上 @GlobalMktObserv 10/11 指出 Oracle / Broadcom 5 年期 CDS 利差同创纪录（AVGO &lt;span class=&quot;num&quot;&gt;136bp&lt;/span&gt;、隐含 5 年违约概率约 &lt;span class=&quot;num&quot;&gt;11%&lt;/span&gt;），“债务狂欢”论调升温；但 @ChillBanking 10/12 转述 UBS 非交易路演称管理层 F2027/F2028 指引偏保守、至少逐年翻倍。需求侧信心与信用担忧对峙。；OCP 全球峰会今日（圣何塞，&lt;span class=&quot;num&quot;&gt;10/12–15&lt;/span&gt;）开幕：博通展示 Tomahawk 6 / Ultra、Jericho 4、Thor Ultra 800G / Thor 2 400G 与第三代 TH6-Davisson CPO；Asad Khamisy 今日主旨演讲将展示 &lt;span class=&quot;num&quot;&gt;10&lt;/span&gt; 万+加速器集群扩展方案。（博通官方 10/8）</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-11：周日晨报（周五收 $361.54，+0.4%）· Meta 评估 2027 部署 TPU · OCP 峰会明日开幕 · 48 小时无新评级动作</title>
       <link>https://avgo.pages.dev/briefs/2026-10-11</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-11</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
       <description>周二（9/22）收盘 &lt;span class=&quot;num&quot;&gt;$364.54&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.52%&lt;/span&gt;），连续第二个交易日上涨，盘中区间 &lt;span class=&quot;num&quot;&gt;$359.29 – $366.55&lt;/span&gt;（Finnhub）；分析师综合评级 Moderate Buy（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+40%&lt;/span&gt; 上行空间；9/21 Bernstein 重申 Buy、目标价 &lt;span class=&quot;num&quot;&gt;$575&lt;/span&gt;；社交平台热议 AVGO：散户继续逢低看多（详见💬社交平台头条）</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-22：收盘 $362.66（+1.4%）· 除权日逆势上涨</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-22</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
-      <description>周一（9/21）收盘 &lt;span class=&quot;num&quot;&gt;$362.66&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+1.41%&lt;/span&gt;），除权日（每股派息 &lt;span class=&quot;num&quot;&gt;$0.65&lt;/span&gt;）逆势上涨，盘中区间 &lt;span class=&quot;num&quot;&gt;$353.5 – $363.97&lt;/span&gt;（Finnhub）；分析师综合评级 Moderate Buy（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+40%&lt;/span&gt; 上行空间；过去一周无新的评级调整；社交平台热议 AVGO：散户多空分歧，看多者盯 $530 目标价与 AI 订单，看空者提示较 &lt;span class=&quot;num&quot;&gt;$494&lt;/span&gt; 高点已跌约 &lt;span class=&quot;num&quot;&gt;28%&lt;/span&gt;（详见💬社交平台头条）</description>
     </item>
   </channel>
 </rss>
