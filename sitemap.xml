@@ -130,6 +130,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://avgo.pages.dev/tweets</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://avgo.pages.dev/articles/fy26q3-earnings</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>

@@ -496,6 +496,10 @@ def write_sitemap():
                   "    <changefreq>monthly</changefreq>",
                   "  </url>"]
     lines += ["  <url>",
+              "    <loc>%s/tweets</loc>" % SITE_URL,
+              "    <changefreq>daily</changefreq>",
+              "  </url>",
+              "  <url>",
               "    <loc>%s/articles/fy26q3-earnings</loc>" % SITE_URL,
               "    <lastmod>2026-09-03</lastmod>",
               "    <changefreq>monthly</changefreq>",
