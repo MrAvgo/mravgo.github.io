@@ -130,6 +130,14 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://avgo.pages.dev/tweets-2</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://avgo.pages.dev/tweets-3</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://avgo.pages.dev/tweets</loc>
     <changefreq>daily</changefreq>
   </url>

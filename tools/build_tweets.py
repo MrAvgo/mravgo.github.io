@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
-"""从 tools/input/tweets.json 生成 tweets.html（我的推文主页）。
+"""从 tools/input/tweets.json 生成 tweets.html（我的推文主页，分页）。
 
-用法: python3 tools/build_tweets.py
-输入: tools/input/tweets.json（含 profile + tweets 数组，时间倒序）
-输出: tweets.html（站根目录）
+用法:
+  python3 tools/build_tweets.py          # 全量构建
+  python3 tools/build_tweets.py --merge  # 合并 tools/input/tweets_new.json 后构建
+
+输出: tweets.html（第 1 页）+ tweets-2.html、tweets-3.html…（每页 20 条）
 只收 2026-09-28 及之后的推文；每条推文保留 X 原帖链接。
+构建结束自动刷新 sitemap.xml（build_brief.write_sitemap）。
 """
 import html as htmlmod
 import json
@@ -13,14 +16,67 @@ import re
 
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INPUT = os.path.join(SITE, "tools", "input", "tweets.json")
-OUT = os.path.join(SITE, "tweets.html")
 SITE_URL = "https://avgo.pages.dev"
 CUTOFF = "2026-09-28"
 CSS_VER = "20261013"
+PER_PAGE = 20
 
 URL_RE = re.compile(r"https?://[^\s<>\"]+")
 
 TYPE_LABEL = {"original": "原创", "quote": "引用", "reply": "回复"}
+
+
+def page_filename(i):
+    return "tweets.html" if i == 0 else "tweets-%d.html" % (i + 1)
+
+
+def page_url(i):
+    return "%s/tweets" % SITE_URL if i == 0 else "%s/tweets-%d" % (SITE_URL, i + 1)
+
+
+def pager_html(i, n):
+    parts = ['<nav class="pager">']
+    if i > 0:
+        parts.append('<a href="%s">← 更新的</a>' % ("tweets" if i == 1 else "tweets-%d" % i))
+    parts.append("<span>第 %d 页 / 共 %d 页</span>" % (i + 1, n))
+    if i < n - 1:
+        parts.append('<a href="tweets-%d">更早的 →</a>' % (i + 2))
+    parts.append("</nav>")
+    return "\n".join(parts)
+
+
+def refresh_sitemap():
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "build_brief", os.path.join(SITE, "tools", "build_brief.py"))
+    bb = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(bb)
+    return bb.write_sitemap()
+
+
+def merge_new(path):
+    """把 tools/input/tweets_new.json 的增量推文合并进 tweets.json（按 url 去重）。"""
+    import datetime
+    with open(path, encoding="utf-8") as f:
+        new_data = json.load(f)
+    with open(INPUT, encoding="utf-8") as f:
+        data = json.load(f)
+    seen = {t["url"] for t in data.get("tweets", [])}
+    added = 0
+    for t in new_data.get("tweets", []):
+        if t.get("url") and t["url"] not in seen and t.get("time", "") >= CUTOFF:
+            data.setdefault("tweets", []).append(t)
+            seen.add(t["url"])
+            added += 1
+    data["tweets"].sort(key=lambda t: t.get("time", ""), reverse=True)
+    for k in ("name", "handle", "bio", "followers", "following", "avatar",
+              "profile_url"):
+        if new_data.get(k):
+            data[k] = new_data[k]
+    data["updated"] = datetime.date.today().isoformat()
+    with open(INPUT, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=1)
+    print("merged %d new tweets (%d total)" % (added, len(data["tweets"])))
 
 
 def linkify(text):
@@ -62,44 +118,24 @@ def tweet_card(t):
     return "\n".join(card)
 
 
-def build():
-    with open(INPUT, encoding="utf-8") as f:
-        data = json.load(f)
-    tweets = [t for t in data.get("tweets", [])
-              if t.get("time", "") >= CUTOFF and t.get("url")]
-    tweets.sort(key=lambda t: t["time"], reverse=True)
-
-    profile = data
-    name = htmlmod.escape(profile.get("name", "@AVGO_X_"))
-    handle = htmlmod.escape(profile.get("handle", "@AVGO_X_"))
-    bio = htmlmod.escape(profile.get("bio", ""))
-    followers = htmlmod.escape(str(profile.get("followers", "–")))
-    following = htmlmod.escape(str(profile.get("following", "–")))
-    avatar = htmlmod.escape(profile.get("avatar", "assets/x-avatar.jpg"))
-    profile_url = htmlmod.escape(profile.get("profile_url", "https://x.com/AVGO_X_"),
-                                 quote=True)
-    updated = htmlmod.escape(data.get("updated", ""))
-
-    cards = "\n".join(tweet_card(t) for t in tweets)
-
-    page = """<!DOCTYPE html>
+PAGE_TEMPLATE = """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>我的推文 | AVGO 每日追踪</title>
+  <title>我的推文%(title_suffix)s | AVGO 每日追踪</title>
   <meta name="description" content="$AVGO Observer（@AVGO_X_）在 X 上的全部推文：原创、引用、回复，按时间倒序展示。">
-  <link rel="canonical" href="%s/tweets">
+  <link rel="canonical" href="%(page_url)s">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="AVGO 每日追踪">
-  <meta property="og:title" content="我的推文 | AVGO 每日追踪">
+  <meta property="og:title" content="我的推文%(title_suffix)s | AVGO 每日追踪">
   <meta property="og:description" content="$AVGO Observer（@AVGO_X_）在 X 上的全部推文：原创、引用、回复，按时间倒序。">
-  <meta property="og:url" content="%s/tweets">
-  <meta property="og:image" content="%s/assets/avgo-emblem.webp">
+  <meta property="og:url" content="%(page_url)s">
+  <meta property="og:image" content="%(site_url)s/assets/avgo-emblem.webp">
   <meta name="twitter:card" content="summary">
   <link rel="icon" href="favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="styles.css?v=%s">
+  <link rel="stylesheet" href="styles.css?v=%(css_ver)s">
   <script>(function(){try{var m=localStorage.getItem("avgo-theme")||"system";var t=(m==="dark"||m==="light")?m:((window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches)?"dark":"light");document.documentElement.setAttribute("data-theme",t);document.documentElement.setAttribute("data-theme-mode",m);}catch(e){}})();</script>
   <style>
     .profile-card{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
@@ -120,6 +156,9 @@ def build():
     .tweet-text{margin:0 0 8px;line-height:1.65;word-break:break-word}
     .tweet-ref{font-size:.88em;color:var(--muted,#888);margin:0 0 6px}
     .tweet-link{margin:0;font-size:.88em}
+    .pager{display:flex;justify-content:center;align-items:center;gap:20px;margin:26px 0 10px;font-size:.95em}
+    .pager a{font-weight:700}
+    .pager span{color:var(--muted,#888)}
   </style>
 </head>
 <body>
@@ -139,8 +178,6 @@ def build():
     </button>
     <nav class="nav" id="site-nav">
       <a href="./">← 返回首页</a>
-      <a href="#profile">𝕏 主页</a>
-      <a href="#tweets">推文列表</a>
     </nav>
   </div>
 </header>
@@ -151,40 +188,82 @@ def build():
 
   <div class="section-head">
     <h2>𝕏 我的推文</h2>
-    <span class="date-tag">更新于 %s · 共 %d 条（2026-09-28 起）</span>
+    <span class="date-tag">更新于 %(updated)s · 共 %(total)d 条（2026-09-28 起）· 第 %(page)d 页 / 共 %(npages)d 页</span>
   </div>
 
-  <section id="profile">
-    <article class="brief-card profile-card">
-      <img class="profile-avatar" src="%s" alt="%s">
-      <div class="profile-info">
-        <p class="profile-name">%s</p>
-        <p class="profile-handle">%s</p>
-        <p class="profile-bio">%s</p>
-        <div class="profile-stats"><span><b>%s</b> 关注者</span><span><b>%s</b> 正在关注</span></div>
-      </div>
-      <a class="btn" href="%s" target="_blank" rel="noopener">𝕏 关注我</a>
-    </article>
-  </section>
-
+%(profile)s
   <section id="tweets">
-%s
+%(cards)s
+%(pager)s
   </section>
 
 </main>
 
-<script src="app.js?v=%s" defer></script>
+<script src="app.js?v=%(css_ver)s" defer></script>
 </body>
 </html>
-""" % (SITE_URL, SITE_URL, SITE_URL, CSS_VER,
-        updated, len(tweets),
-        avatar, name, name, handle, bio, followers, following,
-        profile_url, cards, CSS_VER)
+"""
 
-    with open(OUT, "w", encoding="utf-8") as f:
-        f.write(page)
-    print("wrote %s (%d tweets)" % (OUT, len(tweets)))
+PROFILE_HTML = """
+  <section id="profile">
+    <article class="brief-card profile-card">
+      <img class="profile-avatar" src="%(avatar)s" alt="%(name)s">
+      <div class="profile-info">
+        <p class="profile-name">%(name)s</p>
+        <p class="profile-handle">%(handle)s</p>
+        <p class="profile-bio">%(bio)s</p>
+        <div class="profile-stats"><span><b>%(followers)s</b> 关注者</span><span><b>%(following)s</b> 正在关注</span></div>
+      </div>
+      <a class="btn" href="%(profile_url)s" target="_blank" rel="noopener">𝕏 关注我</a>
+    </article>
+  </section>
+"""
+
+
+def build():
+    with open(INPUT, encoding="utf-8") as f:
+        data = json.load(f)
+    tweets = [t for t in data.get("tweets", [])
+              if t.get("time", "") >= CUTOFF and t.get("url")]
+    tweets.sort(key=lambda t: t["time"], reverse=True)
+
+    profile = data
+    ctx = {
+        "site_url": SITE_URL,
+        "css_ver": CSS_VER,
+        "updated": htmlmod.escape(data.get("updated", "")),
+        "total": len(tweets),
+        "avatar": htmlmod.escape(profile.get("avatar", "assets/x-avatar.jpg")),
+        "name": htmlmod.escape(profile.get("name", "@AVGO_X_")),
+        "handle": htmlmod.escape(profile.get("handle", "@AVGO_X_")),
+        "bio": htmlmod.escape(profile.get("bio", "")),
+        "followers": htmlmod.escape(str(profile.get("followers", "–"))),
+        "following": htmlmod.escape(str(profile.get("following", "–"))),
+        "profile_url": htmlmod.escape(
+            profile.get("profile_url", "https://x.com/AVGO_X_"), quote=True),
+    }
+
+    pages = [tweets[i:i + PER_PAGE] for i in range(0, len(tweets), PER_PAGE)] or [[]]
+    n = len(pages)
+    for i, chunk in enumerate(pages):
+        ctx.update({
+            "title_suffix": "" if i == 0 else " · 第 %d 页" % (i + 1),
+            "page_url": page_url(i),
+            "page": i + 1,
+            "npages": n,
+            "profile": PROFILE_HTML % ctx if i == 0 else "",
+            "cards": "\n".join(tweet_card(t) for t in chunk),
+            "pager": pager_html(i, n) if n > 1 else "",
+        })
+        out = os.path.join(SITE, page_filename(i))
+        with open(out, "w", encoding="utf-8") as f:
+            f.write(PAGE_TEMPLATE % ctx)
+        print("wrote %s (%d tweets)" % (out, len(chunk)))
+    refresh_sitemap()
 
 
 if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "--merge":
+        merge_new(os.path.join(SITE, "tools", "input", "tweets_new.json"))
     build()

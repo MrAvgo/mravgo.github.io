@@ -495,11 +495,14 @@ def write_sitemap():
                   "    <lastmod>%s</lastmod>" % d,
                   "    <changefreq>monthly</changefreq>",
                   "  </url>"]
+    import glob as _glob
+    for _tp in sorted(_glob.glob(os.path.join(SITE, "tweets*.html"))):
+        _tname = os.path.basename(_tp)[:-len(".html")]
+        lines += ["  <url>",
+                  "    <loc>%s/%s</loc>" % (SITE_URL, _tname),
+                  "    <changefreq>daily</changefreq>",
+                  "  </url>"]
     lines += ["  <url>",
-              "    <loc>%s/tweets</loc>" % SITE_URL,
-              "    <changefreq>daily</changefreq>",
-              "  </url>",
-              "  <url>",
               "    <loc>%s/articles/fy26q3-earnings</loc>" % SITE_URL,
               "    <lastmod>2026-09-03</lastmod>",
               "    <changefreq>monthly</changefreq>",
