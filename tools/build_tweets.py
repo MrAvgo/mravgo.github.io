@@ -184,7 +184,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 
 <main class="wrap">
 
-  <a class="back-link" href="./">← 返回首页</a>
+  <a class="back-link" href="%(back_href)s">← %(back_text)s</a>
 
   <div class="section-head">
     <h2>𝕏 我的推文</h2>
@@ -254,6 +254,8 @@ def build():
             "profile": PROFILE_HTML % ctx if i == 0 else "",
             "cards": "\n".join(tweet_card(t) for t in chunk),
             "pager": pager_html(i, n) if n > 1 else "",
+            "back_href": "./" if i == 0 else "tweets",
+            "back_text": "返回首页" if i == 0 else "返回我的推文首页",
         })
         out = os.path.join(SITE, page_filename(i))
         with open(out, "w", encoding="utf-8") as f:
