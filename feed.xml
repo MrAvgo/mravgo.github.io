@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-13：周二晨报（周一收 $354.73，-1.9%）· Hock Tan：资本是 AI 扩张最大约束 · $42B Anthropic 贷款细节披露 · CPO 整机落地</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-13</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周一（10/12）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），常规时段约 &lt;span class=&quot;num&quot;&gt;15.3M&lt;/span&gt; 股成交、明显低于均值；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）略下方，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（stockanalysis.com，10/12 收盘）；Hock Tan 新加坡表态（路透 10/12）：“The biggest constraint is capital”——AI 扩张最大瓶颈是资金而非芯片；需求至少到 &lt;span class=&quot;num&quot;&gt;2029–2030&lt;/span&gt; 年超供给；“AI 投资人像赌场赌徒”言论点燃情绪，AVGO 当日 &lt;span class=&quot;num&quot;&gt;-1.9%&lt;/span&gt;、SOX 跌 &lt;span class=&quot;num&quot;&gt;2.7%&lt;/span&gt;。；博通 AI 融资蓝图添新细节：Anthropic IPO 文件披露博通同意出借最高 &lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt;（约覆盖 Anthropic &lt;span class=&quot;num&quot;&gt;$125.2B&lt;/span&gt; 五年期 TPU 算力租赁承诺三分之一）；另为与 OpenAI 共研芯片安排 &lt;span class=&quot;num&quot;&gt;$50B+&lt;/span&gt; 融资（WSJ）、投行团筹集 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt;（彭博）。（TheStreet 10/12 整合）</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-12：周一晨报（上周五收 $361.54，+0.4%）· OCP 峰会今日开幕 · 博通 CDS 创纪录 136bp 信用担忧升温 · 48 小时无新评级动作</title>
       <link>https://avgo.pages.dev/briefs/2026-10-12</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-12</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
       <description>周三（9/23）收盘 &lt;span class=&quot;num&quot;&gt;$354.99&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$9.55&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-2.62%&lt;/span&gt;），盘中区间 &lt;span class=&quot;num&quot;&gt;$354.01 – $362.90&lt;/span&gt;，结束此前两连阳。（Finnhub）；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+43%&lt;/span&gt; 上行空间；过去一周无新的评级调整。；今日最大扰动：FT 报道中国国资委正审查国有数据中心部署的博通交换机（部分设施份额或高达 &lt;span class=&quot;num&quot;&gt;90%&lt;/span&gt;），或面临非正式去美化指引。（FXLeaders 9/23 引述 FT）</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-23：收盘 $364.54（+0.5%）· 两连阳站上 20 日线</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-23</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
-      <description>周二（9/22）收盘 &lt;span class=&quot;num&quot;&gt;$364.54&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.52%&lt;/span&gt;），连续第二个交易日上涨，盘中区间 &lt;span class=&quot;num&quot;&gt;$359.29 – $366.55&lt;/span&gt;（Finnhub）；分析师综合评级 Moderate Buy（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+40%&lt;/span&gt; 上行空间；9/21 Bernstein 重申 Buy、目标价 &lt;span class=&quot;num&quot;&gt;$575&lt;/span&gt;；社交平台热议 AVGO：散户继续逢低看多（详见💬社交平台头条）</description>
     </item>
   </channel>
 </rss>
