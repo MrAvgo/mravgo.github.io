@@ -1,12 +1,44 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": "45",
- "following": "68",
+ "followers": "46",
+ "following": "70",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@StonkValue",
+   "ref_url": "https://x.com/StonkValue/status/2110187269797888343",
+   "text": "Useful framing, and AVGO at #2 on the 2026 semiconductor beneficiary list is the part that matters, custom silicon and networking keep absorbing the spend. I'd just heavily discount the 400%-by-2030 call; five-year AI capex forecasts have a habit of not surviving the next cycle.",
+   "time": "2026-10-14 19:19",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2110329625696219561"
+  },
+  {
+   "ref_author": "@BenBajarin",
+   "ref_url": "https://x.com/BenBajarin/status/2110046431990120535",
+   "text": "Exactly the right way to frame it. The tape-out vs model-evolution mismatch is why custom silicon keeps concentrating where workloads are the most stable and massive, and why that design-win pipeline is so sticky. GPUs keep the experimentation layer.",
+   "time": "2026-10-14 09:59",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2110188681407385897"
+  },
+  {
+   "ref_author": "@WealthCode99978",
+   "ref_url": "https://x.com/WealthCode99978/status/2110141106948071924",
+   "text": "@WealthCode99978 AMAT 愿意砸 50 亿美元建 EPIC，说明设备端也在押注下一轮先进制程和封装升级。博通定制 XPU 和网络芯片两条线都要吃工艺红利，能进这个圈子是好事。",
+   "time": "2026-10-14 09:26",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2110180500019331298"
+  },
+  {
+   "ref_author": null,
+   "ref_url": null,
+   "text": "博通昨天发布了 VMware HyperArmor：给 ESX hypervisor 做虚拟补丁，零日漏洞不用等停机窗口也能先堵住，不用重启主机、不用装 agent。TechTarget 说预计 2027 财年 Q1（11 月起）出货。AI 把挖漏洞的速度提上去了，补丁节奏永远慢一拍，VCF 的安全卖点又多了一个。$AVGO",
+   "time": "2026-10-14 08:52",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2110171778412605529"
+  },
   {
    "ref_author": "@Aaronwei3n",
    "ref_url": "https://x.com/Aaronwei3n/status/2109900965457567950",
@@ -400,5 +432,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-13"
+ "updated": "2026-10-14"
 }
