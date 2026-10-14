@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-14：周三晨报（周二收 $357.31，+0.7%）· VMware HyperArmor 发布 · Melius 喊 $610：Google 2027 capex +75% · 马斯克回应“赌场”论</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-14</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周二（10/13）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;17.2M&lt;/span&gt; 股、低于均值；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）附近，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（finnhub / MarketBeat，10/13 收盘）；博通官方发布 &lt;strong&gt;VMware HyperArmor&lt;/strong&gt;（GlobeNewswire 10/13）：ESX hypervisor 主动零日防护层，无停机、无 in-guest agent，VCF 安全捆绑再加码。；Melius Research（Ben Reitzes，MarketWatch 10/13）：预计 Google 2027 年 AI 基建 capex 达 &lt;span class=&quot;num&quot;&gt;$352B&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+75%&lt;/span&gt;），AVGO 目标价 &lt;span class=&quot;num&quot;&gt;$610&lt;/span&gt;（隐含 &lt;span class=&quot;num&quot;&gt;+70%&lt;/span&gt; 以上）；认为 TPU 供应商分散风险已被约 &lt;span class=&quot;num&quot;&gt;-28%&lt;/span&gt; 的跌幅消化。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-13：周二晨报（周一收 $354.73，-1.9%）· Hock Tan：资本是 AI 扩张最大约束 · $42B Anthropic 贷款细节披露 · CPO 整机落地</title>
       <link>https://avgo.pages.dev/briefs/2026-10-13</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-13</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
       <description>周四（9/24）收盘 &lt;span class=&quot;num&quot;&gt;$350.36&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$4.63&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-1.30%&lt;/span&gt;），盘中区间 &lt;span class=&quot;num&quot;&gt;$346.89 – $351.44&lt;/span&gt;，连续两个交易日下跌，跑输大盘（S&amp;P 500 &lt;span class=&quot;num&quot;&gt;-0.02%&lt;/span&gt;）。（MarketWatch、Finnhub）；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+45%&lt;/span&gt; 上行空间；近两周无新的评级调整（Bernstein 9/21 重申 Buy，维持目标价 &lt;span class=&quot;num&quot;&gt;$575&lt;/span&gt;）。；今日主要扰动延续：Reuters 转引 FT（9/23）——中国国资委正调查国有数据中心部署的博通交换芯片（个别设施占比或高达 &lt;span class=&quot;num&quot;&gt;90%&lt;/span&gt;），或发布非正式指引要求削减；地缘政治风险余波未散。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-24：收盘 $354.99（-2.6%）· 中国审查博通交换机消息拖累大跌</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-24</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
-      <description>周三（9/23）收盘 &lt;span class=&quot;num&quot;&gt;$354.99&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$9.55&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-2.62%&lt;/span&gt;），盘中区间 &lt;span class=&quot;num&quot;&gt;$354.01 – $362.90&lt;/span&gt;，结束此前两连阳。（Finnhub）；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat，33 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$509.04&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+43%&lt;/span&gt; 上行空间；过去一周无新的评级调整。；今日最大扰动：FT 报道中国国资委正审查国有数据中心部署的博通交换机（部分设施份额或高达 &lt;span class=&quot;num&quot;&gt;90%&lt;/span&gt;），或面临非正式去美化指引。（FXLeaders 9/23 引述 FT）</description>
     </item>
   </channel>
 </rss>
