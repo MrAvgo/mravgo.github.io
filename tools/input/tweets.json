@@ -2,11 +2,35 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": "46",
- "following": "70",
+ "following": "71",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@aguti00",
+   "ref_url": "https://x.com/aguti00/status/2110474218571747518",
+   "text": "The +221% AI chip growth against a 46% FCF margin is a rare combo. Bear case at $210 looks like the honest one. Customer concentration doesn't show up in a DCF until it does. Cautious here too.",
+   "time": "2026-10-15 09:35",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2110545106663100698"
+  },
+  {
+   "ref_author": null,
+   "ref_url": null,
+   "text": "「Schulz 扒了下 CPO 供应链：TH6-Davisson 一颗芯片集成 16 颗 6.4T 硅光引擎，光引擎走台积电 COUPE 代工。再看 Micas 那三款 TH6 交换机（CPO 机型 2027 年 Q1 量产），CPO 从 demo 到整机出货，链条开始对上了。封装代工先吃肉，博通吃的是交换芯片的份额。$AVGO」",
+   "time": "2026-10-15 09:27",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2110542926166311224"
+  },
+  {
+   "ref_author": "@youngstockuser",
+   "ref_url": "https://x.com/youngstockuser/status/2110502409437143344",
+   "text": "@youngstockuser 补充一点 AVGO 的数据：10/14 收盘 $346.25，-3.1%，已经跌破 20/50/200 日均线了。高盛 10/9 还重申 Buy，目标价 $540，分析师平均目标价 $527.20。Hock Tan 在新加坡那句“AI 扩张最大瓶颈是资金而非芯片”估计还在发酵。谨慎看多吧，等止跌信号再动手更稳。",
+   "time": "2026-10-15 09:08",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2110538282966945854"
+  },
   {
    "ref_author": "@StonkValue",
    "ref_url": "https://x.com/StonkValue/status/2110187269797888343",
@@ -432,5 +456,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-14"
+ "updated": "2026-10-15"
 }
