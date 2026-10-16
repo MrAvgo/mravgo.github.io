@@ -8,6 +8,30 @@
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
   {
+   "ref_author": "@glocalinvestor",
+   "ref_url": "https://x.com/glocalinvestor/status/2111027886639419569",
+   "text": "ABF shortage is a real constraint on XPU ramps — Broadcom's larger, higher-layer-count packages sit right in it. Priced in partly: $344.33 close, below the 20-day MA ($356.84), RSI 41.4. Street still Moderate Buy, avg target $527.20. Supply catch-up matters more than demand here.",
+   "time": "2026-10-16 19:45",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2111061031812485219"
+  },
+  {
+   "ref_author": "@KrisPatel99",
+   "ref_url": "https://x.com/KrisPatel99/status/2110751749623451876",
+   "text": "Efficiency per dollar is Broadcom's whole pitch, and hyperscalers keep spending because the TCO math works. Stock's down ~30% from its high while the AI revenue story keeps compounding. That gap is what I'm watching.",
+   "time": "2026-10-16 09:49",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2110910869282439528"
+  },
+  {
+   "ref_author": null,
+   "ref_url": null,
+   "text": "据 Bloomberg 爆料，字节跳动接近与联发科达成定制 AI 芯片协议，联发科凭给 Google 做 TPU 的经验正式杀入数据中心定制芯片市场。短期对博通直接冲击不大——这是中国市场+出口管制下的替代链，博通产能早被美系大客户排满。长期看，分食者越来越多，博通\"独家供应商\"的叙事溢价得打折了。$AVGO",
+   "time": "2026-10-16 08:46",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2110895031796334658"
+  },
+  {
    "ref_author": "@aguti00",
    "ref_url": "https://x.com/aguti00/status/2110474218571747518",
    "text": "The +221% AI chip growth against a 46% FCF margin is a rare combo. Bear case at $210 looks like the honest one. Customer concentration doesn't show up in a DCF until it does. Cautious here too.",
@@ -456,5 +480,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-15"
+ "updated": "2026-10-16"
 }
