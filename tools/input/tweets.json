@@ -2,11 +2,51 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": "46",
- "following": "71",
+ "following": "73",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@LoanNassibou",
+   "ref_url": "https://x.com/LoanNassibou/status/2111394592423551372",
+   "text": "Agree we're still in buildout, not the final peak. AVGO's AI chip sales were up 221% last print, which fits the acceleration leg of your chart. The risk isn't demand vanishing, it's digestion. Friday's -4.5% to $328.75 suggests the market is already pricing some of that in.",
+   "time": "2026-10-17 19:38",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2111421704467587353"
+  },
+  {
+   "ref_author": "@sssjeffpu",
+   "ref_url": "https://x.com/sssjeffpu/status/2111243490516664448",
+   "text": "OCP notes worth reading: Broadcom + OpenAI advanced OCI-MSA multi-rack optical scale-up. Copper for tensor parallelism, optics for expert parallelism. GEN2 400G in 2027, GEN3 800G early 2030s. Optical content per rack keeps climbing. $AVGO",
+   "time": "2026-10-17 18:40",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2111407099464790340"
+  },
+  {
+   "ref_author": "@GlobalMktObserv",
+   "ref_url": "https://x.com/GlobalMktObserv/status/2111141120088367373",
+   "text": "AI infra bonds breaking below par. That's the Gartner $3.5T impairment warning showing up in market prices. For $AVGO the question is demand, not credit: Fri close $328.75 (-4.5%), RSI 34.8, street Moderate Buy with avg target $527. Capex commitments are the line to watch.",
+   "time": "2026-10-17 10:01",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2111276481678922192"
+  },
+  {
+   "ref_author": "@MarcosMillaYT",
+   "ref_url": "https://x.com/MarcosMillaYT/status/2111220638878777677",
+   "text": "Down 17.5% in 6 months and the $30+ EPS guide still stands. That's the whole bull case in one line. Street agrees: Moderate Buy, avg target $527 vs $328.75 close. Real risk isn't the number, it's the financing narrative around Anthropic hanging over the multiple.",
+   "time": "2026-10-17 09:07",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2111262820826521898"
+  },
+  {
+   "ref_author": null,
+   "ref_url": null,
+   "text": "BofA 的 Vivek Arya 给 AI 股票估值争议加了句狠话：NVDA、AVGO、MU 是按\"互联网泡沫破裂后 Cisco 的倍数\"定价——\"为没破裂的周期支付破裂后的倍数\"。\nAVGO：周五收 328.75（-4.5%），距高点 -34%，RSI 34.8；街上仍是 Moderate Buy，均价 527。AI 芯片 +221% 是财报里的数。$AVGO",
+   "time": "2026-10-17 09:01",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2111261207550406869"
+  },
   {
    "ref_author": "@glocalinvestor",
    "ref_url": "https://x.com/glocalinvestor/status/2111027886639419569",
@@ -480,5 +520,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-16"
+ "updated": "2026-10-17"
 }
