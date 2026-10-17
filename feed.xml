@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-17：周六晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Micas 发布 TH6 三平台 · Broadcom 拒绝 OKX-ICE 代币化 · Gartner 悲观报告</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-17</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.5M&lt;/span&gt; 股放量；市值约 &lt;span class=&quot;num&quot;&gt;$1.65T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-34%&lt;/span&gt;。；Micas Networks 发布 3 款基于博通 Tomahawk 6 的 102.4T 开放式交换平台（含 Davisson CPO，10/12 宣布），又一 TH6 下游 design win。；Broadcom 与 CoreWeave 等 9 家发行人拒绝 OKX×ICE 的代币化股票交易场所（10/16）；Gartner 10/14 悲观报告（$7T 支出 vs $3.6T 收入）加剧 AI 板块融资担忧。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-16：周五晨报（周四收 $344.33，-0.6%）· 字节×联发科定制芯片谈判 · Celestica CPO 交换机验证 · 评级维持 Moderate Buy</title>
       <link>https://avgo.pages.dev/briefs/2026-10-16</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-16</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
       <description>周五（9/25）收盘 &lt;span class=&quot;num&quot;&gt;$352.81&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+$2.45&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;+0.70%&lt;/span&gt;），重返 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 上方；盘后延续涨至 &lt;span class=&quot;num&quot;&gt;$353.65&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.24%&lt;/span&gt;，美东 9/25 20:00）。52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-28.7%&lt;/span&gt;，YTD 仅 &lt;span class=&quot;num&quot;&gt;+1.94%&lt;/span&gt;。（MarketBeat 9/28 实查、Finnhub）；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat 今日实查 41 家：1 家 Strong Buy、37 家 Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+49.4%&lt;/span&gt; 上行空间；最高目标价 &lt;span class=&quot;num&quot;&gt;$715&lt;/span&gt;（BNP Paribas Exane，9/4 上调）；近两周最新动作为 Bernstein 9/21 重申 Buy。；周末媒体复盘 Q3：FY2026 AI 半导体收入指引上调至 &lt;span class=&quot;num&quot;&gt;$58B&lt;/span&gt;（原 &lt;span class=&quot;num&quot;&gt;$56B&lt;/span&gt;），FY27 &lt;span class=&quot;num&quot;&gt;$115B&lt;/span&gt;、FY28 &lt;span class=&quot;num&quot;&gt;$230B&lt;/span&gt; 目标重申；Q4 指引 &lt;span class=&quot;num&quot;&gt;$34.8B&lt;/span&gt; 略低于部分分析师预期导致财报后 sell-the-news。股价较 6 月高点仍低约 &lt;span class=&quot;num&quot;&gt;29%&lt;/span&gt;。（TradingView 9/27）</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-27：周五收盘 $352.81（+0.7%）· 联创 Samueli 减持约 $2.5 亿，中国审查持续发酵</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-27</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-27</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
-      <description>周五（9/25）收盘 &lt;span class=&quot;num&quot;&gt;$352.81&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+$2.45&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;+0.70%&lt;/span&gt;），终结两连跌重返 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 上方；盘后延续涨至 &lt;span class=&quot;num&quot;&gt;$353.65&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.24%&lt;/span&gt;，美东 9/25 20:00）。52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距高点约 &lt;span class=&quot;num&quot;&gt;-28.7%&lt;/span&gt;。（MarketBeat、Finnhub）；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat 实查 41 家：1 家 Strong Buy、37 家 Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，隐含约 &lt;span class=&quot;num&quot;&gt;+49.4%&lt;/span&gt; 上行空间；最高目标价 &lt;span class=&quot;num&quot;&gt;$715&lt;/span&gt;（BNP Paribas Exane，9/4 上调）；近两周最新动作为 Bernstein 9/21 重申 Buy。；联合创始人兼董事长 Henry Samueli 9/23 通过 10b5-1 预设计划减持约 &lt;span class=&quot;num&quot;&gt;70.2 万&lt;/span&gt;股（约 &lt;span class=&quot;num&quot;&gt;$2.5 亿&lt;/span&gt;，另附 72,474 股赠与），仍持有 &lt;span class=&quot;num&quot;&gt;3,600 万+&lt;/span&gt; 股。规则式减持、信号偏温和，但单日近 &lt;span class=&quot;num&quot;&gt;$2.5 亿&lt;/span&gt;规模在社媒引发热议。（SEC Form 4 / insidertrades.com，9/25–26 披露）</description>
     </item>
   </channel>
 </rss>
