@@ -1,9 +1,9 @@
 {
   "archive_title": "周日晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Anthropic IPO 推进估值或降至 1.5T · 半导体关税扩大讨论",
   "key_points": [
-    "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），成交量约 <span class=\"num\">29.8M</span> 股放量；市值约 <span class=\"num\">$1.56T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>，为 4 月 8 日以来最低收盘。",
+    "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），成交量约 <span class=\"num\">29.8M</span> 股放量；市值约 <span class=\"num\">$1.62T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>。",
     "Anthropic IPO 推进（10/14–10/16）：10/14 旧金山投资者日披露 Q3 营收 <span class=\"num\">168 亿美元</span>（+45%）、调整后已盈利；Reuters 10/15 称部分投资者讨论估值降至约 <span class=\"num\">1.5 万亿美元</span>（此前预期 <span class=\"num\">2 万亿</span>）；拟 11/9 当周启动路演、感恩节前上市——博通未来最大 XPU 客户的上市进展直接影响其 <span class=\"num\">600 亿美元</span>融资包的信用风险。",
-    "关税动向：Politico 经 DCD 报道特朗普政府考虑将半导体关税扩大至数据中心服务器等成品（早期阶段，白宫否认）；CCIA 等 5 家科技行业协会 10/16 致信白宫称 25% 232 关税将使数据中心建设成本增加 <span class=\"num\">15.6%</span>。",
+    "关税动向：特朗普政府考虑将半导体关税扩大至数据中心服务器等成品的说法源自 Politico 8/27 旧报道（DCD 10/15 转述，白宫 8 月已否认）；10/16 的新进展是 CCIA 等 5 家科技行业协会致信白宫，称 25% 232 关税将使数据中心建设成本增加 <span class=\"num\">15.6%</span>。",
     "分析师评级：MarketBeat 维持 <strong>Moderate Buy</strong>（41 家：1 强买 / 37 买 / 3 持有），平均目标价 <span class=\"num\">$527.20</span>（隐含涨幅约 <span class=\"num\">+60%</span>）；48 小时内无正式评级动作。",
     "安全事件：X 认证账号 10/17 披露博通 Wi-Fi 芯片漏洞——近距离无需密码即可在路由器上执行代码，比利时约 <span class=\"num\">150 万</span>台路由器暴露且未修复（漏洞可追溯至 2010 年，博通拒绝分配 CVE 编号）；属消费级宽带芯片线，与 AI 主业关联有限，X 帖转述待官方确认。"
   ],
@@ -55,16 +55,16 @@
     {
       "items": [
         "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$338.48</span>、高 <span class=\"num\">$339.59</span>、低 <span class=\"num\">$328.58</span>。（Finnhub / CNBC，10/16 收盘）",
-        "成交量约 <span class=\"num\">29.8M</span> 股，较日均约 <span class=\"num\">25M</span> 股放量约 <span class=\"num\">18%</span>；市值约 <span class=\"num\">$1.56T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>，为 4 月 8 日以来最低收盘。（Finnhub / tradingkey / KuCoin，10/16–10/17）",
+        "成交量约 <span class=\"num\">29.8M</span> 股，较日均约 <span class=\"num\">25M</span> 股放量约 <span class=\"num\">18%</span>；市值约 <span class=\"num\">$1.62T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>。（Finnhub / tradingkey / KuCoin，10/16–10/17）",
         "事件提醒：下次财报预计 12 月上旬盘后（预估日期，公司未确认）；季度分红 <span class=\"num\">$0.65</span>/股已于 9/30 派发，无已宣布的未来分红。",
-        "市场背景：9 月 CPI 3.7% 超预期、加息担忧延续；半导体关税扩大讨论（Politico 经 DCD，白宫否认）；X 站趋势话题延续「AI 股票买家逢跌吸纳」叙事。（DCD / X 趋势，10/16–10/17）"
+        "市场背景：9 月 CPI 3.7% 超预期、加息担忧延续；半导体关税旧闻回暖（Politico 8/27 报道经 DCD 10/15 转述，白宫 8 月已否认）+ CCIA 10/16 致信白宫游说；X 站趋势话题延续「AI 股票买家逢跌吸纳」叙事。（DCD / X 趋势，10/16–10/17）"
       ],
       "title": "📰 行情速览"
     },
     {
       "items": [
         "Anthropic IPO 推进的含义：Q3 营收 <span class=\"num\">168 亿美元</span>（+45%，增速较 Q2 放缓）且调整后已盈利——这是博通 <span class=\"num\">600 亿美元</span>融资包交易对手信用状况的关键变量，IPO 顺利落地意味着博通对其的担保/贷款敞口风险下降，偏利好；但估值预期从约 <span class=\"num\">2 万亿</span>下调至约 <span class=\"num\">1.5 万亿</span>的讨论（Reuters 10/15），反映市场对 AI lab 增长持续性的定价趋于谨慎，与本周「谁来出钱」融资辩论是同一逻辑的两面。",
-        "关税讨论的含义：若数据中心服务器被纳入 232 关税范围，超大规模客户 capex 成本直接上升，间接压制 AI 基建链的订单节奏与交付利润——对博通是潜在利空；但目前仅处早期讨论阶段、白宫公开否认，中性偏谨慎观察即可，CCIA 的 <span class=\"num\">900 亿美元</span>/年 GDP 损失测算说明行业游说力度。",
+        "关税讨论的含义：若数据中心服务器被纳入 232 关税范围，超大规模客户 capex 成本直接上升，间接压制 AI 基建链的订单节奏与交付利润——对博通是潜在利空；但该讨论源自 8 月旧报道、白宫 8 月已公开否认，目前仅中性偏谨慎观察即可，10/16 CCIA 的 <span class=\"num\">900 亿美元</span>/年 GDP 损失测算说明行业游说力度。",
         "周末公司层面无新品发布、订单或高管表态的新动态；基板厂盯线今晨核验无实质进展（昨日简报已详述，不重复）。"
       ],
       "title": "🏢 基本面"
@@ -102,7 +102,7 @@
     {
       "items": [
         "Anthropic IPO 推进（10/14–10/16）：10/14 旧金山投资者日披露 Q3 营收 <span class=\"num\">168 亿美元</span>（同比 +45%，增速较 Q2 放缓）、调整后已实现盈利；Reuters 10/15 称部分投资者讨论估值降至约 <span class=\"num\">1.5 万亿美元</span>（此前预期约 <span class=\"num\">2 万亿</span>）；拟 11/9 当周启动正式路演、感恩节（11/26）前上市；OpenAI 则推迟 IPO 至 2027，另寻求 <span class=\"num\">300 亿美元</span>融资、估值约 <span class=\"num\">1.4 万亿</span>——Anthropic 是博通未来最大 XPU 客户，其上市与 <span class=\"num\">600 亿美元</span>芯片融资包直接相关。（Reuters / Bloomberg / FT 经多家转述交叉验证）",
-        "半导体关税扩大讨论（10/15–10/16）：Politico 报道特朗普政府考虑将半导体关税扩大至含芯片的成品（笔记本、游戏机、数据中心服务器），仍处早期讨论阶段，白宫发言人斥为“baseless speculation”；CCIA 等 5 家科技行业协会 10/16 致信白宫，测算 25% 的 232 半导体关税将使数据中心建设成本增加 <span class=\"num\">15.6%</span>、每年造成约 <span class=\"num\">900 亿美元</span> GDP 损失。（DCD / CCIA 官方信函）",
+        "半导体关税讨论（8/27 旧闻回暖 + 10/16 新进展）：特朗普政府考虑将半导体关税扩大至含芯片的成品（笔记本、游戏机、数据中心服务器）的说法源自 Politico 8/27 报道（DCD 10/15 转述），仍处早期讨论阶段，白宫 8 月已公开斥为“baseless speculation”（8 月旧回应，非 10 月新否认）；10/16 的新进展是 CCIA 等 5 家科技行业协会致信白宫，测算 25% 的 232 半导体关税将使数据中心建设成本增加 <span class=\"num\">15.6%</span>、每年造成约 <span class=\"num\">900 亿美元</span> GDP 损失。（DCD / CCIA 官方信函）",
         "博通 Wi-Fi 芯片漏洞披露（X @IntCyberDigest 10/17 转述安全研究员 Quentin Kaiser，162.1K 浏览）：近距离无需密码即可在路由器上执行代码，在 Proximus/Orange Belgium/VOO 路由器上复现，比利时约 <span class=\"num\">150 万</span>台暴露且未修复；漏洞可追溯至 2010 年，博通拒绝分配 CVE 编号。业务影响：属消费级宽带/路由器芯片线，与 AI 芯片主业关联有限；单源 X 帖转述，待博通官方确认。（<a href=\"https://x.com/IntCyberDigest/status/2111344960880742537\" target=\"_blank\" rel=\"noopener\">X @IntCyberDigest</a>）"
       ],
       "title": "👀 今日关注"
