@@ -1,0 +1,110 @@
+{
+  "archive_title": "周日晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Anthropic IPO 推进估值或降至 1.5T · 半导体关税扩大讨论",
+  "key_points": [
+    "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），成交量约 <span class=\"num\">29.8M</span> 股放量；市值约 <span class=\"num\">$1.56T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>，为 4 月 8 日以来最低收盘。",
+    "Anthropic IPO 推进（10/14–10/16）：10/14 旧金山投资者日披露 Q3 营收 <span class=\"num\">168 亿美元</span>（+45%）、调整后已盈利；Reuters 10/15 称部分投资者讨论估值降至约 <span class=\"num\">1.5 万亿美元</span>（此前预期 <span class=\"num\">2 万亿</span>）；拟 11/9 当周启动路演、感恩节前上市——博通未来最大 XPU 客户的上市进展直接影响其 <span class=\"num\">600 亿美元</span>融资包的信用风险。",
+    "关税动向：Politico 经 DCD 报道特朗普政府考虑将半导体关税扩大至数据中心服务器等成品（早期阶段，白宫否认）；CCIA 等 5 家科技行业协会 10/16 致信白宫称 25% 232 关税将使数据中心建设成本增加 <span class=\"num\">15.6%</span>。",
+    "分析师评级：MarketBeat 维持 <strong>Moderate Buy</strong>（41 家：1 强买 / 37 买 / 3 持有），平均目标价 <span class=\"num\">$527.20</span>（隐含涨幅约 <span class=\"num\">+60%</span>）；48 小时内无正式评级动作。"
+  ],
+  "rating": "Moderate Buy",
+  "rating_class": "down",
+  "ref_links": [
+    {
+      "title": "Finnhub：AVGO 行情数据",
+      "url": "https://finnhub.io/?q=%22AVGO%22"
+    },
+    {
+      "title": "AI Stock Wire：Anthropic IPO 感恩节前 + 博通 600 亿融资（10/15）",
+      "url": "https://aistockwire.com/blog/anthropic-ipo-mid-november-broadcom-avgo-60-billion-chip-financing-october-2026"
+    },
+    {
+      "title": "DCD：特朗普政府考虑扩大半导体关税至数据中心服务器",
+      "url": "https://www.datacenterdynamics.com/en/news/trump-admin-considers-more-semiconductor-tariffs-and-possibly-data-center-servers/"
+    },
+    {
+      "title": "CCIA：科技行业协会致信白宫反对 232 半导体关税（10/16）",
+      "url": "https://ccianet.org/news/2026/10/tech-associations-present-semiconductor-and-industrial-machinery-tariff-concerns-in-white-house-letter/"
+    },
+    {
+      "title": "MarketBeat：AVGO 分析师评级与目标价",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+    },
+    {
+      "title": "KuCoin：Broadcom 下跌 35% 但分析师仍乐观（10/17）",
+      "url": "https://www.kucoin.com/news/flash/broadcom-stock-falls-35-amid-ai-sector-concerns-analysts-remain-optimistic"
+    },
+    {
+      "title": "stockanalysis：AVGO 历史行情",
+      "url": "https://StockAnalysis.com/stocks/avgo/history/"
+    },
+    {
+      "title": "Facebook · FiredUpWealth：AVGO 未来 1-2 年 75-85% 上行预期（10/17）",
+      "url": "https://www.facebook.com/FiredUpWealth/posts/pfbid0YccrsSbS8acBJPYEZbCYFYtsnhwnD6iAE8jMeXBXwp6RGSn9zpDYVKYPY6P5g3eTl"
+    },
+    {
+      "title": "Threads · @bloombergbusiness：陈福阳 vs 黄仁勋 AI 表态对比（10/16）",
+      "url": "https://www.threads.com/@bloombergbusiness/post/Dej7FUJlPDW"
+    },
+    {
+      "title": "Reddit · r/wallstreetbets AVGO 情绪追踪（apewisdom）",
+      "url": "http://apewisdom.io/stocks/AVGO/"
+    }
+  ],
+  "sections": [
+    {
+      "items": [
+        "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$338.48</span>、高 <span class=\"num\">$339.59</span>、低 <span class=\"num\">$328.58</span>。（Finnhub / CNBC，10/16 收盘）",
+        "成交量约 <span class=\"num\">29.8M</span> 股，较日均约 <span class=\"num\">25M</span> 股放量约 <span class=\"num\">18%</span>；市值约 <span class=\"num\">$1.56T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>，为 4 月 8 日以来最低收盘。（Finnhub / tradingkey / KuCoin，10/16–10/17）",
+        "事件提醒：下次财报预计 12 月上旬盘后（预估日期，公司未确认）；季度分红 <span class=\"num\">$0.65</span>/股已于 9/30 派发，无已宣布的未来分红。",
+        "市场背景：9 月 CPI 3.7% 超预期、加息担忧延续；半导体关税扩大讨论（Politico 经 DCD，白宫否认）；X 站趋势话题延续「AI 股票买家逢跌吸纳」叙事。（DCD / X 趋势，10/16–10/17）"
+      ],
+      "title": "📰 行情速览"
+    },
+    {
+      "items": [
+        "Anthropic IPO 推进的含义：Q3 营收 <span class=\"num\">168 亿美元</span>（+45%，增速较 Q2 放缓）且调整后已盈利——这是博通 <span class=\"num\">600 亿美元</span>融资包交易对手信用状况的关键变量，IPO 顺利落地意味着博通对其的担保/贷款敞口风险下降，偏利好；但估值预期从约 <span class=\"num\">2 万亿</span>下调至约 <span class=\"num\">1.5 万亿</span>的讨论（Reuters 10/15），反映市场对 AI lab 增长持续性的定价趋于谨慎，与本周「谁来出钱」融资辩论是同一逻辑的两面。",
+        "关税讨论的含义：若数据中心服务器被纳入 232 关税范围，超大规模客户 capex 成本直接上升，间接压制 AI 基建链的订单节奏与交付利润——对博通是潜在利空；但目前仅处早期讨论阶段、白宫公开否认，中性偏谨慎观察即可，CCIA 的 <span class=\"num\">900 亿美元</span>/年 GDP 损失测算说明行业游说力度。",
+        "周末公司层面无新品发布、订单或高管表态的新动态；基板厂盯线今晨核验无实质进展（昨日简报已详述，不重复）。"
+      ],
+      "title": "🏢 基本面"
+    },
+    {
+      "items": [
+        "主口径 MarketBeat：41 家机构覆盖——强烈买入 1 / 买入 37 / 持有 3，无卖出；共识 Moderate Buy；平均目标价 <span class=\"num\">$527.20</span>，以周五收盘计隐含涨幅约 <span class=\"num\">+60%</span>。（MarketBeat，经 dailypolitical 10/17 转述确认）",
+        "48 小时内无正式评级动作；近两周变化：Piper Sandler 9/10 首发覆盖 Overweight（目标价 <span class=\"num\">$460</span>）；DA Davidson 9/4 维持 Neutral、下调目标价 <span class=\"num\">$400</span>→<span class=\"num\">$350</span>；高盛 Jim Schneider 10/9 重申 Buy（<span class=\"num\">$540</span>）；街最高 BNP Paribas Exane Outperform <span class=\"num\">$715</span>（9/4）。",
+        "<details class=\"more\"><summary>其他口径（点击展开）</summary><ul><li>Benzinga：覆盖分析师全部买入，平均目标价 <span class=\"num\">$569</span>；最高 BNP Paribas <span class=\"num\">$715</span>，Citic <span class=\"num\">$525</span>，Jefferies <span class=\"num\">$550</span>。（KuCoin 10/17 转述）</li><li>ultrastockanalysispro：47 Buy / 3 Hold / 0 Sell（50 家），平均目标价 <span class=\"num\">$500.80</span>。</li></ul></details>"
+      ],
+      "title": "🎯 分析师评级"
+    },
+    {
+      "items": [
+        "趋势：收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），位于 20 日均线（<span class=\"num\">$%%MA20%%</span>）之下，仍受压于 50 日（<span class=\"num\">$%%MA50%%</span>）与 200 日（<span class=\"num\">$%%MA200%%</span>）均线；三连跌，5 日累计 <span class=\"num\">-9.07%</span>（Finnhub）。（脚本基于 Nasdaq 官方日线 + CNBC 实时）",
+        "支撑：先看 <span class=\"num\">$328.58</span>（10/16 日内低点）；再下看 325–330 密集成交区。",
+        "阻力：先看 <span class=\"num\">$344.33</span>（10/15 收盘）；远端为 52 周高点 <span class=\"num\">495</span>。",
+        "上方压制：50/200 日均线汇聚区约 <span class=\"num\">$%%MA50%%</span>/<span class=\"num\">$%%MA200%%</span>，与现价仍有约 <span class=\"num\">10%</span> 以上的距离，构成较强阻力带。",
+        "成交量：约 <span class=\"num\">29.8M</span> 股，较日均约 <span class=\"num\">25M</span> 股放量约 <span class=\"num\">18%</span>；下跌伴随放量，短线抛压加重。（Finnhub 日线，10/16）",
+        "动量：RSI(14) <span class=\"num\">%%RSI%%</span>（脚本计算），偏弱区间；短线有超卖迹象但下降趋势未扭转。"
+      ],
+      "title": "📊 技术面"
+    },
+    {
+      "items": [
+        "Facebook · FiredUpWealth（认证账号）· 10/17 —— 称 AVGO 如同此前的 MSFT 一样处于「礼物价」，预计未来 1–2 年有 <span class=\"num\">75–85%</span> 上行空间。（89 赞 / 44 评论）<span class=\"tag bull\">看多</span> <a href=\"https://www.facebook.com/FiredUpWealth/posts/pfbid0YccrsSbS8acBJPYEZbCYFYtsnhwnD6iAE8jMeXBXwp6RGSn9zpDYVKYPY6P5g3eTl\" target=\"_blank\" rel=\"noopener\">原文</a>",
+        "Threads · @bloombergbusiness（认证媒体）· 10/16 —— 转发 Bloomberg 文章对比陈福阳与黄仁勋对 AI 繁荣的公开表态：陈福阳表达务实谨慎、承认投资者担忧，黄仁勋则更为乐观。<span class=\"tag flat\">中性</span> <a href=\"https://www.threads.com/@bloombergbusiness/post/Dej7FUJlPDW\" target=\"_blank\" rel=\"noopener\">原文</a>",
+        "Reddit · r/wallstreetbets · 10/18 —— 过去 24 小时 AVGO 被提及 <span class=\"num\">14</span> 次（-50%），情绪 <span class=\"num\">50%</span>（正负各半），讨论热度明显降温。（apewisdom）<span class=\"tag flat\">中性</span> <a href=\"http://apewisdom.io/stocks/AVGO/\" target=\"_blank\" rel=\"noopener\">原文</a>",
+        "Instagram · @finzdata · 10/17 —— 期权持仓分析：<span class=\"num\">$328.75</span> 处 dealers 处于 short gamma 状态，波动可能放大。<span class=\"tag flat\">中性</span> <a href=\"https://www.instagram.com/reel/DelUVpGjGLM/\" target=\"_blank\" rel=\"noopener\">原文</a>",
+        "<details class=\"more\"><summary>更多平台（点击展开）</summary><ul><li>StockTwits · @KryptonResearch14 · 10/17 —— 联合创始人 Henry Samueli 年内已售股约 <span class=\"num\">750M 美元</span>（3 次：3 月 <span class=\"num\">319.71 美元</span>、6 月 <span class=\"num\">382.13 美元</span>、9 月 <span class=\"num\">356.04 美元</span>，高于周五收盘价），与陈福阳「赌场论」对照解读为内部人信号。<span class=\"tag bear\">看空</span> <a href=\"https://stocktwits.com/symbol/AVGO/news\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>StockTwits · @Mrbullsociety · 10/17 —— 「CEO 称 AI 投资者是赌徒，AVGO 周五跌 4.5% 至 <span class=\"num\">328.75 美元</span>；但 TTM 营收 <span class=\"num\">891 亿美元</span>（+48.7%），前瞻 PE 19 倍 vs 过去 42 倍——赌场论遇上现金流」。<span class=\"tag flat\">中性</span> <a href=\"https://stocktwits.com/symbol/AVGO/news\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>Threads · @natashabelovelove · 10/17 —— 截图 Morningstar AVGO 页面（五星评级），无额外观点。<span class=\"tag flat\">中性</span> <a href=\"https://www.threads.com/@natashabelovelove/post/DemL7J8AiYy\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>YouTube · Denver Stock Lab · 10/15 —— 《AVGO Stock: What the Google XPU Report Would Have to Prove》：从供应链视角拆解 Google XPU 护城河——真正的瓶颈在定制加速器+互连层，博通掌控该层。<span class=\"tag flat\">中性</span> <a href=\"https://www.youtube.com/watch?v=66d25-Gc3vg\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>X · 本期暂无可验证新帖。</li></ul></details>"
+      ],
+      "title": "💬 社交平台头条"
+    },
+    {
+      "items": [
+        "Anthropic IPO 推进（10/14–10/16）：10/14 旧金山投资者日披露 Q3 营收 <span class=\"num\">168 亿美元</span>（同比 +45%，增速较 Q2 放缓）、调整后已实现盈利；Reuters 10/15 称部分投资者讨论估值降至约 <span class=\"num\">1.5 万亿美元</span>（此前预期约 <span class=\"num\">2 万亿</span>）；拟 11/9 当周启动正式路演、感恩节（11/26）前上市；OpenAI 则推迟 IPO 至 2027，另寻求 <span class=\"num\">300 亿美元</span>融资、估值约 <span class=\"num\">1.4 万亿</span>——Anthropic 是博通未来最大 XPU 客户，其上市与 <span class=\"num\">600 亿美元</span>芯片融资包直接相关。（Reuters / Bloomberg / FT 经多家转述交叉验证）",
+        "半导体关税扩大讨论（10/15–10/16）：Politico 报道特朗普政府考虑将半导体关税扩大至含芯片的成品（笔记本、游戏机、数据中心服务器），仍处早期讨论阶段，白宫发言人斥为“baseless speculation”；CCIA 等 5 家科技行业协会 10/16 致信白宫，测算 25% 的 232 半导体关税将使数据中心建设成本增加 <span class=\"num\">15.6%</span>、每年造成约 <span class=\"num\">900 亿美元</span> GDP 损失。（DCD / CCIA 官方信函）"
+      ],
+      "title": "👀 今日关注"
+    }
+  ],
+  "sources_extra": "价格、均线与 RSI 由构建脚本基于 Nasdaq 官方日线与 CNBC 实时行情计算，数据截至上一交易日（10/16）美股收盘；盘中 OHLC、成交量（Finnhub 日线口径 ~29.8M 股、+18% 放量）与市值引自 Finnhub / tradingkey；社交帖文时间为平台页面显示时间（X 帖经 @AVGO_X_ 登录会话浏览核验）；Anthropic IPO 进展经 Reuters/Bloomberg/FT 多源转述交叉验证，估值数字为投资者讨论口径非官方确认；关税扩大为早期讨论阶段、白宫已否认；昨日盛传的「博通裁员」经多源交叉证伪为 2025 年 10 月旧闻（DCD 页面“3 天前更新”系重爬标记，实质内容指向 2025 年 10 月 OpenAI 合作后裁员），未收入；基板厂盯线 10/18 晨核验无实质进展。",
+  "target_avg": "$527.20"
+}
