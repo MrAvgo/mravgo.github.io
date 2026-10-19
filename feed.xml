@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-19：周一晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Google TPU 长约延至 2031 · Anthropic 融资包条款曝光</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-19</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.7M&lt;/span&gt; 股（日均约 &lt;span class=&quot;num&quot;&gt;23.05M&lt;/span&gt; 股）放量下跌；市值约 &lt;span class=&quot;num&quot;&gt;$1.62T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-33.6%&lt;/span&gt;。；Google TPU 长约（补录，DCD 约 10/15）：博通与 Google 签署长期协议开发供应未来数代 TPU，并签供应保障协议向下一代 AI 机架供应网络及组件至 &lt;span class=&quot;num&quot;&gt;2031&lt;/span&gt; 年；Anthropic 3.5GW TPU 供应协议 2027 年起上线——定制 XPU 收入可见性大幅延长。；Anthropic “Project North Star” &lt;span class=&quot;num&quot;&gt;600 亿美元&lt;/span&gt;融资条款曝光（FT 经 shashi.co，10/18）：&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 博通背书优先级债务 + &lt;span class=&quot;num&quot;&gt;$18B&lt;/span&gt; 次级层，Blackstone 以 &lt;span class=&quot;num&quot;&gt;10%+&lt;/span&gt; 票息锚定其中 &lt;span class=&quot;num&quot;&gt;$9B&lt;/span&gt;；覆盖约 &lt;span class=&quot;num&quot;&gt;1.5GW&lt;/span&gt; TPU 五年租约；融资包据知情人士尚未敲定。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-18：周日晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Anthropic IPO 推进估值或降至 1.5T · 半导体关税扩大讨论</title>
       <link>https://avgo.pages.dev/briefs/2026-10-18</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-18</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-09-30</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
       <description>周二（9/29）收盘 &lt;span class=&quot;num&quot;&gt;$355.10&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+$5.53&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;+1.58%&lt;/span&gt;），收复 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 整数关口；开盘 &lt;span class=&quot;num&quot;&gt;$357.00&lt;/span&gt;，盘中区间 &lt;span class=&quot;num&quot;&gt;$354.00 – $361.86&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-28.3%&lt;/span&gt;。（dhan.co、Nasdaq 官方日线）；今日最大公司层面消息：&lt;strong&gt;Anthropic 机密 IPO 招股书（Reuters 9/29）披露其约 $161.2B 与博通相关的设备租赁义务、基本不可撤销&lt;/strong&gt;——博通被定位为 Anthropic AI 基建的关键供应商，直接印证定制 XPU/网络芯片需求；另一面，&lt;strong&gt;Netlist 在 ITC 新立案&lt;/strong&gt;（Reuters 9/29），指美光 HBM 侵犯其专利，博通作为美光下游客户被列为被诉方，属法律风险变量。；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat：41 家——1 家 Strong Buy、37 家 Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，按周二收盘测算隐含约 &lt;span class=&quot;num&quot;&gt;+48.4%&lt;/span&gt; 上行空间；近两周无新的评级调整，最新动作为 Bernstein 9/24 重申 Buy。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-29：周一收盘 $349.57（-0.92%）· 失守 $350 关口、$115B AI 指引复盘、Samueli 减持 $2.5 亿</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-29</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-29</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
-      <description>周一（9/28）收盘 &lt;span class=&quot;num&quot;&gt;$349.57&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$3.24&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-0.92%&lt;/span&gt;），失守 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 整数关口；开盘 &lt;span class=&quot;num&quot;&gt;$352.87&lt;/span&gt;，盘中区间 &lt;span class=&quot;num&quot;&gt;$347.32 – $355.86&lt;/span&gt;。52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-29.4%&lt;/span&gt;。（Finnhub 9/28 实查、MarketWatch）；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat：41 家——1 家 Strong Buy、37 家 Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，按周一收盘测算隐含约 &lt;span class=&quot;num&quot;&gt;+50.8%&lt;/span&gt; 上行空间；近两周最新动作是 Bernstein 9/24 重申 Buy。；GuruFocus（9/28 经 Yahoo）复盘：博通 FY2027 AI 芯片收入指引约 &lt;span class=&quot;num&quot;&gt;$115B&lt;/span&gt;，但股价不涨反跌——市场对“兑现门槛”提高的反应（注意这是 9/2 财报已公布内容的再解读，非新公告）；联创 Henry Samueli 9/23 按 10b5-1 预设计划（2025-12-16 设立）减持约 &lt;span class=&quot;num&quot;&gt;$2.5 亿&lt;/span&gt;，仅占其持股 &lt;span class=&quot;num&quot;&gt;0.84%&lt;/span&gt;，属弱信号。（BBNS 9/28）</description>
     </item>
   </channel>
 </rss>
