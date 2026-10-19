@@ -1,1 +1,112 @@
-{"archive_title":"周一晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Google TPU 长约延至 2031 · Anthropic 融资包条款曝光","key_points":["周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），成交量约 <span class=\"num\">29.7M</span> 股（日均约 <span class=\"num\">23.05M</span> 股）放量下跌；市值约 <span class=\"num\">$1.62T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>。","Google TPU 长约（补录，DCD 约 10/15）：博通与 Google 签署长期协议开发供应未来数代 TPU，并签供应保障协议向下一代 AI 机架供应网络及组件至 <span class=\"num\">2031</span> 年；Anthropic 3.5GW TPU 供应协议 2027 年起上线——定制 XPU 收入可见性大幅延长。","Anthropic “Project North Star” <span class=\"num\">600 亿美元</span>融资条款曝光（FT 经 shashi.co，10/18）：<span class=\"num\">$42B</span> 博通背书优先级债务 + <span class=\"num\">$18B</span> 次级层，Blackstone 以 <span class=\"num\">10%+</span> 票息锚定其中 <span class=\"num\">$9B</span>；覆盖约 <span class=\"num\">1.5GW</span> TPU 五年租约；融资包据知情人士尚未敲定。","技术面：收盘位于 20/50/200 日均线之下（<span class=\"num\">$%%MA20%%</span> / <span class=\"num\">$%%MA50%%</span> / <span class=\"num\">$%%MA200%%</span>），50 日均线已下穿 200 日均线；RSI(14) <span class=\"num\">%%RSI%%</span> 逼近超卖；支撑先看 <span class=\"num\">$328.58</span>（周五日内低点）。","评级：MarketBeat Moderate Buy（强烈买入 1 / 买入 37 / 持有 3，无卖出），平均目标价 <span class=\"num\">$527.20</span>，以周五收盘计隐含涨幅约 <span class=\"num\">+60.4%</span>；近两周 Weiss 10/8 上调、高盛 10/9 重申 Buy（<span class=\"num\">$540</span>）。"],"rating":"Moderate Buy","rating_class":"down","ref_links":[{"title":"Finnhub：AVGO 行情数据","url":"https://finnhub.io/?q=%22AVGO%22"},{"title":"MarketBeat：AVGO 分析师评级与目标价","url":"https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"},{"title":"DCD：博通与 Google TPU 长期协议延至 2031（约 10/15，补录）","url":"https://www.datacenterdynamics.com/en/news/broadcom-to-develop-google-tpus-until-2031-anthropic-signs-deal-with-both-companies-for-35gw-of-tpus/"},{"title":"shashi.co：Anthropic “Project North Star” 融资条款曝光（FT 消息源，10/18）","url":"https://www.shashi.co/2026/10/anthropic-leases-broadcom-compute-with.html"},{"title":"DCD：LSEG 续签 VMware 五年（约 10/15，补录）","url":"https://www.datacenterdynamics.com/en/news/lseg-renews-agreement-with-broadcom-to-continue-using-vmware/"},{"title":"Seeking Alpha：从 $495 跌至 $328 的买入论（10/18）","url":"https://seekingalpha.com/article/4955041-broadcom-crashed-from-495-to-328-im-buying-the-sell-off"},{"title":"AltIndex：AVGO Reddit 提及与情绪追踪","url":"https://altindex.com/ticker/avgo/reddit-mentions"},{"title":"Facebook · Michael Ortega：$330 附近抄底讨论（10/18）","url":"https://www.facebook.com/michael.ortega.946/posts/pfbid0G1c4AncyT1Da3BfmCPEDwcs9aRYxfuAoPedssRRZNmqpmxXCZ6Ci1a9iU1AmY6TGl"},{"title":"Instagram · @wealthbychristy：“3 只想买的暴跌股”含 AVGO（10/18）","url":"https://www.instagram.com/reel/Dem8ECUhMFj/"},{"title":"Simply Wall St：以未来现金流衡量，AVGO 看似便宜（10/18）","url":"https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom/news/broadcom-avgo-stock-looks-cheap-against-future-cash-flow-nee"}],"sections":[{"items":["周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$338.48</span>、高 <span class=\"num\">$339.59</span>、低 <span class=\"num\">$328.58</span>，前收 <span class=\"num\">$344.33</span>。（Finnhub / CNBC，10/16 收盘）","成交量约 <span class=\"num\">29.7M</span> 股，较日均约 <span class=\"num\">23.05M</span> 股明显放量；市值约 <span class=\"num\">$1.62T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点（6 月 <span class=\"num\">$495</span>）约 <span class=\"num\">-33.6%</span>。（Finnhub / MarketBeat，10/16–10/18）","周末休市，无盘前/盘后报价；本周公司层面无财报与分红除权事件。（截至 10/19 晨）"],"title":"📰 行情速览"},{"items":["Google TPU 长约延至 2031 的含义：LTA 锁定未来数代 TPU 的开发与供应、供应保障协议覆盖下一代 AI 机架网络及组件至 2031 年——定制 XPU 收入可见性从 2028 年指引再向外延长数年，是 FY2027 <span class=\"num\">$115B</span> / FY2028 <span class=\"num\">$230B</span> AI 半导体指引之外又一长期锚；但同时意味着 Google 生态客户集中度进一步加深，属利好中带集中度风险。（细节见①）","Anthropic 融资条款曝光的含义：次级层 <span class=\"num\">10%+</span> 票息、Blackstone 锚定 <span class=\"num\">$9B</span>——说明机构愿意为 AI 基建信用风险明码定价，而非无人接盘，对“谁来出钱”的融资叙事是边际利好；但融资包尚未敲定，博通 <span class=\"num\">$42B</span> 背书敞口的兑现节奏仍是悬顶变量，11 月 IPO 与融资包落地是关键催化。（细节见②）","软件基本盘：LSEG 五年续约并部署 VCF 9，金融基础设施大客户留存稳定；另一面英国 NHS 北东伦敦 ICB 本周宣布迁出 VMware 转投 Nutanix AHV——大客户分化，软件业务整体有韧性但续约议价仍存压力，中性。（细节见③）","无线业务边际扰动：Apple 传 10 月 iPhone 18 Pro 组件订单削减 <span class=\"num\">15–20%</span>（Nikkei / Reuters，10/9–10），无线射频业务或有季度波动；但博通有约 <span class=\"num\">$30B</span> 的 Apple 芯片大单缓冲（Longbridge 引述），且无线占比已远小于 AI 半导体与软件，整体影响有限，偏中性。"],"title":"🏢 基本面"},{"items":["主口径 MarketBeat：41 家机构覆盖——强烈买入 <span class=\"num\">1</span> / 买入 <span class=\"num\">37</span> / 持有 <span class=\"num\">3</span>，无卖出；共识 Moderate Buy；平均目标价 <span class=\"num\">$527.20</span>，以周五收盘计隐含涨幅约 <span class=\"num\">+60.4%</span>，区间 <span class=\"num\">$350–$715</span>。（MarketBeat，更新至 10/16）","近两周变化：Weiss Ratings 10/8 上调 buy(b-)→buy(b)；高盛 Jim Schneider 10/9 重申 Buy（<span class=\"num\">$540</span>）；9/3 集中调仓：Evercore 上调至 Outperform（<span class=\"num\">$578</span>）、Cantor Fitzgerald 上调至 Overweight（<span class=\"num\">$600</span>）、Truist 下调至 <span class=\"num\">$520</span>（维持 Buy）、UBS 降至 Hold、TD Cowen 重申 Buy 降至 <span class=\"num\">$475</span>；DA Davidson 9/4 维持 Neutral（<span class=\"num\">$350</span>）；街最高 BNP Paribas Exane Outperform <span class=\"num\">$715</span>（9/4）。48 小时内无新的正式评级动作。<details class=\"more\"><summary>其他口径…</summary><ul><li>UltraStockAnalysisPro：47 Buy / 3 Hold，平均目标 <span class=\"num\">$500.80</span>（隐含 <span class=\"num\">+52.3%</span>），目标区间 <span class=\"num\">$350–$600</span>。（10/17）</li><li>CleaRank AI：Hold，48/100——分析师口径（47/50 买入、目标中位数高于现价 <span class=\"num\">62.7%</span>）提分，趋势（低于 50/200 日均线）拖累。（10/18）</li></ul></details>"],"title":"🎯 分析师评级"},{"items":["趋势：收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），位于 20 日均线（<span class=\"num\">$%%MA20%%</span>）、50 日（<span class=\"num\">$%%MA50%%</span>）与 200 日（<span class=\"num\">$%%MA200%%</span>）均线之下；50 日均线已下穿 200 日均线（死亡交叉），中期趋势偏弱。（脚本基于 Nasdaq 官方日线计算）","支撑：先看 <span class=\"num\">$328.58</span>（10/16 日内低点，收盘恰收于其上）；再下看第三方量价模型参考位 <span class=\"num\">308.97</span>、<span class=\"num\">291.33</span>；52 周低点 <span class=\"num\">$289.96</span> 为最后防线。（UltraStockAnalysisPro 模型参考位，10/17）","阻力：<span class=\"num\">340.07</span> / <span class=\"num\">348.16</span> / <span class=\"num\">361.86</span>（第三方量价模型参考）；20 日均线 <span class=\"num\">$%%MA20%%</span> 为第一反压。（UltraStockAnalysisPro，10/17）","动量：RSI(14) <span class=\"num\">%%RSI%%</span>，逼近 30 超卖线——空头动能仍占优，但短线超卖反弹条件渐近；MACD 无可靠公开数据源，未确认。","成交量：周五约 <span class=\"num\">29.7M</span> 股 vs 日均约 <span class=\"num\">23.05M</span> 股，放量下跌——抛压释放充分，暂未见企稳信号。（MarketBeat 对比口径）"],"title":"📊 技术面"},{"items":["Facebook · Michael Ortega（10/18 10:25 北京时间）：晒单显示 AVGO <span class=\"num\">$330.30</span>（-4.51%）、盘后 +<span class=\"num\">$1.49</span>（+0.45%）；评论区 <span class=\"num\">87</span> 条热议抄底：多人在 <span class=\"num\">$315–$328</span> 区间加仓、称“irrational dip”，亦有被套持仓者表示继续持有。（200 赞 / 87 评论）<span class=\"tag flat\">中性偏多</span> <a href=\"https://www.facebook.com/michael.ortega.946/posts/pfbid0G1c4AncyT1Da3BfmCPEDwcs9aRYxfuAoPedssRRZNmqpmxXCZ6Ci1a9iU1AmY6TGl\" target=\"_blank\" rel=\"noopener\">原文</a>","Facebook · FIRED Up Wealth（10/17 23:07 北京时间）：称 AVGO 如同当年的 MSFT <span class=\"num\">$350</span>，“未来 1–2 年 <span class=\"num\">75–85%</span> 上行空间”；评论区多肯定其财报兑现记录，亦有对 VMware 涨价反噬与定制芯片流失风险的质疑。（120 赞 / 68 评论）<span class=\"tag bull\">看多</span> <a href=\"https://www.facebook.com/FiredUpWealth/posts/pfbid0YccrsSbS8acBJPYEZbCYFYtsnhwnD6iAE8jMeXBXwp6RGSn9zpDYVKYPY6P5g3eTl\" target=\"_blank\" rel=\"noopener\">原文</a>","Instagram · @wealthbychristy（10/18 04:13 北京时间）：“3 只想买的暴跌股”之 AVGO——跌约 <span class=\"num\">30%</span>，AI 芯片收入 <span class=\"num\">$16.7B</span>（+221%），定制芯片 + 网络组合受益。（600 赞 / 73 评论）<span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/Dem8ECUhMFj/\" target=\"_blank\" rel=\"noopener\">原文</a>","Reddit（AltIndex，10/18）：AVGO 日均提及 <span class=\"num\">145</span> 次（较均值 <span class=\"num\">+88%</span>，高于 AMD <span class=\"num\">108</span> / Intel <span class=\"num\">51</span>），情绪 <span class=\"num\">62/100</span> 中性。<span class=\"tag flat\">中性</span> <a href=\"https://altindex.com/ticker/avgo/reddit-mentions\" target=\"_blank\" rel=\"noopener\">原文</a>"],"title":"💬 社交平台头条"},{"items":["Google TPU 长期协议延至 2031（DCD，约 10/15，补录——此前简报未收录）：博通在监管文件中披露与 Google 签署长期协议（LTA），开发并供应未来数代 TPU；另签供应保障协议，向 Google 下一代 AI 机架供应“网络及其他组件”至 <span class=\"num\">2031</span> 年；同期 Anthropic 与博通/Google 签署 <span class=\"num\">3.5GW</span> TPU 供应协议，2027 年起上线、美国本土为主。财务条款未披露。（DCD）","Anthropic “Project North Star” <span class=\"num\">600 亿美元</span>融资条款曝光（FT 经 shashi.co，10/18）：<span class=\"num\">$42B</span> 博通背书优先级债务 + <span class=\"num\">$18B</span> 次级层；Blackstone 旗下基金以 <span class=\"num\">10%+</span> 票息锚定其中 <span class=\"num\">$9B</span> 次级层；资金覆盖约 <span class=\"num\">1.5GW</span> Google TPU 的五年租约；据知情人士，融资包尚未敲定。呼应：昨日简报 Anthropic IPO 推进（拟 11/9 当周路演、感恩节前上市）。（FT / shashi.co）","LSEG 续签 VMware 五年（DCD，约 10/15，补录）：伦敦证交所集团续约五年，博通将为其部署 VMware Cloud Foundation 9 及专业服务；LSEG 称看中其安全与韧性。另一面：英国 NHS 北东伦敦 ICB 本周宣布迁出 VMware 转投 Nutanix AHV，大客户续约与流失并存。（DCD）"],"title":"👀 今日关注"}],"sources_extra":"价格、均线与 RSI 由构建脚本基于 Nasdaq 官方日线与 CNBC 实时行情计算，数据截至上一交易日（10/16）美股收盘；盘中 OHLC、成交量（Finnhub 口径约 29.7M 股、日均 23.05M 股）与市值引自 Finnhub / MarketBeat；社交帖文时间为平台页面显示时间；Google TPU 长约与 LSEG 续约为 10 月中旬 DCD 报道、前期简报未收录故补录；Anthropic 融资条款源自 FT 经 shashi.co 转述（10/18），融资包据知情人士尚未敲定；基板厂盯线 10/19 晨核验无实质进展；Apple 减单为 Nikkei/Reuters 10/9–10 报道，仅作背景参考。","target_avg":"$527.20"}
+{
+ "archive_title": "周一晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Google TPU 长约延至 2031 · Anthropic 融资包条款曝光",
+ "key_points": [
+  "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），成交量约 <span class=\"num\">29.7M</span> 股（日均约 <span class=\"num\">23.05M</span> 股）放量下跌；市值约 <span class=\"num\">$1.62T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点约 <span class=\"num\">-33.6%</span>。",
+  "Google TPU 长约（补录，DCD 约 10/15）：博通与 Google 签署长期协议开发供应未来数代 TPU，并签供应保障协议向下一代 AI 机架供应网络及组件至 <span class=\"num\">2031</span> 年；Anthropic 3.5GW TPU 供应协议 2027 年起上线——定制 XPU 收入可见性大幅延长。",
+  "Anthropic “Project North Star” <span class=\"num\">600 亿美元</span>融资条款曝光（FT 经 shashi.co，10/18）：<span class=\"num\">$42B</span> 博通背书优先级债务 + <span class=\"num\">$18B</span> 次级层，Blackstone 以 <span class=\"num\">10%+</span> 票息锚定其中 <span class=\"num\">$9B</span>；覆盖约 <span class=\"num\">1.5GW</span> TPU 五年租约；融资包据知情人士尚未敲定。",
+  "技术面：收盘位于 20/50/200 日均线之下（<span class=\"num\">$%%MA20%%</span> / <span class=\"num\">$%%MA50%%</span> / <span class=\"num\">$%%MA200%%</span>），50 日均线已下穿 200 日均线；RSI(14) <span class=\"num\">%%RSI%%</span> 逼近超卖；支撑先看 <span class=\"num\">$328.58</span>（周五日内低点）。",
+  "评级：MarketBeat Moderate Buy（强烈买入 1 / 买入 37 / 持有 3，无卖出），平均目标价 <span class=\"num\">$527.20</span>，以周五收盘计隐含涨幅约 <span class=\"num\">+60.4%</span>；近两周 Weiss 10/8 上调、高盛 10/9 重申 Buy（<span class=\"num\">$540</span>）。"
+ ],
+ "rating": "Moderate Buy",
+ "rating_class": "down",
+ "ref_links": [
+  {
+   "title": "Finnhub：AVGO 行情数据",
+   "url": "https://finnhub.io/?q=%22AVGO%22"
+  },
+  {
+   "title": "MarketBeat：AVGO 分析师评级与目标价",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+  },
+  {
+   "title": "DCD：博通与 Google TPU 长期协议延至 2031（约 10/15，补录）",
+   "url": "https://www.datacenterdynamics.com/en/news/broadcom-to-develop-google-tpus-until-2031-anthropic-signs-deal-with-both-companies-for-35gw-of-tpus/"
+  },
+  {
+   "title": "shashi.co：Anthropic “Project North Star” 融资条款曝光（FT 消息源，10/18）",
+   "url": "https://www.shashi.co/2026/10/anthropic-leases-broadcom-compute-with.html"
+  },
+  {
+   "title": "DCD：LSEG 续签 VMware 五年（约 10/15，补录）",
+   "url": "https://www.datacenterdynamics.com/en/news/lseg-renews-agreement-with-broadcom-to-continue-using-vmware/"
+  },
+  {
+   "title": "Seeking Alpha：从 $495 跌至 $328 的买入论（10/18）",
+   "url": "https://seekingalpha.com/article/4955041-broadcom-crashed-from-495-to-328-im-buying-the-sell-off"
+  },
+  {
+   "title": "AltIndex：AVGO Reddit 提及与情绪追踪",
+   "url": "https://altindex.com/ticker/avgo/reddit-mentions"
+  },
+  {
+   "title": "X @RealNickMugalli：BofA 给予 AVGO $530 目标价（10/18）",
+   "url": "https://x.com/RealNickMugalli/status/2111814452165386340"
+  },
+  {
+   "title": "X @ProKayaFinance：博通近期商业进展汇总（10/18）",
+   "url": "https://x.com/ProKayaFinance/status/2111820134880772099"
+  },
+  {
+   "title": "X @EdgeCGroup：AI 抛售沿质量阶梯上移（10/19）",
+   "url": "https://x.com/EdgeCGroup/status/2111926850368757995"
+  }
+ ],
+ "sections": [
+  {
+   "items": [
+    "周五（10/16）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$338.48</span>、高 <span class=\"num\">$339.59</span>、低 <span class=\"num\">$328.58</span>，前收 <span class=\"num\">$344.33</span>。（Finnhub / CNBC，10/16 收盘）",
+    "成交量约 <span class=\"num\">29.7M</span> 股，较日均约 <span class=\"num\">23.05M</span> 股明显放量；市值约 <span class=\"num\">$1.62T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点（6 月 <span class=\"num\">$495</span>）约 <span class=\"num\">-33.6%</span>。（Finnhub / MarketBeat，10/16–10/18）",
+    "周末休市，无盘前/盘后报价；本周公司层面无财报与分红除权事件。（截至 10/19 晨）"
+   ],
+   "title": "📰 行情速览"
+  },
+  {
+   "items": [
+    "Google TPU 长约延至 2031 的含义：LTA 锁定未来数代 TPU 的开发与供应、供应保障协议覆盖下一代 AI 机架网络及组件至 2031 年——定制 XPU 收入可见性从 2028 年指引再向外延长数年，是 FY2027 <span class=\"num\">$115B</span> / FY2028 <span class=\"num\">$230B</span> AI 半导体指引之外又一长期锚；但同时意味着 Google 生态客户集中度进一步加深，属利好中带集中度风险。（细节见①）",
+    "Anthropic 融资条款曝光的含义：次级层 <span class=\"num\">10%+</span> 票息、Blackstone 锚定 <span class=\"num\">$9B</span>——说明机构愿意为 AI 基建信用风险明码定价，而非无人接盘，对“谁来出钱”的融资叙事是边际利好；但融资包尚未敲定，博通 <span class=\"num\">$42B</span> 背书敞口的兑现节奏仍是悬顶变量，11 月 IPO 与融资包落地是关键催化。（细节见②）",
+    "软件基本盘：LSEG 五年续约并部署 VCF 9，金融基础设施大客户留存稳定；另一面英国 NHS 北东伦敦 ICB 本周宣布迁出 VMware 转投 Nutanix AHV——大客户分化，软件业务整体有韧性但续约议价仍存压力，中性。（细节见③）",
+    "无线业务边际扰动：Apple 传 10 月 iPhone 18 Pro 组件订单削减 <span class=\"num\">15–20%</span>（Nikkei / Reuters，10/9–10），无线射频业务或有季度波动；但博通有约 <span class=\"num\">$30B</span> 的 Apple 芯片大单缓冲（Longbridge 引述），且无线占比已远小于 AI 半导体与软件，整体影响有限，偏中性。"
+   ],
+   "title": "🏢 基本面"
+  },
+  {
+   "items": [
+    "主口径 MarketBeat：41 家机构覆盖——强烈买入 <span class=\"num\">1</span> / 买入 <span class=\"num\">37</span> / 持有 <span class=\"num\">3</span>，无卖出；共识 Moderate Buy；平均目标价 <span class=\"num\">$527.20</span>，以周五收盘计隐含涨幅约 <span class=\"num\">+60.4%</span>，区间 <span class=\"num\">$350–$715</span>。（MarketBeat，更新至 10/16）",
+    "近两周变化：Weiss Ratings 10/8 上调 buy(b-)→buy(b)；高盛 Jim Schneider 10/9 重申 Buy（<span class=\"num\">$540</span>）；9/3 集中调仓：Evercore 上调至 Outperform（<span class=\"num\">$578</span>）、Cantor Fitzgerald 上调至 Overweight（<span class=\"num\">$600</span>）、Truist 下调至 <span class=\"num\">$520</span>（维持 Buy）、UBS 降至 Hold、TD Cowen 重申 Buy 降至 <span class=\"num\">$475</span>；DA Davidson 9/4 维持 Neutral（<span class=\"num\">$350</span>）；街最高 BNP Paribas Exane Outperform <span class=\"num\">$715</span>（9/4）。48 小时内无新的正式评级动作。<details class=\"more\"><summary>其他口径…</summary><ul><li>UltraStockAnalysisPro：47 Buy / 3 Hold，平均目标 <span class=\"num\">$500.80</span>（隐含 <span class=\"num\">+52.3%</span>），目标区间 <span class=\"num\">$350–$600</span>。（10/17）</li><li>CleaRank AI：Hold，48/100——分析师口径（47/50 买入、目标中位数高于现价 <span class=\"num\">62.7%</span>）提分，趋势（低于 50/200 日均线）拖累。（10/18）</li></ul></details>"
+   ],
+   "title": "🎯 分析师评级"
+  },
+  {
+   "items": [
+    "趋势：收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），位于 20 日均线（<span class=\"num\">$%%MA20%%</span>）、50 日（<span class=\"num\">$%%MA50%%</span>）与 200 日（<span class=\"num\">$%%MA200%%</span>）均线之下；50 日均线已下穿 200 日均线（死亡交叉），中期趋势偏弱。（脚本基于 Nasdaq 官方日线计算）",
+    "支撑：先看 <span class=\"num\">$328.58</span>（10/16 日内低点，收盘恰收于其上）；再下看第三方量价模型参考位 <span class=\"num\">308.97</span>、<span class=\"num\">291.33</span>；52 周低点 <span class=\"num\">$289.96</span> 为最后防线。（UltraStockAnalysisPro 模型参考位，10/17）",
+    "阻力：<span class=\"num\">340.07</span> / <span class=\"num\">348.16</span> / <span class=\"num\">361.86</span>（第三方量价模型参考）；20 日均线 <span class=\"num\">$%%MA20%%</span> 为第一反压。（UltraStockAnalysisPro，10/17）",
+    "动量：RSI(14) <span class=\"num\">%%RSI%%</span>，逼近 30 超卖线——空头动能仍占优，但短线超卖反弹条件渐近；MACD 无可靠公开数据源，未确认。",
+    "成交量：周五约 <span class=\"num\">29.7M</span> 股 vs 日均约 <span class=\"num\">23.05M</span> 股，放量下跌——抛压释放充分，暂未见企稳信号。（MarketBeat 对比口径）"
+   ],
+   "title": "📊 技术面"
+  },
+  {
+   "items": [
+    "X · @RealNickMugalli（蓝V）· 10/18 21:39（北京时间）—— 转述 BofA 报告：给予 AVGO <span class=\"num\">$530</span> 目标价（基于 CY27E <span class=\"num\">30</span> 倍 P/E），称其为高增长计算供应商、拥有半导体最佳盈利与自由现金流。（5 回复 / 14 转发 / 95 赞 / 8,993 浏览，窗口内 X 互动量最高）<span class=\"tag bull\">看多</span> <a href=\"https://x.com/RealNickMugalli/status/2111814452165386340\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "X · @ProKayaFinance（蓝V）· 10/18 22:02（北京时间）—— 帖文汇总博通近期商业进展（称陈福阳 4 月辞任 Meta 董事以避利益冲突、博通为 Anthropic 寻求 <span class=\"num\">600 亿美元</span>融资、协助 OpenAI <span class=\"num\">500 亿美元</span>融资、与苹果/谷歌协议延至 2031 年），认为合计 <span class=\"num\">13.6 万亿美元</span>市值的客户群让长期持有安心。（5 回复 / 3 转发 / 90 赞 / 8,461 浏览）<span class=\"tag flat\">中性偏多</span> <a href=\"https://x.com/ProKayaFinance/status/2111820134880772099\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "X · @EdgeCGroup（Jim Osman，蓝V）· 10/19 05:06（北京时间）—— AI 抛售正沿“质量阶梯”上移：CoreWeave 债券承压后，Micron、AMD、Broadcom、Dell、CrowdStrike 相继被波及，下一个受冲击的可能是投资者自以为安全的股票。（13 回复 / 9 转发 / 24 赞 / 2,112 浏览）<span class=\"tag bear\">看空</span> <a href=\"https://x.com/EdgeCGroup/status/2111926850368757995\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "Facebook · Michael Ortega（10/18 10:25 北京时间）：晒单显示 AVGO <span class=\"num\">$330.30</span>（-4.51%）、盘后 +<span class=\"num\">$1.49</span>（+0.45%）；评论区 <span class=\"num\">87</span> 条热议抄底：多人在 <span class=\"num\">$315–$328</span> 区间加仓、称“irrational dip”，亦有被套持仓者表示继续持有。（200 赞 / 87 评论）<span class=\"tag flat\">中性偏多</span> <a href=\"https://www.facebook.com/michael.ortega.946/posts/pfbid0G1c4AncyT1Da3BfmCPEDwcs9aRYxfuAoPedssRRZNmqpmxXCZ6Ci1a9iU1AmY6TGl\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "Facebook · FIRED Up Wealth（10/17 23:07 北京时间）：称 AVGO 如同当年的 MSFT <span class=\"num\">$350</span>，“未来 1–2 年 <span class=\"num\">75–85%</span> 上行空间”；评论区多肯定其财报兑现记录，亦有对 VMware 涨价反噬与定制芯片流失风险的质疑。（120 赞 / 68 评论）<span class=\"tag bull\">看多</span> <a href=\"https://www.facebook.com/FiredUpWealth/posts/pfbid0YccrsSbS8acBJPYEZbCYFYtsnhwnD6iAE8jMeXBXwp6RGSn9zpDYVKYPY6P5g3eTl\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "Instagram · @wealthbychristy（10/18 04:13 北京时间）：“3 只想买的暴跌股”之 AVGO——跌约 <span class=\"num\">30%</span>，AI 芯片收入 <span class=\"num\">$16.7B</span>（+221%），定制芯片 + 网络组合受益。（600 赞 / 73 评论）<span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/Dem8ECUhMFj/\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "Reddit（AltIndex，10/18）：AVGO 日均提及 <span class=\"num\">145</span> 次（较均值 <span class=\"num\">+88%</span>，高于 AMD <span class=\"num\">108</span> / Intel <span class=\"num\">51</span>），情绪 <span class=\"num\">62/100</span> 中性。<span class=\"tag flat\">中性</span> <a href=\"https://altindex.com/ticker/avgo/reddit-mentions\" target=\"_blank\" rel=\"noopener\">原文</a>"
+   ],
+   "title": "💬 社交平台头条"
+  },
+  {
+   "items": [
+    "Google TPU 长期协议延至 2031（DCD，约 10/15，补录——此前简报未收录）：博通在监管文件中披露与 Google 签署长期协议（LTA），开发并供应未来数代 TPU；另签供应保障协议，向 Google 下一代 AI 机架供应“网络及其他组件”至 <span class=\"num\">2031</span> 年；同期 Anthropic 与博通/Google 签署 <span class=\"num\">3.5GW</span> TPU 供应协议，2027 年起上线、美国本土为主。财务条款未披露。（DCD）",
+    "Anthropic “Project North Star” <span class=\"num\">600 亿美元</span>融资条款曝光（FT 经 shashi.co，10/18）：<span class=\"num\">$42B</span> 博通背书优先级债务 + <span class=\"num\">$18B</span> 次级层；Blackstone 旗下基金以 <span class=\"num\">10%+</span> 票息锚定其中 <span class=\"num\">$9B</span> 次级层；资金覆盖约 <span class=\"num\">1.5GW</span> Google TPU 的五年租约；据知情人士，融资包尚未敲定。呼应：昨日简报 Anthropic IPO 推进（拟 11/9 当周路演、感恩节前上市）。（FT / shashi.co）",
+    "LSEG 续签 VMware 五年（DCD，约 10/15，补录）：伦敦证交所集团续约五年，博通将为其部署 VMware Cloud Foundation 9 及专业服务；LSEG 称看中其安全与韧性。另一面：英国 NHS 北东伦敦 ICB 本周宣布迁出 VMware 转投 Nutanix AHV，大客户续约与流失并存。（DCD）"
+   ],
+   "title": "👀 今日关注"
+  }
+ ],
+ "sources_extra": "价格、均线与 RSI 由构建脚本基于 Nasdaq 官方日线与 CNBC 实时行情计算，数据截至上一交易日（10/16）美股收盘；盘中 OHLC、成交量（Finnhub 口径约 29.7M 股、日均 23.05M 股）与市值引自 Finnhub / MarketBeat；社交帖文时间为平台页面显示时间（X 帖经 @AVGO_X_ 登录会话逐条浏览核验）；Google TPU 长约与 LSEG 续约为 10 月中旬 DCD 报道、前期简报未收录故补录；Anthropic 融资条款源自 FT 经 shashi.co 转述（10/18），融资包据知情人士尚未敲定；基板厂盯线 10/19 晨核验无实质进展；Apple 减单为 Nikkei/Reuters 10/9–10 报道，仅作背景参考。",
+ "target_avg": "$527.20"
+}
