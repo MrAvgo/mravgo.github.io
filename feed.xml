@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-20：周二晨报（周一收 $%%PRICE%%，%%CHANGE_PCT%%）· TPU v9 延期约三周 · 高盛上调 CoreWeave</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-20</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周一（10/19）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.75&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;340.20&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;333.82&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;17.1M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;23.6M&lt;/span&gt; 股）缩量反弹，终结三连跌；市值约 &lt;span class=&quot;num&quot;&gt;$1.57T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月初 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-32.4%&lt;/span&gt;。；Google TPU v9 延期约三周（GF/Jeff Pu：EMIB 封装良率 &lt;span class=&quot;num&quot;&gt;45–50%&lt;/span&gt;，量产流片推至 &lt;span class=&quot;num&quot;&gt;2027Q2&lt;/span&gt;、出货 &lt;span class=&quot;num&quot;&gt;2028Q1&lt;/span&gt;），分析师称不改强劲需求；DCD 爆料 Google 与 Marvell 洽谈两款新型推理芯片（未证实）——博通仍是 TPU 唯一设计方，长约延至 &lt;span class=&quot;num&quot;&gt;2031&lt;/span&gt; 年。；高盛将 CoreWeave 由中性上调至买入（目标价 &lt;span class=&quot;num&quot;&gt;$106→$139&lt;/span&gt;），称 &lt;span class=&quot;num&quot;&gt;$104B&lt;/span&gt; 收入 backlog 为已承诺订单；AI 融资叙事边际修复，AVGO 跟涨跑赢大盘。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-19：周一晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Google TPU 长约延至 2031 · Anthropic 融资包条款曝光</title>
       <link>https://avgo.pages.dev/briefs/2026-10-19</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-19</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
       <description>周三（9/30）收盘 &lt;span class=&quot;num&quot;&gt;$351.19&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$3.91&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-1.10%&lt;/span&gt;），失守 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 整数关口；成交量约 &lt;span class=&quot;num&quot;&gt;18.3M&lt;/span&gt; 股，低于 50 日均量 &lt;span class=&quot;num&quot;&gt;22.6M&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-29%&lt;/span&gt;。（MarketWatch，9/30 盘后）；公司层面今日无新增实质动态：9/29 的 Netlist ITC 案、Anthropic 招股书披露、新加坡基板厂投产三条消息已于昨日简报完整收录，不再重复。；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat：41 家——37 家 Buy、1 家 Strong Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，按周三收盘测算隐含约 &lt;span class=&quot;num&quot;&gt;+50%&lt;/span&gt; 上行空间；近两周唯一评级动作为 Bernstein 9/21 重申 Buy。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-09-30：周二收盘 $355.10（+1.58%）· Anthropic 招股书披露 $161.2B 博通设备租赁、Netlist ITC 投诉牵连、$0.65 分红今日派发</title>
-      <link>https://avgo.pages.dev/briefs/2026-09-30</link>
-      <guid>https://avgo.pages.dev/briefs/2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
-      <description>周二（9/29）收盘 &lt;span class=&quot;num&quot;&gt;$355.10&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+$5.53&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;+1.58%&lt;/span&gt;），收复 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 整数关口；开盘 &lt;span class=&quot;num&quot;&gt;$357.00&lt;/span&gt;，盘中区间 &lt;span class=&quot;num&quot;&gt;$354.00 – $361.86&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-28.3%&lt;/span&gt;。（dhan.co、Nasdaq 官方日线）；今日最大公司层面消息：&lt;strong&gt;Anthropic 机密 IPO 招股书（Reuters 9/29）披露其约 $161.2B 与博通相关的设备租赁义务、基本不可撤销&lt;/strong&gt;——博通被定位为 Anthropic AI 基建的关键供应商，直接印证定制 XPU/网络芯片需求；另一面，&lt;strong&gt;Netlist 在 ITC 新立案&lt;/strong&gt;（Reuters 9/29），指美光 HBM 侵犯其专利，博通作为美光下游客户被列为被诉方，属法律风险变量。；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat：41 家——1 家 Strong Buy、37 家 Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，按周二收盘测算隐含约 &lt;span class=&quot;num&quot;&gt;+48.4%&lt;/span&gt; 上行空间；近两周无新的评级调整，最新动作为 Bernstein 9/24 重申 Buy。</description>
     </item>
   </channel>
 </rss>
