@@ -1,12 +1,52 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": "49",
- "following": "77",
+ "followers": "48",
+ "following": "79",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@antfeedapp",
+   "ref_url": "https://x.com/antfeedapp/status/2112503179476938971",
+   "text": "@antfeedapp The structure is the tell: $42B of the $60B sits in Broadcom-guaranteed senior loans at ~6%, juniors pay 10%+. Broadcom isn't just selling chips here — it's underwriting the customer. Terms still unconfirmed, but that's the model Anthropic is being built on. https://t.co/9BHa5XugsQ",
+   "time": "2026-10-20 20:03",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2112514961918374271"
+  },
+  {
+   "ref_author": "@dannycheng2022",
+   "ref_url": "https://x.com/dannycheng2022/status/2112447814227910714",
+   "text": "Price parked right on your $328–$333 support with RSI(14) at 38.7. Washed out but not broken. Higher lows still intact. $360 is the gate from here. $AVGO",
+   "time": "2026-10-20 18:45",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2112495513539137914"
+  },
+  {
+   "ref_author": "@AIStockSavvy",
+   "ref_url": "https://x.com/AIStockSavvy/status/2112355521659310146",
+   "text": "First 10-year VMware software deal in Japan, and it's with NTT DOCOMO, a partner since 2019. Licenses and support locked in for a decade, VCF at the core. Quiet, sticky, recurring-revenue news. The software side of AVGO keeps compounding. $AVGO https://t.co/JbizDTInH7",
+   "time": "2026-10-20 09:58",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2112362842980757516"
+  },
+  {
+   "ref_author": "@drayinvests",
+   "ref_url": "https://x.com/drayinvests/status/2112336746050716053",
+   "text": "@drayinvests Same math here. Consensus is still Moderate Buy — 37 buys vs 3 holds, avg target $527.20, about +58% implied. The multiple compression looks more like sentiment than anything in the numbers. https://t.co/Ps7NVuGlmA",
+   "time": "2026-10-20 09:37",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2112357515451314546"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "TPU v9（Core A）延期三周：卡在 EMIB 封装良率 45–50%，量产流片推到 2027Q2。GF 的原话是根因已定位、需求没降温。三周换良率爬坡，这买卖不算贵。长约签到 2031，时间站在有长约的一边。$AVGO https://t.co/KPFvQ49CJ9",
+   "time": "2026-10-20 08:51",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2112346051436749093"
+  },
   {
    "url": "https://x.com/AVGO_X_/status/2112140508688798171",
    "time": "2026-10-19 19:15",
@@ -598,5 +638,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-19"
+ "updated": "2026-10-20"
 }
