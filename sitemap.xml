@@ -182,6 +182,10 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://avgo.pages.dev/tweets-5</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://avgo.pages.dev/tweets</loc>
     <changefreq>daily</changefreq>
   </url>
