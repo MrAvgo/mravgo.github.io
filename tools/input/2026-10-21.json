@@ -1,0 +1,117 @@
+{
+ "archive_title": "周三晨报（周二收 $%%PRICE%%，%%CHANGE_PCT%%）· Meta 百万卡集群落地 Jericho3 · 博通签 NTT DOCOMO 十年协议",
+ "key_points": [
+  "周二（10/20）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">338.75</span>、高 <span class=\"num\">340.20</span>、低 <span class=\"num\">333.82</span>，成交量约 <span class=\"num\">10.1M</span> 股（50 日均约 <span class=\"num\">24.9M</span> 股）显著缩量，盘后反弹至 <span class=\"num\">$339.82</span>（<span class=\"num\">+1.63%</span>）；市值约 <span class=\"num\">$1.60T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点（6 月初 <span class=\"num\">$495</span>）约 <span class=\"num\">-32.4%</span>。",
+  "Meta 官方工程博客（10/19）披露其 1GW 级 AI 超级集群 Prometheus 的后端聚合网络采用 Arista 7800 机箱＋博通 Jericho3 芯片——Tomahawk/Jericho 系在超大规模客户的机架级实质落地再添证据。",
+  "博通与 NTT DOCOMO 签署 10 年期 VMware 私有云协议（官方新闻稿 10/19，博通日本首个此类综合协议），FedEx 同日宣布延续基础设施协议——VMware 订阅制收入的存量与增量双线推进。",
+  "分析师评级：MarketBeat Moderate Buy，<span class=\"num\">41</span> 家平均目标价 <span class=\"num\">$527.20</span>（隐含约 <span class=\"num\">+57.4%</span>）；近两周唯一变化为 Weiss Ratings <span class=\"num\">10/8</span> 上调 buy(b-)→buy(b)。",
+  "技术面：收盘仍位于 20/50/200 日均线之下（<span class=\"num\">$%%MA20%%</span> / <span class=\"num\">$%%MA50%%</span> / <span class=\"num\">$%%MA200%%</span>），死亡交叉延续；RSI(14) <span class=\"num\">%%RSI%%</span> 处弱势区；支撑 <span class=\"num\">308.97</span> / <span class=\"num\">291.33</span>，阻力 <span class=\"num\">340.07</span> / <span class=\"num\">348.16</span>。"
+ ],
+ "rating": "Moderate Buy",
+ "rating_class": "up",
+ "ref_links": [
+  {
+   "title": "Finnhub：AVGO 行情数据",
+   "url": "https://finnhub.io/?q=%22AVGO%22"
+  },
+  {
+   "title": "MarketBeat：AVGO 分析师评级与目标价",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/?Vote=0"
+  },
+  {
+   "title": "GlobeNewswire：博通–NTT DOCOMO 十年协议（10/19）",
+   "url": "https://rss.globenewswire.com/news-release/2026/10/20/3383992/19933/en/broadcom-to-advance-ntt-docomo-s-private-cloud-with-vmware-cloud-foundation.html"
+  },
+  {
+   "title": "GlobeNewswire：博通–FedEx 基础设施协议延续（10/20）",
+   "url": "https://www.globenewswire.com/news-release/2026/10/20/3384502/19933/en/broadcom-announces-continued-infrastructure-agreement-with-fedex-to-support-global-operations.html"
+  },
+  {
+   "title": "PyTorch 官方博客：TorchTPU 开源（10/20）",
+   "url": "https://pytorch.org/blog/introducing-torchtpu/"
+  },
+  {
+   "title": "MarkTechPost：Google 开源 TorchTPU（10/20）",
+   "url": "https://www.marktechpost.com/2026/10/20/google-torchtpu-open-source-native-pytorch-tpu/"
+  },
+  {
+   "title": "Converge Digest：OCP 博通 AI 网络复盘（10/20）",
+   "url": "https://convergedigest.com/ocp-summit-video-why-ethernet-is-winning-ai-networking/"
+  },
+  {
+   "title": "TipRanks：AVGO 抛售或是过度反应",
+   "url": "https://www.tipranks.com/news/broadcoms-avgo-sell-off-is-starting-to-look-like-an-overreaction"
+  },
+  {
+   "title": "Insider Monkey：分析师认为值贵 50%（10/18）",
+   "url": "https://www.insidermonkey.com/news/broadcom-avgo-went-nowhere-for-a-year-analysts-think-it-is-worth-50-more-1855008/"
+  },
+  {
+   "title": "Instagram：@wall_street_trapper October Dip 买入 AVGO（10/19）",
+   "url": "https://www.instagram.com/reel/DesUC-TxV_d/"
+  }
+ ],
+ "sections": [
+  {
+   "items": [
+    "周二（10/20）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">334.00</span>、高 <span class=\"num\">341.10</span>、低 <span class=\"num\">330.80</span>，前收 <span class=\"num\">334.59</span>。（Finnhub，10/20 收盘）",
+    "成交量约 <span class=\"num\">10.1M</span> 股，远低于 <span class=\"num\">50</span> 日均量 <span class=\"num\">24.9M</span> 股——显著缩量整理；市值约 <span class=\"num\">$1.60T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距年内高点（6 月 <span class=\"num\">$495</span>）约 <span class=\"num\">-32.4%</span>。（Finnhub / MarketBeat）",
+    "盘后：<span class=\"num\">$339.82</span>（<span class=\"num\">+1.63%</span>，美东 10/20 19:55）。周二跑赢板块（SOXX <span class=\"num\">-0.38%</span>、QQQ <span class=\"num\">-0.10%</span>）。（Finnhub / TECHi）",
+    "本周公司层面无分红除权事件；FY2026 Q4 财报预计 12 月初盘后（第三方行情页口径 12/9，公司尚未官宣确切日期）。（内部事件日历，截至 10/21）"
+   ],
+   "title": "📰 行情速览"
+  },
+  {
+   "items": [
+    "Meta Prometheus 落地 Jericho3 的含义：这是 Tomahawk/Jericho 系在头部 hyperscaler 百万卡级集群的又一次官方工程背书——继 Meta IceCube 之后，AI 后端组网的“以太网替代 InfiniBand”叙事从营销进入可验证的部署清单；对博通 AI 网络业务的 FY2027–28 能见度是实质加分，利好偏中期。（细节见①）",
+    "TorchTPU 开源的含义：Google 把 TPU 变成 PyTorch 原生设备，直接降低 TPU 相对 CUDA 的软件迁移成本——TPU 生态每扩大一分，博通作为协同设计与制造方的 XPU 含量就多一分；但对冲面是供应链估计称 MediaTek 正在拿下推理侧 TPU 份额（v8t），v9 归属未定（均未证实）——博通的 TPU 基本盘稳固（LTA 至 2031），边际变量在“份额结构”而非“有无订单”，中性偏谨慎。（细节见④⑦）",
+    "DOCOMO 十年协议＋FedEx 续约的含义：两单都是 VMware Cloud Foundation 私有云的长周期锁定——DOCOMO 是博通在日本首个 10 年综合协议，属增量标杆；FedEx 是存量续约。软件订阅收入的“续费率＋大单年限”双改善，对冲 AI 硬件毛利率稀释的担忧，利好偏温和、偏长期。（细节见②③）",
+    "Anthropic 次级债 10% 票息的含义：AI 基建融资成本仍在上行（较四个月前 8.5% 再贵 150bp），呼应 Hock Tan“资本而非芯片是最大瓶颈”的警告；博通为 420 亿美元高级债提供担保——需求锁定与信用风险敞口并存，属中性偏谨慎的观察点。（细节见⑤）",
+    "基板厂：今日 <span class=\"num\">07:00</span> 盯线核验，<span class=\"num\">72</span> 小时内无投产 / 产能 / 订单类新消息，无实质进展。（细节见⑧）"
+   ],
+   "title": "🏢 基本面"
+  },
+  {
+   "items": [
+    "主口径 MarketBeat：<span class=\"num\">41</span> 家机构覆盖——强烈买入 <span class=\"num\">1</span> / 买入 <span class=\"num\">37</span> / 持有 <span class=\"num\">3</span>，无卖出；共识 Moderate Buy；平均目标价 <span class=\"num\">$527.20</span>，以周二收盘计隐含涨幅约 <span class=\"num\">+57.4%</span>，区间 <span class=\"num\">$350–$715</span>。（MarketBeat，更新至 10/20）",
+    "近两周变化：仅 Weiss Ratings <span class=\"num\">10/8</span> 上调 buy(b-)→buy(b)；Melius Ben Reitzes 维持 <span class=\"num\">$610</span> 目标价（CoinCentral 10/19 引述）。再往前：Macquarie <span class=\"num\">9/3</span> 上调至 Outperform、Piper Sandler <span class=\"num\">9/10</span> 首发覆盖 Overweight（<span class=\"num\">$460</span>）、Bernstein <span class=\"num\">9/21</span> 重申 Buy。（MarketBeat / clearank）",
+    "<details class=\"more\"><summary>其他汇总口径</summary><ul><li>TipRanks：近 3 个月 <span class=\"num\">29</span> 家（买入 <span class=\"num\">27</span> / 持有 <span class=\"num\">2</span>），平均目标价 <span class=\"num\">$519.21</span>（<span class=\"num\">+55%</span>），Strong Buy；其分析师文章《Broadcom's Sell-Off Is Starting to Look Like an Overreaction》维持 Buy（10/20）。</li><li>clearank（TwelveData）：<span class=\"num\">50</span> 家（买入/强买 <span class=\"num\">47</span> / 持有 <span class=\"num\">3</span> / 卖出 <span class=\"num\">0</span>），中位数 <span class=\"num\">$535</span>（<span class=\"num\">+59.9%</span>），区间 <span class=\"num\">$215.88–$660</span>。</li><li>UltraStockAnalysisPro 模型：ACCUMULATE（新建仓）/ HOLD（持有），信号强度 <span class=\"num\">4/7</span>；平均目标价 <span class=\"num\">$500.80</span>（<span class=\"num\">+52.3%</span>），<span class=\"num\">47</span> 买 / <span class=\"num\">3</span> 持有（10/17 更新）。</li></ul></details>"
+   ],
+   "title": "🎯 分析师评级"
+  },
+  {
+   "items": [
+    "趋势：收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），仍位于 20 日均线（<span class=\"num\">$%%MA20%%</span>）、50 日（<span class=\"num\">$%%MA50%%</span>）与 200 日（<span class=\"num\">$%%MA200%%</span>）均线之下；50 日均线仍下穿 200 日均线（死亡交叉），中期趋势偏弱；周二缩量小幅收跌，盘后反弹动能待今日盘中确认。（脚本基于 Nasdaq 官方日线计算）",
+    "支撑：第三方量价模型参考位 <span class=\"num\">308.97</span>、<span class=\"num\">291.33</span>；52 周低点 <span class=\"num\">$289.96</span> 为最后防线。阻力：<span class=\"num\">340.07</span> / <span class=\"num\">348.16</span> / <span class=\"num\">361.86</span>。（UltraStockAnalysisPro 模型参考位，10/17）",
+    "动量：RSI(14) <span class=\"num\">%%RSI%%</span>，仍处弱势区但已脱离深超卖；成交量仅约 <span class=\"num\">10.1M</span> 股 vs 50 日均 <span class=\"num\">24.9M</span> 股——抛压与买盘同时萎缩，方向选择未定，暂未见企稳信号。（MarketBeat）"
+   ],
+   "title": "📊 技术面"
+  },
+  {
+   "items": [
+    "X · @pequityresearch · 10/20 11:00（北京时间）—— 转发 Outer Ninth Research 的 AI 供应链瓶颈图谱与月度追踪仪表盘（10 月版），<span class=\"num\">$AVGO</span> 被列为供应链各受限环节的主要厂商之一。（227 赞 / 29 转发 / 约 2.03 万浏览）<span class=\"tag flat\">中性</span> <a href=\"https://x.com/pequityresearch/status/2112378269626511487\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "X · @macropaperr · 10/20 18:58（北京时间）—— 援引 Morgan Stanley 数据：NVDA、AVGO、ORCL 的 CDS 利差创纪录走阔，科技巨头信用市场恐慌升温，附利差走势图。（195 赞 / 47 转发 / 13 回复）<span class=\"tag bear\">谨慎</span> <a href=\"https://x.com/macropaperr/status/2112498770198003953\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "X · @JasonL_Capital · 10/21 06:32（北京时间）—— 在其 SpaceX 20GW 基建受益股主题帖中列出 Broadcom：AI 芯片收入上季度 <span class=\"num\">+221%</span> 至 <span class=\"num\">$16.7B</span>、Q4 指引 <span class=\"num\">$21.7B</span>，Hock Tan 称供应有保障、FY2027 AI 收入约翻倍至 <span class=\"num\">$115B</span>。（主帖约 6950 浏览）<span class=\"tag bull\">看多</span> <a href=\"https://x.com/JasonL_Capital/status/2112673306084327559\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "X · @PhotonCap · 10/21 07:53（北京时间）—— 转述 Apple <span class=\"num\">$600B</span> 美国制造计划（pulse2.com）：提及博通 Fort Collins 工厂 <span class=\"num\">$1.5B</span> 投资、生产 <span class=\"num\">150</span> 亿颗以上美国本土芯片（该投资为 2026 年 7 月宣布，本帖为今日转述），凸显近岸供应链趋势。<span class=\"tag bull\">看多</span> <a href=\"https://x.com/PhotonCap/status/2112693676946457077\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "Instagram · @wall_street_trapper（蓝V，<span class=\"num\">1.9M</span> 粉丝）· 10/20 06:19（北京时间）—— “October Dip”买入机会视频：点名买入 GOOGL、TSMC 与 AVGO，称看好其定制 AI 芯片与网络基建的长期前景。（约 <span class=\"num\">5.1K</span> 赞 / <span class=\"num\">170</span> 评论）<span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DesUC-TxV_d/\" target=\"_blank\" rel=\"noopener\">原文</a>",
+    "<details class=\"more\"><summary>更多平台</summary><ul><li>X · @ProKayaFinance（10/20 18:01 北京时间）：土耳其语长文《A'dan Z'ye $AVGO》——从 A 到 Z 拆解博通 AI 芯片业务与客户增长，讨论估值（PE/PEG）并提示 Anthropic/OpenAI 客户依赖风险。（181 赞 / 10 转发 / 12 回复）中性 <a href=\"https://x.com/ProKayaFinance/status/2112484366513238329\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>X · @Bearlovesbull（10/21 约 04:00 北京时间）：“AI 支出担忧下的隐形赢家”论述。（12 赞）看多 <a href=\"https://x.com/Bearlovesbull\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>Instagram · @barchartofficial（10/19 19:19 北京时间）：转发 Barchart 专栏（Amit Singh，10/17）《Why Broadcom Stock Is a Good Buy Now》——自高点跌超 30% 系 AI 开支可持续性担忧，但增长前景未变。看多 <a href=\"https://www.instagram.com/p/DerIngSFWDO/\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>Instagram · @ox_talks（10/20 01:46 北京时间）：「Broadcom CEO Warns: AI Investors Are Just Gamblers」——转述 Hock Tan 10/12 DBS 会议言论。中性 <a href=\"https://www.instagram.com/reel/DeqD2wYjius/\" target=\"_blank\" rel=\"noopener\">原文</a></li><li>Facebook · @Stockstoearn（20 万粉丝，10/20 22:58 北京时间）：AVGO 图表帖——现价 <span class=\"num\">$334.59</span>，过去 5 年 <span class=\"num\">+549.17%</span>。中性 <a href=\"https://www.facebook.com/Stockstoearnpage/posts/pfbid02db3WZe9ZipzsucFwUuAbaKbEZe34pfsGVR7E7Fm6LhezzxdBXthm78YAXMFzc1Rql\" target=\"_blank\" rel=\"noopener\">原文</a></li></ul></details>"
+   ],
+   "title": "💬 社交平台头条"
+  },
+  {
+   "items": [
+    "① Meta 官方工程博客《Inside Prometheus》（10/19）：Meta 1GW 级 AI 超级集群 Prometheus（俄亥俄 New Albany）的后端聚合（BAG）网络采用 Arista 7800 系列机箱＋深度缓冲的博通 Jericho3 芯片，hub-and-spoke 多层拓扑横跨 2km–100km+，每个 region pair 提供 multi-Pbps 带宽；单栋建筑 fabric 连接 20,736 GPU。属 AI 网络芯片在头部客户的机架/园区级实质落地。（Meta engineering.fb.com 10/19；Technology.org、blocksandfiles、StorageReview 10/20 跟进，4+ 来源一致）",
+    "② 博通与 NTT DOCOMO 签署 10 年期 VMware 私有云协议（GlobeNewswire 官方新闻稿，Tokyo, 10/19）：以 VMware Cloud Foundation 为核心持续推进 DOCOMO 私有云，含 VCF、Avi Load Balancer、vDefend、Tanzu Platform 及支持服务；为博通在日本首个此类 10 年综合协议，双方自 2019 年起合作；官方未披露合同金额。（TheStreet 10/20、Stockhouse、Securities.io 等多源转述）",
+    "③ 博通宣布与 FedEx 的基础设施协议延续（GlobeNewswire 官方新闻稿，Palo Alto, 10/20）：在整合协议下 FedEx 继续采用 VCF、Avi Load Balancer 与 Tanzu Platform 支撑全球私有云与应用现代化；博通美洲区总裁 Regan McGrath 发表声明。属存量客户续约。（ad-hoc-news.de 10/20 综述交叉）",
+    "④ Google 开源 TorchTPU v0.2.0（PyTorch 官方博客＋Google Cloud 博客，10/20，PyTorch Conference 2026）：与 Meta PyTorch 团队共建的原生 PyTorch 后端（Apache 2.0，PyPI 可用），取代 PyTorch/XLA，支持 eager 调试＋torch.compile；已在 v5e 至 Ironwood（TPU v7）8,192 芯片规模验证，Qwen3 8B 达 52% MFU。意义：降低 TPU 软件切换成本，对 CUDA 生态形成压力；TPU 由博通协同设计与制造。（MarkTechPost、Unite.AI 等 6+ 来源 1 天内跟进）",
+    "⑤ Anthropic「Project North Star」600 亿美元 TPU 融资新披露细节（SignalPlus，10/18）：次级债部分拟由 Blackstone 基金认购约 90 亿美元，票息 10%——较可比高收益债基准高 300+bp、高于 Anthropic 四个月前上一轮的 8.5%；420 亿美元高级债由博通提供担保；资金拟 2027 年前提取。反映 AI 基建融资成本上行。（Bloomberg/FT 10/02 原报道结构为背景）",
+    "⑥ IP Infusion 宣布 OcNOS-DC 7.2 支持博通 Tomahawk 6（102.4T），并在 10/19–21 Miami NANOG 98 做技术预览（BusinessWire/官网原公告 10/14；Converge Digest 跟踪）：属 Tomahawk 6 生态 design-win 进展；原公告在 48h 窗口边缘，预览正在窗口内进行。",
+    "⑦ TPU v8 供应链估计（<span class=\"tag flat\">未证实</span>）：vlsi.kr《Market Bulletin》（约 10/20）转述 Economic Daily 10/07 供应链估计——TPU v8 总量 2026 年约 402 万颗→2027 年约 910 万颗；其中 MediaTek 推理款 v8t 约 360 万颗、博通训练款 v8i 约 550 万颗；v9 归属与份额变化（如“MediaTek 拿下 v9 全部份额”）仅为供应链推测，未获 Google/博通官方证实，仅供观察。",
+    "⑧ 基板厂：今日 <span class=\"num\">07:00</span> 盯线核验完毕，<span class=\"num\">72</span> 小时内无投产 / 产能 / 订单类新消息，无实质进展。"
+   ],
+   "title": "👀 今日关注"
+  }
+ ],
+ "sources_extra": "价格与盘后数据（Finnhub，10/20 美股收盘及盘后）；均线/RSI 由构建脚本基于 Nasdaq 官方日线计算；盘中 OHLC、成交量（MarketBeat 口径 10.1M 股、50 日均 24.9M 股）与市值（Finnhub $1.60T）引自公开行情页；NTT DOCOMO / FedEx 均为博通官方 GlobeNewswire 新闻稿（10/19、10/20）；Meta Prometheus 为 Meta 官方工程博客（10/19）；TorchTPU 为 PyTorch 官方博客与 Google Cloud 博客（10/20）；Anthropic 票息细节为 SignalPlus（10/18）披露、结构背景见 Bloomberg/FT（10/02）；Tomahawk 6 生态为 IP Infusion 官方公告（10/14）与 Converge Digest 跟踪；TPU v8 份额为供应链估计（vlsi.kr 转述，未证实）；基板厂盯线 10/21 晨核验无实质进展；社交帖文时间为平台页面显示时间。",
+ "target_avg": "$527.20"
+}

@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-21：周三晨报（周二收 $%%PRICE%%，%%CHANGE_PCT%%）· Meta 百万卡集群落地 Jericho3 · 博通签 NTT DOCOMO 十年协议</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-21</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周二（10/20）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.75&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;340.20&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;333.82&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;10.1M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;24.9M&lt;/span&gt; 股）显著缩量，盘后反弹至 &lt;span class=&quot;num&quot;&gt;$339.82&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+1.63%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.60T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月初 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-32.4%&lt;/span&gt;。；Meta 官方工程博客（10/19）披露其 1GW 级 AI 超级集群 Prometheus 的后端聚合网络采用 Arista 7800 机箱＋博通 Jericho3 芯片——Tomahawk/Jericho 系在超大规模客户的机架级实质落地再添证据。；博通与 NTT DOCOMO 签署 10 年期 VMware 私有云协议（官方新闻稿 10/19，博通日本首个此类综合协议），FedEx 同日宣布延续基础设施协议——VMware 订阅制收入的存量与增量双线推进。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-20：周二晨报（周一收 $%%PRICE%%，%%CHANGE_PCT%%）· TPU v9 延期约三周 · 高盛上调 CoreWeave</title>
       <link>https://avgo.pages.dev/briefs/2026-10-20</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-20</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-02</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
       <description>周四（10/1）收盘 &lt;span class=&quot;num&quot;&gt;$343.64&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$7.55&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-2.15%&lt;/span&gt;），连续第二个交易日下跌；成交量约 &lt;span class=&quot;num&quot;&gt;22.2M&lt;/span&gt; 股，略低于 50 日均量 &lt;span class=&quot;num&quot;&gt;22.7M&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-30.6%&lt;/span&gt;。（MarketWatch，10/1 盘后）；路透独家（10/1）：Anthropic IPO 招股书披露博通同意提供最高 &lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 贷款用于 AI 基础设施支出（可转债形式，约覆盖其 &lt;span class=&quot;num&quot;&gt;$125.2B&lt;/span&gt; 五年 TPU 租赁承诺的三分之一）；Anthropic 2027 年将成为博通定制芯片业务最大客户——订单锁定与供应商循环融资质疑并存。；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat：41 家——37 家 Buy、1 家 Strong Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，按周四收盘测算隐含约 &lt;span class=&quot;num&quot;&gt;+53%&lt;/span&gt; 上行空间；近两周评级变化：Jefferies 约 9/29 维持 Buy（目标价 &lt;span class=&quot;num&quot;&gt;$550&lt;/span&gt;）、DA Davidson 9/4 下调目标价至 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt;（街最低）。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-01：周三收盘 $351.19（-1.10%）失守 $350 关口 · 公司层面无新增动态 · 分析师维持 Moderate Buy</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-01</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-01</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周三（9/30）收盘 &lt;span class=&quot;num&quot;&gt;$351.19&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-$3.91&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;-1.10%&lt;/span&gt;），失守 &lt;span class=&quot;num&quot;&gt;$350&lt;/span&gt; 整数关口；成交量约 &lt;span class=&quot;num&quot;&gt;18.3M&lt;/span&gt; 股，低于 50 日均量 &lt;span class=&quot;num&quot;&gt;22.6M&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-29%&lt;/span&gt;。（MarketWatch，9/30 盘后）；公司层面今日无新增实质动态：9/29 的 Netlist ITC 案、Anthropic 招股书披露、新加坡基板厂投产三条消息已于昨日简报完整收录，不再重复。；分析师综合评级 &lt;strong&gt;Moderate Buy&lt;/strong&gt;（MarketBeat：41 家——37 家 Buy、1 家 Strong Buy、3 家 Hold），平均目标价 &lt;span class=&quot;num&quot;&gt;$527.20&lt;/span&gt;，按周三收盘测算隐含约 &lt;span class=&quot;num&quot;&gt;+50%&lt;/span&gt; 上行空间；近两周唯一评级动作为 Bernstein 9/21 重申 Buy。</description>
     </item>
   </channel>
 </rss>
