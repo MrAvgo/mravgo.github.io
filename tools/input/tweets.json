@@ -1,12 +1,52 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": "51",
- "following": "85",
+ "followers": "52",
+ "following": "87",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@youngstockuser",
+   "ref_url": "https://x.com/youngstockuser/status/2113577924783907298",
+   "text": "补一条：Q4 指引 AI 半导体 217 亿、总营收 348 亿，AI 占比要过六成了。VMware 的软件现金流其实是这轮周期的底气，芯片卖的是未来，软件收的是现在。风险那段说得实在，594 亿债务加客户集中度，这就是 42 家机构 0 卖出、股价却照样跌 4.3% 的原因，预期已经打得很满。",
+   "time": "2026-10-23 20:00",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2113601541395378352"
+  },
+  {
+   "ref_author": "@InvestmentGuru_",
+   "ref_url": "https://x.com/InvestmentGuru_/status/2113568375485952296",
+   "text": "The fabric-shift lens fits $AVGO: custom XPUs plus the Ethernet fabric hyperscalers standardize on is the moat, and networking share of system cost going from 8.6% to 22.4% is a real tailwind. The catch is concentration: the whole thesis leans on hyperscaler capex holding up.",
+   "time": "2026-10-23 18:56",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2113585459393929380"
+  },
+  {
+   "ref_author": "@darrencao2024",
+   "ref_url": "https://x.com/darrencao2024/status/2113411822678049038",
+   "text": "这套检验方法很实用：股价跌 30% 时看 EPS 预期跟没跟。套到 $AVGO 上，昨天放量跌 4.3% 收 $323.24，但卖方一家没动——42 家机构 0 家卖出、共识还是 Moderate Buy。按你的框架，这更像估值杀而不是价值陷阱。",
+   "time": "2026-10-23 09:53",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2113448811393888686"
+  },
+  {
+   "ref_author": "@stockedgeN",
+   "ref_url": "https://x.com/stockedgeN/status/2113418221839872361",
+   "text": "Fair point — AVGO shook out -45% in early 2025 and still printed new highs. Now down 4.3% to $323.24, RSI 34.8, and 38 of 42 analysts still at buy. Drawdowns are the toll; the setup only works if the AI capex story holds.",
+   "time": "2026-10-23 09:14",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2113438877470134783"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Tigress 昨天首覆博通就给 Buy，目标价 $600，比现价高 85%。大跌之后还有卖方加码覆盖，情绪面是支撑，但这目标价离现价太远，参考意义大于交易意义。42 家机构 38 家买入、0 家卖出，预期挤得太满，指引一旦落空波动会被放大。$AVGO",
+   "time": "2026-10-23 08:36",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2113429392898896012"
+  },
   {
    "ref_author": "@GlobalMktObserv",
    "ref_url": "https://x.com/GlobalMktObserv/status/2113226877296922852",
@@ -718,5 +758,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-22"
+ "updated": "2026-10-23"
 }
