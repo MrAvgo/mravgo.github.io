@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-23：周五晨报（周四收 $%%PRICE%%，%%CHANGE_PCT%%）· Hock Tan 上 Cramer 重申 $350B 预测 · Tigress 首覆买入</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-23</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周四（10/22）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;326.53&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;330.82&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;321.02&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;27.8M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;24.9M&lt;/span&gt; 股）——放量下跌；盘后 &lt;span class=&quot;num&quot;&gt;$322.67&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-0.18%&lt;/span&gt;，美东 10/22 19:55）；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-34.7%&lt;/span&gt;。；Hock Tan 10/21 登上 CNBC Mad Money 接受 Jim Cramer 专访：重申未来两年约 &lt;span class=&quot;num&quot;&gt;$350B&lt;/span&gt; AI 芯片出货预测不动摇，称 AI 算力需求“强劲且持久”。；Tigress Financial 10/22 首次覆盖博通：Buy，目标价 &lt;span class=&quot;num&quot;&gt;$600&lt;/span&gt;；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家：强烈买入 &lt;span class=&quot;num&quot;&gt;1&lt;/span&gt; / 买入 &lt;span class=&quot;num&quot;&gt;38&lt;/span&gt; / 持有 &lt;span class=&quot;num&quot;&gt;3&lt;/span&gt; / 卖出 &lt;span class=&quot;num&quot;&gt;0&lt;/span&gt;），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-22：周四晨报（周三收 $%%PRICE%%，%%CHANGE_PCT%%）· Arcot 反欺诈新品上线 · 博通反对股票代币化</title>
       <link>https://avgo.pages.dev/briefs/2026-10-22</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-22</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-04</guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
       <description>周五（10/2）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），10/3–10/4 周末美股休市、无新交易；成交量约 &lt;span class=&quot;num&quot;&gt;24.5M&lt;/span&gt; 股，高于 50 日均量 &lt;span class=&quot;num&quot;&gt;22.8M&lt;/span&gt; 股；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-28.3%&lt;/span&gt;。（MarketWatch / Finnhub，10/2 盘后）；Hock Tan 确认出席 10/12 新加坡 DBS 首届 Asia Future Forward Conference（与 Intel CEO 陈立武、TikTok CEO 周受资、新加坡总理黄循财同台），主题 AI——下周第一个公开表态观察点。（DBS 官方新闻稿，10/2）；Anthropic S-1 新细节：十年期基础设施总承诺 &lt;span class=&quot;num&quot;&gt;$518B&lt;/span&gt;（博通相关不可撤销设备租赁 &lt;span class=&quot;num&quot;&gt;$161.2B&lt;/span&gt; 为其子集），Anthropic 自 4 月起向受限账户存入保证金；&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 可转债是该结构关键机制。（Forkast / semi.doped / AIStockWire，10/2–10/3）</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-03：周五收盘 $355.14（+3.35%）止跌反弹 · 彭博：博通正组建 $60B AI 融资包（Blackstone 领衔次级档） · 分析师维持 Moderate Buy</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-03</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/2）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），结束连续两个交易日下跌；成交量约 &lt;span class=&quot;num&quot;&gt;24.5M&lt;/span&gt; 股，高于 50 日均量 &lt;span class=&quot;num&quot;&gt;22.8M&lt;/span&gt; 股；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-28.3%&lt;/span&gt;。（MarketWatch，10/2 盘后）；彭博（10/2）：博通银团正组建约 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt; AI 芯片与基础设施融资包——&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 优先担保债（银行银团分销）+ &lt;span class=&quot;num&quot;&gt;$18B&lt;/span&gt; 次级债（Blackstone 领衔，Blackstone 自投 &lt;span class=&quot;num&quot;&gt;$9B&lt;/span&gt;），资助对象不止 Anthropic，还包括其他 AI 公司；与此前披露的 $42B Anthropic 贷款安排的关系未披露。交叉验证：Stocktwits、AIStockWire。；Anthropic IPO 时间线（彭博 10/1）：目标 11 月中旬上市、路演最早 11 月 9 日那周、感恩节（11/26）前挂牌；估值预期 &lt;span class=&quot;num&quot;&gt;$1.8–2 万亿&lt;/span&gt;；10 月 14 日旧金山机构投资者日。（AIStockWire 梳理）</description>
     </item>
   </channel>
 </rss>
