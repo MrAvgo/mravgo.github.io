@@ -1,12 +1,36 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": "52",
- "following": "87",
+ "followers": "53",
+ "following": "89",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@I5uHR1aNk9aocRn",
+   "ref_url": "https://x.com/I5uHR1aNk9aocRn/status/2113884105935126674",
+   "text": "Fabless plus VMware on top of the chip business. That mix is why the margin profile looks so different from a traditional chipmaker. Still leaves the question of how much of it rides on AI hardware spending holding up. $AVGO",
+   "time": "2026-10-24 18:25",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2113939887229472962"
+  },
+  {
+   "ref_author": "@venaodiver",
+   "ref_url": "https://x.com/venaodiver/status/2113700558041464970",
+   "text": "CPO moves from lab demo to a live AI data center: KDDI will measure power, packet loss and throughput on Tomahawk 6 (102.4T) with Broadcom's Davisson optical engines. Optics moving into the package is what could actually change the power math for scale-up fabrics. $AVGO",
+   "time": "2026-10-24 09:52",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2113810718478963081"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "三家投行这周都在算 Google TPU 外售这笔账：Evercore 预计 2027 年对外卖 750 亿美元、2028 年 1130 亿，Piper 更激进，2026 年 80 亿到 2027 年 510 亿直接起跳。TPU 从 Google 内部降本工具变成对外卖的芯片业务，博通作为联合打造方，定制 XPU 这条线的天花板又被往上抬了一截。$AVGO https://t.co/csg6qvAOht",
+   "time": "2026-10-24 09:01",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2113797896298766571"
+  },
   {
    "ref_author": "@youngstockuser",
    "ref_url": "https://x.com/youngstockuser/status/2113577924783907298",
@@ -758,5 +782,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-23"
+ "updated": "2026-10-24"
 }
