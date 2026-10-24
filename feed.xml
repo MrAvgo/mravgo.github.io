@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-24：周六晨报（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 公司层面无新动态</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-24</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/23）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$321.25&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$327.70&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$320.23&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;10.8M&lt;/span&gt; 股（周四约 &lt;span class=&quot;num&quot;&gt;17.8M&lt;/span&gt; 股，缩量）；&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 一带支撑守住；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-35%&lt;/span&gt;。；今日公司层面无重要新动态：本周前半段的实质性事件（NTT DOCOMO 十年期 VMware 协议、FedEx 协议延续、Arcot Scam Defense 上线、Tigress 首覆 Buy/$600）已在 10/21–23 简报完整收录；博通–Toppan 新加坡基板厂今日 07:00 盯线核验，72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.5%&lt;/span&gt;）；技术面维持空头：收盘低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 接近超卖，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 为短期支撑。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-23：周五晨报（周四收 $%%PRICE%%，%%CHANGE_PCT%%）· Hock Tan 上 Cramer 重申 $350B 预测 · Tigress 首覆买入</title>
       <link>https://avgo.pages.dev/briefs/2026-10-23</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-23</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
       <description>周一盘前（美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt; 北京开盘）：周五（10/2）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），结束连续两日下跌；周五盘后约 &lt;span class=&quot;num&quot;&gt;$355.1&lt;/span&gt;（约 -0.01%），假期无实质波动。（Finnhub / finsuba，10/5 早盘前）；OpenAI 硬件负责人 Richard Ho 近日在受访中复述：与博通联合开发的定制推理芯片 Jalapeño 从初始 RTL 到 tape-out 仅用约 9 个月，AI 工具（OpenAI 模型、Codex）辅助工程师、标准 EDA 签核流程保留。（NeoTeo 约 10/1；BitcoinVersus.Tech 10/4）；UBS（Timothy Arcuri）10/2 重申 Buy（目标价 &lt;span class=&quot;num&quot;&gt;$470&lt;/span&gt;）后的管理层表态细节：融资结构是&quot;卖芯片而非金融产品&quot;——经第三方贷款方 + 有限残值担保；规划 2028/2029 至少两代新 TPU；AI 网络已占 AI 收入超 30%、增速将超过芯片。（Blockonomi / ad-hoc-news，10/2–10/3）</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-04：周末无交易（周五收 $355.14，+3.35%）· Hock Tan 10/12 新加坡 DBS 大会前瞻 · Anthropic S-1 $518B 算力承诺新细节 · 分析师评级无变化</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-04</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-04</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/2）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），10/3–10/4 周末美股休市、无新交易；成交量约 &lt;span class=&quot;num&quot;&gt;24.5M&lt;/span&gt; 股，高于 50 日均量 &lt;span class=&quot;num&quot;&gt;22.8M&lt;/span&gt; 股；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96 – $495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-28.3%&lt;/span&gt;。（MarketWatch / Finnhub，10/2 盘后）；Hock Tan 确认出席 10/12 新加坡 DBS 首届 Asia Future Forward Conference（与 Intel CEO 陈立武、TikTok CEO 周受资、新加坡总理黄循财同台），主题 AI——下周第一个公开表态观察点。（DBS 官方新闻稿，10/2）；Anthropic S-1 新细节：十年期基础设施总承诺 &lt;span class=&quot;num&quot;&gt;$518B&lt;/span&gt;（博通相关不可撤销设备租赁 &lt;span class=&quot;num&quot;&gt;$161.2B&lt;/span&gt; 为其子集），Anthropic 自 4 月起向受限账户存入保证金；&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 可转债是该结构关键机制。（Forkast / semi.doped / AIStockWire，10/2–10/3）</description>
     </item>
   </channel>
 </rss>
