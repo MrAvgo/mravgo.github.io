@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-25：周日版（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 补录 KDDI CPO 测试</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-25</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/23）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$321.50&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$327.70&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$320.23&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 一带支撑守住；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-35%&lt;/span&gt;。；过去 48 小时公司层面无新公告；补录一条此前简报漏收的实质进展：KDDI 与博通 10/22 启动 CPO 联合测试（Tomahawk 6 + Davisson 光引擎装入 KDDI AI 数据中心）。博通–Toppan 新加坡基板厂今日 07:00 盯线核验，72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.5%&lt;/span&gt;）；技术面维持空头：收盘低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 仍在弱势区，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 为短期支撑。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-24：周六晨报（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 公司层面无新动态</title>
       <link>https://avgo.pages.dev/briefs/2026-10-24</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-24</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-06</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
       <description>周二盘前（美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt; 北京开盘）：周一（10/5）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），连续两日上涨；盘后约 &lt;span class=&quot;num&quot;&gt;$363.0&lt;/span&gt;（+0.02%），无实质波动。（Finnhub / finsuba，10/6 早盘前）；FT（10/5 美东）：华尔街银团开始为 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt; 融资包探询贷款人意向——&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; A 级优先担保档向银行投资者发银团邀请函，Blackstone 领投 &lt;span class=&quot;num&quot;&gt;$18B&lt;/span&gt; B 级次级档（自投 &lt;span class=&quot;num&quot;&gt;$90 亿&lt;/span&gt;）；交易尚未正式宣布。（FT 经 investing.com 快讯；结构细节见 Bloomberg 10/2 报道转引）；Morgan Stanley（Reuters，10/5）：美数据中心 2028 年前面临 &lt;span class=&quot;num&quot;&gt;34%&lt;/span&gt; 净电力缺口（约 &lt;span class=&quot;num&quot;&gt;32GW&lt;/span&gt;），但 Nvidia、博通相对绝缘，2027 年预测不受影响；存储、光模块等二级部件最承压。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-05：周一盘前（周五收 $355.14，+3.35%）· OpenAI Jalapeño 设计 9 个月新阐述 · 两笔 $42B 关系未确认 · UBS $470 看涨细节 · 分析师评级无变化</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-05</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周一盘前（美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt; 北京开盘）：周五（10/2）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），结束连续两日下跌；周五盘后约 &lt;span class=&quot;num&quot;&gt;$355.1&lt;/span&gt;（约 -0.01%），假期无实质波动。（Finnhub / finsuba，10/5 早盘前）；OpenAI 硬件负责人 Richard Ho 近日在受访中复述：与博通联合开发的定制推理芯片 Jalapeño 从初始 RTL 到 tape-out 仅用约 9 个月，AI 工具（OpenAI 模型、Codex）辅助工程师、标准 EDA 签核流程保留。（NeoTeo 约 10/1；BitcoinVersus.Tech 10/4）；UBS（Timothy Arcuri）10/2 重申 Buy（目标价 &lt;span class=&quot;num&quot;&gt;$470&lt;/span&gt;）后的管理层表态细节：融资结构是&quot;卖芯片而非金融产品&quot;——经第三方贷款方 + 有限残值担保；规划 2028/2029 至少两代新 TPU；AI 网络已占 AI 收入超 30%、增速将超过芯片。（Blockonomi / ad-hoc-news，10/2–10/3）</description>
     </item>
   </channel>
 </rss>
