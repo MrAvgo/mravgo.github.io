@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-26：周一版（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· SemiAnalysis 吉瓦成本拆解</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-26</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周五（10/23）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$321.50&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$327.70&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$320.23&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 一带支撑守住；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-35%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;-2.2%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-8.8%&lt;/span&gt;（Finnhub）。；过去 48 小时公司层面无新公告；唯一新增的直接相关讨论是 SemiAnalysis 的 Dylan Patel 在 10/24 CASPA 峰会上的成本拆解：1 吉瓦 AI 数据中心成本已超 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt;，剔除芯片设计商利润后约 &lt;span class=&quot;num&quot;&gt;$20B&lt;/span&gt;，并称 Anthropic 正以约一半于 OpenAI 的时间推进自研芯片。博通–Toppan 新加坡基板厂今日 07:00 盯线核验，72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.5%&lt;/span&gt;）；技术面维持空头：收盘低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 仍在弱势区，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 为短期支撑。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-25：周日版（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 补录 KDDI CPO 测试</title>
       <link>https://avgo.pages.dev/briefs/2026-10-25</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-25</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-07</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
       <description>周二（10/6）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），三连阳、常规时段成交约 &lt;span class=&quot;num&quot;&gt;28.2M&lt;/span&gt; 股（CNBC 口径）；本期为收盘后晨间简报，周三美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt;（北京）开盘。（Finnhub / CNBC，10/7）；&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 可转债融资细节发酵（Reuters 10/1 经 Anthropic IPO 招股书披露，10/5–10/6 多家媒体跟进）：博通以可转债形式向 Anthropic 提供最高 &lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 融资、覆盖其 5 年 &lt;span class=&quot;num&quot;&gt;$1252 亿&lt;/span&gt; TPU 租赁承诺的约 &lt;span class=&quot;num&quot;&gt;1/3&lt;/span&gt;；Anthropic 预计 2027 年成为博通最大计算客户。；Marvell 投资者日（Reuters / Barron&#x27;s，10/6）：FY2028 营收指引上调至约 &lt;span class=&quot;num&quot;&gt;$20B&lt;/span&gt;，并首度给出 FY2031 &lt;span class=&quot;num&quot;&gt;$70–90B&lt;/span&gt; 目标；MRVL &lt;span class=&quot;num&quot;&gt;+5.8%&lt;/span&gt;，AVGO 跟涨约 &lt;span class=&quot;num&quot;&gt;4%&lt;/span&gt;，定制 AI 硅赛道再验证。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-06：周二盘前（周一收 $362.51，+2.08%）· FT：$60B 银团开始向贷款人询价 · Morgan Stanley：电力短缺下博通绝缘 · UBS 调整 TPU 模型</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-06</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-06</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周二盘前（美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt; 北京开盘）：周一（10/5）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），连续两日上涨；盘后约 &lt;span class=&quot;num&quot;&gt;$363.0&lt;/span&gt;（+0.02%），无实质波动。（Finnhub / finsuba，10/6 早盘前）；FT（10/5 美东）：华尔街银团开始为 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt; 融资包探询贷款人意向——&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; A 级优先担保档向银行投资者发银团邀请函，Blackstone 领投 &lt;span class=&quot;num&quot;&gt;$18B&lt;/span&gt; B 级次级档（自投 &lt;span class=&quot;num&quot;&gt;$90 亿&lt;/span&gt;）；交易尚未正式宣布。（FT 经 investing.com 快讯；结构细节见 Bloomberg 10/2 报道转引）；Morgan Stanley（Reuters，10/5）：美数据中心 2028 年前面临 &lt;span class=&quot;num&quot;&gt;34%&lt;/span&gt; 净电力缺口（约 &lt;span class=&quot;num&quot;&gt;32GW&lt;/span&gt;），但 Nvidia、博通相对绝缘，2027 年预测不受影响；存储、光模块等二级部件最承压。</description>
     </item>
   </channel>
 </rss>

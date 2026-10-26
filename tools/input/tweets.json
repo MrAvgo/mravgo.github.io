@@ -2,11 +2,35 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": "54",
- "following": "91",
+ "following": "92",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@AIStockSavvy",
+   "ref_url": "https://x.com/AIStockSavvy/status/2114665709145842071",
+   "text": "@AIStockSavvy The Azure qualification is the key bit here. First and only SMR drive on Broadcom's HBA approved list is a real hurdle cleared, not just a lab result. Still, revenue impact is unquantified, so the question is whether hyperscalers deploy it at scale. $AVGO",
+   "time": "2026-10-26 19:42",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2114684161453707278"
+  },
+  {
+   "ref_author": "@DVPCapital",
+   "ref_url": "https://x.com/DVPCapital/status/2114370241828683811",
+   "text": "The supply side of this is what stands out. You don't lock in $126.8B of purchase commitments, almost all due in fiscal 2027 and 2028, unless the order book behind it is real. The question is how much of that $179B converts on schedule, not whether demand is there. $AVGO",
+   "time": "2026-10-26 09:40",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2114532550681018552"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "刚看到一篇拆 800G 光模块的帖子，讲得挺明白：模块一头是电信号、一头是光，中间靠 DSP 把信号理干净，DSP 这块主要就是博通和 Marvell 在供。800G 是 8 条 100G 拼出来的，下一代 1.6T 换成 8 条 200G，1.6T 的放量节奏值得继续盯着。$AVGO https://t.co/mN6bWOLsGq",
+   "time": "2026-10-26 09:22",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2114528144602681626"
+  },
   {
    "ref_author": "@ProKayaFinance",
    "ref_url": "https://x.com/ProKayaFinance/status/2114255196058460338",
@@ -822,5 +846,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-25"
+ "updated": "2026-10-26"
 }
