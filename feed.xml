@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-27：周二版（周一收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 博通–华尔街 630 亿美元 Anthropic 算力融资</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-27</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周一（10/26）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$324.53&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$332.12&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$323.25&lt;/span&gt;，成交约 &lt;span class=&quot;num&quot;&gt;16.27M&lt;/span&gt; 股；市值约 &lt;span class=&quot;num&quot;&gt;$1.57T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-33.5%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+0.1%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-6.7%&lt;/span&gt;（Finnhub）。；过去 24 小时最大事件：博通与美银、黑石、花旗、摩根士丹利宣布约 &lt;span class=&quot;num&quot;&gt;$63B&lt;/span&gt; 融资安排，专项载体采购博通 XPU 与组网设备租给 Anthropic，2027 年起交付；同日 Anthropic 公布 IPO 招股书，博通为其最大算力交易对手（约 &lt;span class=&quot;num&quot;&gt;$161B&lt;/span&gt; 义务口径，见）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+60.8%&lt;/span&gt;）；技术面周一反弹但趋势未改，收盘仍低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 仍在弱势区，短线看 &lt;span class=&quot;num&quot;&gt;$332.12&lt;/span&gt;（周一高点）能否站稳。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-26：周一版（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· SemiAnalysis 吉瓦成本拆解</title>
       <link>https://avgo.pages.dev/briefs/2026-10-26</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-26</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-08</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
       <description>周三（10/7）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），四连阳、常规时段成交约 &lt;span class=&quot;num&quot;&gt;17.1M&lt;/span&gt; 股（financialcontent 口径），在 SPX &lt;span class=&quot;num&quot;&gt;-0.22%&lt;/span&gt; 的弱市中跑赢 QCOM/AMD；本期为收盘后晨间简报，周四美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt;（北京）开盘。（MarketWatch / financialcontent，10/7）；WSJ 爆料（10/7，Bloomberg 跟进，今晨 X 刷屏）：博通正为与 OpenAI 联合开发的定制 AI 芯片筹措超 &lt;span class=&quot;num&quot;&gt;$50B&lt;/span&gt; 融资，Apollo、Blackstone 洽谈参与；谈判尚处早期。Threads &lt;span class=&quot;num&quot;&gt;@novarealinvest&lt;/span&gt; 昨日转述的同口径传闻已被交叉验证。；用户标记新闻（10/7 &lt;span class=&quot;num&quot;&gt;@jukan05&lt;/span&gt; 转发的专家纪要）收入本期「今日关注」：Anthropic 自研 ASIC 选三星 2nm、Broadcom 为设计方——方向已获独立佐证（The Information 7/2、Anthropic 招股书、三方协议 2027 年约 &lt;span class=&quot;num&quot;&gt;3.5GW&lt;/span&gt; TPU 产能、Hock Tan 9/2 财报会表态），但 4000 TOPS / 1300W / 初期 20 万颗 / v8t 150 万台等具体数字未确认（SammyGuru 10/7 指出三星/Anthropic 均未官方确认）。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-07：周三晨报（周二收 $375.81，+3.7% 三连阳）· $42B 可转债融资细节发酵 · Marvell 投资者日带涨定制硅 · ARK 上周趁跌加仓</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-07</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周二（10/6）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），三连阳、常规时段成交约 &lt;span class=&quot;num&quot;&gt;28.2M&lt;/span&gt; 股（CNBC 口径）；本期为收盘后晨间简报，周三美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt;（北京）开盘。（Finnhub / CNBC，10/7）；&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 可转债融资细节发酵（Reuters 10/1 经 Anthropic IPO 招股书披露，10/5–10/6 多家媒体跟进）：博通以可转债形式向 Anthropic 提供最高 &lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 融资、覆盖其 5 年 &lt;span class=&quot;num&quot;&gt;$1252 亿&lt;/span&gt; TPU 租赁承诺的约 &lt;span class=&quot;num&quot;&gt;1/3&lt;/span&gt;；Anthropic 预计 2027 年成为博通最大计算客户。；Marvell 投资者日（Reuters / Barron&#x27;s，10/6）：FY2028 营收指引上调至约 &lt;span class=&quot;num&quot;&gt;$20B&lt;/span&gt;，并首度给出 FY2031 &lt;span class=&quot;num&quot;&gt;$70–90B&lt;/span&gt; 目标；MRVL &lt;span class=&quot;num&quot;&gt;+5.8%&lt;/span&gt;，AVGO 跟涨约 &lt;span class=&quot;num&quot;&gt;4%&lt;/span&gt;，定制 AI 硅赛道再验证。</description>
     </item>
   </channel>
 </rss>

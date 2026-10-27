@@ -1,0 +1,108 @@
+{
+ "archive_title": "周二版（周一收 <span class=\"num\">$%%PRICE%%</span>，<span class=\"num\">%%CHANGE_PCT%%</span>）· 博通–华尔街 630 亿美元 Anthropic 算力融资",
+ "key_points": [
+  "周一（10/26）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$324.53</span>、高 <span class=\"num\">$332.12</span>、低 <span class=\"num\">$323.25</span>，成交约 <span class=\"num\">16.27M</span> 股；市值约 <span class=\"num\">$1.57T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距 6 月高点约 <span class=\"num\">-33.5%</span>；5 日约 <span class=\"num\">+0.1%</span>、近 1 个月约 <span class=\"num\">-6.7%</span>（Finnhub）。",
+  "过去 24 小时最大事件：博通与美银、黑石、花旗、摩根士丹利宣布约 <span class=\"num\">$63B</span> 融资安排，专项载体采购博通 XPU 与组网设备租给 Anthropic，2027 年起交付；同日 Anthropic 公布 IPO 招股书，博通为其最大算力交易对手（约 <span class=\"num\">$161B</span> 义务口径，见）。",
+  "MarketBeat 综合评级仍为 Moderate Buy（<span class=\"num\">42</span> 家），平均目标价 <span class=\"num\">$529.17</span>（现价隐含约 <span class=\"num\">+60.8%</span>）；技术面周一反弹但趋势未改，收盘仍低于 20/50/200 日均线，<span class=\"num\">%%RSI%%</span> 仍在弱势区，短线看 <span class=\"num\">$332.12</span>（周一高点）能否站稳。"
+ ],
+ "rating": "Moderate Buy",
+ "rating_class": "flat",
+ "ref_links": [
+  {
+   "title": "Finnhub：AVGO 行情数据",
+   "url": "https://finnhub.io/?q=%22AVGO%22"
+  },
+  {
+   "title": "路透：华尔街银行与黑石为 Anthropic 安排 630 亿美元博通芯片融资（10/26）",
+   "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/"
+  },
+  {
+   "title": "StockTwits：博通与华尔街财团 630 亿美元 Anthropic 硬件交易（10/26）",
+   "url": "https://stocktwits.com/news-articles/markets/equity/broadcom-partners-with-wall-street-bigwigs-to-forge-63-b-deal-to-power-anthropic-s-ai-hardware/cZU3ie1RBzJ"
+  },
+  {
+   "title": "MarketBeat：AVGO 分析师评级与目标价",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+  },
+  {
+   "title": "TipRanks：Bernstein 维持 AVGO Buy/$575（10/26）",
+   "url": "https://www.tipranks.com/news/blurbs/new-buy-rating-for-broadcom-avgo-the-technology-giant-blurbs-news-16?utm_source=itigerup.com&utm_medium=referral"
+  },
+  {
+   "title": "Barchart：AVGO 异常看涨期权成交（10/26）",
+   "url": "https://www.barchart.com/story/news/8458630/huge-unusual-call-option-activity-in-broadcom-shows-investors-bullish-on-avgo-stock"
+  },
+  {
+   "title": "Facebook：Sam Wang Anthropic IPO 与博通 630 亿美元交易帖（10/27）",
+   "url": "https://www.facebook.com/sam.wang.332/posts/pfbid029A5q5SXGz7Zv168JM5toF5MDZ8KUQzMqkTvezN8ZrXG9to8msMEEhhN4rsymqcJPl"
+  },
+  {
+   "title": "Instagram：@gmhikaru TipRanks 目标价对比视频（10/27）",
+   "url": "https://www.instagram.com/reel/De-M-qZOqH9/"
+  },
+  {
+   "title": "Instagram：@liquidoptionscapital AVGO 备兑看涨期权视频（10/27）",
+   "url": "https://www.instagram.com/reel/De97kxZtr2g/"
+  },
+  {
+   "title": "Threads：@emilenseibangha 摩根大通增持 AVGO 帖（10/26）",
+   "url": "https://www.threads.com/@emilenseibangha/post/De9DAsqiKyi"
+  }
+ ],
+ "sections": [
+  {
+   "items": [
+    "周一（10/26）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$324.53</span>、高 <span class=\"num\">$332.12</span>、低 <span class=\"num\">$323.25</span>，成交约 <span class=\"num\">16.27M</span> 股，低于 <span class=\"num\">24.85M</span> 股的日均量；市值约 <span class=\"num\">$1.57T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距 6 月高点约 <span class=\"num\">-33.5%</span>；5 日约 <span class=\"num\">+0.1%</span>、近 1 个月约 <span class=\"num\">-6.7%</span>。（Finnhub，10/26 收盘）",
+    "盘后约 <span class=\"num\">$333.02</span>（<span class=\"num\">+1.17%</span>，Finnhub 10/26 19:55 ET 快照，仅供参考）。",
+    "事件提醒：下一次财报为 <span class=\"num\">2026-12-10</span> 盘后（FY2026 Q4）；上次季度分红已于 <span class=\"num\">9/30</span> 派发，近期无除权。"
+   ],
+   "title": "📰 行情速览"
+  },
+  {
+   "items": [
+    "630 亿美元融资的利好逻辑在「订单能见度」：Anthropic 的采购从远期承诺变成已融资、可交付的订单，2027 年起 XPU 与组网设备出货有资金托底；且模式复用 6 月 Apollo/Blackstone 的 350 亿美元 AI XPV 平台，博通从卖芯片升级为「芯片＋融资方案」提供方，客户黏性更强。 <span class=\"tag bull\">看多</span>",
+    "同一事件的利空面在「集中度与循环支出」：博通既是供应商、又是租赁链条中的出借方，Anthropic 若收入不及预期，订单兑现与回款都会受牵连；Hock Tan 10/12 本人也说资本是 AI 建设的最大约束——这笔交易正是该判断的注脚，不是证伪。招股书显示 Anthropic 上半年收入 <span class=\"num\">$16.3B</span> 暴增但净亏 <span class=\"num\">$80.7B</span>、不可撤销算力合同约 <span class=\"num\">$430B</span>，客户的现金流压力就是博通远期的变量。 <span class=\"tag flat\">中性</span>",
+    "期权流（Barchart，10/26）：11/20 到期、行权价 <span class=\"num\">$355</span> 的看涨期权成交超 <span class=\"num\">7,200</span> 张，约 <span class=\"num\">22</span> 倍于此前持仓，买方隐含预期快速反弹至 <span class=\"num\">$361</span> 上方——机构资金在 6 个月低点押注财报前反弹，但期权流是情绪信号不是基本面，不改变趋势判断。 <span class=\"tag bull\">看多</span>",
+    "同日行业背景：Meta 宣布至多 <span class=\"num\">$95B</span> 融资、SpaceX 关联方约 <span class=\"num\">$40B</span> 芯片租赁交易——AI 融资潮一日内集中爆发，博通的融资模式不是孤例，而是本轮建设周期的标准打法。 <span class=\"tag flat\">中性</span>"
+   ],
+   "title": "🏢 基本面"
+  },
+  {
+   "items": [
+    "MarketBeat 综合：Moderate Buy（评分 <span class=\"num\">2.95/4</span>），<span class=\"num\">42</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">38</span> 家、持有 <span class=\"num\">3</span> 家、卖出 <span class=\"num\">0</span> 家）；平均目标价 <span class=\"num\">$529.17</span>，现价隐含涨幅约 <span class=\"num\">+60.8%</span>；最高 <span class=\"num\">$715</span>（BNP Paribas Exane）、最低 <span class=\"num\">$350</span>（DA Davidson）。",
+    "近期变化：<span class=\"num\">10/25</span> Bernstein 分析师 Stacy Rasgon 维持 <span class=\"tag bull\">Buy</span> / <span class=\"num\">$575</span>（TipRanks）；<span class=\"num\">10/22</span> Tigress Financial 首次覆盖 <span class=\"tag bull\">Buy</span> / <span class=\"num\">$600</span>；<span class=\"num\">10/8</span> Weiss Ratings 上调至 Buy(B)；<span class=\"num\">10/21</span> Erste Group Bank 将 FY2027 每股收益预期从 <span class=\"num\">$17.59</span> 微调至 <span class=\"num\">$17.54</span>（维持 Hold），影响极小。过去一周无新增下调。",
+    "<details class=\"more\"><summary>其他口径…</summary><ul><li>TipRanks（10/26）：Strong Buy，平均目标价 <span class=\"num\">$522.00</span>；芯片股对比中博通上行空间约 <span class=\"num\">57.8%</span>，高于 NVDA 的 <span class=\"num\">50.0%</span> 与 AMD 的 <span class=\"num\">25.2%</span>。</li></ul></details>"
+   ],
+   "title": "🎯 分析师评级"
+  },
+  {
+   "items": [
+    "趋势：收盘低于 <span class=\"num\">%%MA20%%</span>、<span class=\"num\">%%MA50%%</span>、<span class=\"num\">%%MA200%%</span> 三条均线，空头趋势未改；周一反弹，但尚未收复均线压制。",
+    "动量：<span class=\"num\">%%RSI%%</span>（RSI 14），仍在弱势区徘徊，超卖不等于反转信号。",
+    "关键位：<span class=\"num\">$323.25</span>（周一低点）与 <span class=\"num\">$321.68</span>（上周五收盘）为短线支撑；上方第一阻力约 <span class=\"num\">$332.12</span>（周一高点）；52 周低点 <span class=\"num\">$289.96</span> 为更深一层防线。",
+    "成交量：周一成交约 <span class=\"num\">16.27M</span> 股，低于 <span class=\"num\">24.85M</span> 股的日均量——反弹缩量，追涨动能有限，属弱势反弹。"
+   ],
+   "title": "📊 技术面"
+  },
+  {
+   "items": [
+    "Facebook · Sam Wang（10/27 05:00 北京时间）—— 科技股受 Anthropic 消息推动走强：Anthropic 已提交 IPO 申请，博通安排了 <span class=\"num\">$63B</span> 融资为 Anthropic 的芯片买单。 <span class=\"tag bull\">看多</span> <a href=\"https://www.facebook.com/sam.wang.332/posts/pfbid029A5q5SXGz7Zv168JM5toF5MDZ8KUQzMqkTvezN8ZrXG9to8msMEEhhN4rsymqcJPl\" target=\"_blank\" rel=\"noopener\">原帖</a>",
+    "Instagram · @gmhikaru（150 万粉丝，10/27 05:03 北京时间）—— 视频对照 TipRanks 分析师目标价：博通上行空间约 <span class=\"num\">54%</span>，作者称自己的买入「相当不错」。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/De-M-qZOqH9/\" target=\"_blank\" rel=\"noopener\">原帖</a>",
+    "X · @StockMKTNewz（10/27 04:48 北京时间，约 2.9 万次浏览）—— 博通安排 630 亿美元交易为 Anthropic 的 AI 芯片融资，四家机构出资的特殊目的载体购买博通芯片并租给 Anthropic，博通以保证部分芯片未来价值的方式提供支持。 <span class=\"tag flat\">中性</span> <a href=\"https://x.com/StockMKTNewz/status/2114821611777900772\" target=\"_blank\" rel=\"noopener\">原帖</a>",
+    "X · @Sam_Badawi（10/27 04:51 北京时间）—— 博通获得 630 亿美元融资交易，自 2027 年起向 Anthropic 供应 AI 芯片和网络设备，博通以芯片残值支持降低贷款方风险，有助于其定制芯片业务与英伟达竞争。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/Sam_Badawi/status/2114822231490809898\" target=\"_blank\" rel=\"noopener\">原帖</a>",
+    "X · @convequity（10/26 19:32 北京时间）—— 风险一侧的提醒：Anthropic 若确认 IPO，将降低博通为约 420 亿美元租赁载体高级债务提供兜底被触发的概率，作者认为这对 AVGO 是「温和利好」，但兜底义务本身并未消失。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/convequity/status/2114681597618172290\" target=\"_blank\" rel=\"noopener\">原帖</a>",
+    "<details class=\"more\"><summary>更多平台…</summary><ul><li>Instagram · @liquidoptionscapital（10/27 02:31 北京时间）—— 实盘备兑策略：卖出 11/6 到期 <span class=\"num\">$345</span> 看涨期权 3 张、收权利金约 <span class=\"num\">$1,425</span>，成本均价 <span class=\"num\">$340.28</span>，持股收租、不追涨。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/De97kxZtr2g/\" target=\"_blank\" rel=\"noopener\">原帖</a></li><li>Threads · @emilenseibangha（10/26 18:16 北京时间）—— 作者称摩根大通增持 320 万股 AVGO 至约 9500 万股（约 <span class=\"num\">$30.5B</span>），分析师维持 Buy、目标价 <span class=\"num\">$580</span>（作者口径，未经摩根大通官方核实，仅作舆情收录）。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@emilenseibangha/post/De9DAsqiKyi\" target=\"_blank\" rel=\"noopener\">原帖</a></li><li>X · @InvestingVisual（10/27 05:29 北京时间，约 1.1 万次浏览）—— 对比一年前与今天：博通股价从 344 美元降至 327 美元，季度收入从 159.5 亿美元升至 295.9 亿美元，远期 EV/收入从 21.8 倍降至 9.9 倍，结论是「今天用一半价格买到两倍收入」。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/InvestingVisual/status/2114831685665656902\" target=\"_blank\" rel=\"noopener\">原帖</a></li></ul></details>"
+   ],
+   "title": "💬 社交平台头条"
+  },
+  {
+   "items": [
+    "华尔街财团 630 亿美元 Anthropic 算力融资（路透，10/26 美东时间傍晚；StockTwits/Seeking Alpha 同步报道）：美银、黑石、花旗、摩根士丹利将提供 <span class=\"num\">$63B</span> 融资，专项载体（SPV）用以采购博通定制 XPU 加速器与高速组网设备、再租赁给 Anthropic；美银、花旗、摩根士丹利安排优先级债务，黑石提供次级融资；出货自 2027 日历年起、按此前已宣布的算力容量协议执行。路透称这是 AI 建设 tied 的最大债务交易之一；部分转述口径为 640 亿美元，以路透与公司口径的 630 亿美元为准。",
+    "Anthropic IPO 招股书同日公开（路透 Breakingviews，10/26；招股书覆盖报道）：2026 上半年收入 <span class=\"num\">$16.3B</span>（同比约 <span class=\"num\">+1368%</span>）、净亏损扩大至 <span class=\"num\">$80.7B</span>；不可撤销算力合同合计约 <span class=\"num\">$430B</span>，其中博通为最大交易对手、约 <span class=\"num\">$161B</span>；市场此前报道的估值目标最高约 <span class=\"num\">$2T</span>。与 10/1 路透披露的博通向 Anthropic 提供至多 <span class=\"num\">$42B</span> 贷款额度、Anthropic 2027 年有望成为博通最大芯片设计客户相互印证。",
+    "基板厂：今日 <span class=\"num\">07:00</span> 盯线核验完毕，<span class=\"num\">72</span> 小时内无投产 / 产能 / 订单类新消息，无实质进展。（内部盯线）"
+   ],
+   "title": "👀 今日关注"
+  }
+ ],
+ "sources_extra": "价格/行情（Finnhub，10/26 收盘）；均线/RSI 由构建脚本基于 Nasdaq 官方日线计算；评级主口径 MarketBeat（截至 10/26）；630 亿美元融资路透（10/26）与 StockTwits 同步报道；Anthropic 招股书路透 Breakingviews（10/26）；期权流 Barchart（10/26）；社交帖子于 10/27 晨采集（10/26–27 发布）；博通–Toppan 新加坡基板厂 10/27 晨盯线核验，72 小时内无实质进展。"
+}
