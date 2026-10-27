@@ -2,11 +2,43 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": "54",
- "following": "92",
+ "following": "94",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@sean_________",
+   "ref_url": "https://x.com/sean_________/status/2115002310413959560",
+   "text": "Breadth is the point here: Meta, Google and OpenAI custom silicon in one KeyBanc update. If Broadcom holds the inference-heavy SKUs, that's the part to watch. Broker note, not a company confirmation. $AVGO",
+   "time": "2026-10-27 18:54",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2115034433384542684"
+  },
+  {
+   "ref_author": "@Sam_Badawi",
+   "ref_url": "https://x.com/Sam_Badawi/status/2114799380989677935",
+   "text": "If this holds, the constraint moves a step downstream. Packaging capacity, not just wafers, sets the pace for custom accelerators, and a 10-20% price move would hit exactly there. Still reported, not TSMC confirmed. $AVGO",
+   "time": "2026-10-27 10:10",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2114902472590307791"
+  },
+  {
+   "ref_author": "@QualCompounders",
+   "ref_url": "https://x.com/QualCompounders/status/2114847040350101762",
+   "text": "Fair point, the VMware overhang explains a lot of the debt load. Whether that deleveraging keeps pace is the thing to watch, with the stock still sitting below its 20-, 50- and 200-day averages.",
+   "time": "2026-10-27 09:35",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2114893719967297927"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "630 亿美元这笔 Anthropic 算力融资，结构比数字有意思：华尔街四家出钱，SPV 买博通的定制 XPU 和组网设备租给 Anthropic，2027 年起交付。招股书里博通是最大算力对手方，约 1610 亿美元。但 Anthropic 上半年还亏 807 亿，兑现节奏得盯着。$AVGO",
+   "time": "2026-10-27 09:24",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2114891034161258939"
+  },
   {
    "ref_author": "@AIStockSavvy",
    "ref_url": "https://x.com/AIStockSavvy/status/2114665709145842071",
@@ -846,5 +878,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-26"
+ "updated": "2026-10-27"
 }
