@@ -8,6 +8,46 @@
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
   {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2115388615891222571",
+   "text": "The customer link is what makes this one land. Broadcom named as a major WIN customer ties the optical ramp back to a real buyer, though CW lasers and EML at 2028 still leave a long runway for timing to slip. $AVGO",
+   "time": "2026-10-28 20:20",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2115418516266615281"
+  },
+  {
+   "ref_author": "@LUC310_",
+   "ref_url": "https://x.com/LUC310_/status/2115381055674884198",
+   "text": "If TPUs turn into a product Google actually sells instead of only running internally, the read-across for Broadcom is pretty direct: outside TPU demand lands on the same roadmap. Still reported, not confirmed, and the 2027 Oracle timeline is the part to watch. $AVGO",
+   "time": "2026-10-28 19:28",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2115405234939854978"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Celestica 在电话会上更新了 CPO 的进展：博通 Tomahawk 6 Davisson 芯片的功能平台已经点亮，正在测试，1.6T 机架级方案和一家超大规模客户合作设计制造，量产爬坡定在 2027 年底。从演示到可制造的系统，关键看接下来测试和良率。$AVGO",
+   "time": "2026-10-28 11:12",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2115280394505330912"
+  },
+  {
+   "ref_author": "@RyanReeves_",
+   "ref_url": "https://x.com/RyanReeves_/status/2115211941912432933",
+   "text": "That $120B bar has aged fast. It looked like a stretch when it was set, and the FY28 guide now sits well above it. Still a guide, not revenue in the bank. FY28-30 leaves plenty of room for orders to slip.",
+   "time": "2026-10-28 09:54",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2115260930191929487"
+  },
+  {
+   "ref_author": "@RyanReeves_",
+   "ref_url": "https://x.com/RyanReeves_/status/2115209767182577979",
+   "text": "Incremental margin is the right lens here. It says how much of each extra revenue dollar actually reaches operating profit, and on this table that conversion has stayed high. Scale matters, but only if it converts like this. $AVGO",
+   "time": "2026-10-28 09:38",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2115256884659999193"
+  },
+  {
    "ref_author": "@sean_________",
    "ref_url": "https://x.com/sean_________/status/2115002310413959560",
    "text": "Breadth is the point here: Meta, Google and OpenAI custom silicon in one KeyBanc update. If Broadcom holds the inference-heavy SKUs, that's the part to watch. Broker note, not a company confirmation. $AVGO",
@@ -878,5 +918,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-27"
+ "updated": "2026-10-28"
 }
