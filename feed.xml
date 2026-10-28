@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-10-28：周三版（周二收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· WSJ 披露陈福阳周末斡旋保住 630 亿美元融资</title>
+      <link>https://avgo.pages.dev/briefs/2026-10-28</link>
+      <guid>https://avgo.pages.dev/briefs/2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
+      <description>周二（10/27）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$339.87&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$345.67&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$336.87&lt;/span&gt;，市值约 &lt;span class=&quot;num&quot;&gt;$1.63T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-30.8%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+4.1%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-3.0%&lt;/span&gt;（Finnhub）。；过去 24 小时最大新进展：WSJ 披露陈福阳周末亲自斡旋、同意提高利率并强化担保，才保住 630 亿美元 Anthropic 融资；残值担保规模与触发条件仍未完全披露，Truist 认为预期情形下风险有限。DA Davidson 同日上调至 Buy、目标价 &lt;span class=&quot;num&quot;&gt;$400&lt;/span&gt;。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+55.0%&lt;/span&gt;）；Celestica 电话会透露 Tomahawk 6 CPO 平台已跑通、2027 年底量产爬坡。技术面：收盘仍低于 20/50/200 日均线，RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 位于中性区。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-10-27：周二版（周一收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 博通–华尔街 630 亿美元 Anthropic 算力融资</title>
       <link>https://avgo.pages.dev/briefs/2026-10-27</link>
       <guid>https://avgo.pages.dev/briefs/2026-10-27</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
       <description>周四（10/8）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），终结四连阳、放量下跌约 &lt;span class=&quot;num&quot;&gt;26.7M&lt;/span&gt; 股；盘后小幅反弹约 &lt;span class=&quot;num&quot;&gt;+0.5%&lt;/span&gt;。FT 披露 OpenAI 年化收入约 &lt;span class=&quot;num&quot;&gt;$50B&lt;/span&gt;（而非此前流传的 &lt;span class=&quot;num&quot;&gt;$70B&lt;/span&gt;，系会计口径差异）引发 AI 产业链抛售，AVGO 跌 &lt;span class=&quot;num&quot;&gt;4.35%&lt;/span&gt; 跑输 NVDA/AMD。（Finnhub / CNN / Morningstar，10/8）；AI 债市挤压：Reuters 称主权债市承压、科技公司争抢有限资金池，SpaceX CDS 创新高；&lt;span class=&quot;num&quot;&gt;10&lt;/span&gt; 年期美债收益率一度触及 &lt;span class=&quot;num&quot;&gt;5.34%&lt;/span&gt;（约 &lt;span class=&quot;num&quot;&gt;24&lt;/span&gt; 年高点）后回落至 &lt;span class=&quot;num&quot;&gt;5.23%&lt;/span&gt;。WSJ 的博通 &lt;span class=&quot;num&quot;&gt;$50B&lt;/span&gt; 融资爆料余波未散，市场开始为“举债买芯片”定价。（Reuters，10/8）；Morgan Stanley Joseph Moore 力挺 AVGO（TipRanks 10/8）：在 AVGO vs MRVL 中选 AVGO——Overweight、目标价 &lt;span class=&quot;num&quot;&gt;$505&lt;/span&gt;，年内 &lt;span class=&quot;num&quot;&gt;+7%&lt;/span&gt; vs MRVL &lt;span class=&quot;num&quot;&gt;+230%&lt;/span&gt;，“估值仍具吸引力”；同时提醒买方对 FY27 AI 收入超 &lt;span class=&quot;num&quot;&gt;$150B&lt;/span&gt; 的预期过于乐观（公司指引 &lt;span class=&quot;num&quot;&gt;$115B&lt;/span&gt;）。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-08：周四晨报（周三收 $376.51，+0.19% 四连阳）· WSJ：博通为 OpenAI 定制芯片筹超 $50B 融资 · 用户标记的 Anthropic–三星 2nm 爆料收入</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-08</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-08</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周三（10/7）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），四连阳、常规时段成交约 &lt;span class=&quot;num&quot;&gt;17.1M&lt;/span&gt; 股（financialcontent 口径），在 SPX &lt;span class=&quot;num&quot;&gt;-0.22%&lt;/span&gt; 的弱市中跑赢 QCOM/AMD；本期为收盘后晨间简报，周四美股将于今晚 &lt;span class=&quot;num&quot;&gt;21:30&lt;/span&gt;（北京）开盘。（MarketWatch / financialcontent，10/7）；WSJ 爆料（10/7，Bloomberg 跟进，今晨 X 刷屏）：博通正为与 OpenAI 联合开发的定制 AI 芯片筹措超 &lt;span class=&quot;num&quot;&gt;$50B&lt;/span&gt; 融资，Apollo、Blackstone 洽谈参与；谈判尚处早期。Threads &lt;span class=&quot;num&quot;&gt;@novarealinvest&lt;/span&gt; 昨日转述的同口径传闻已被交叉验证。；用户标记新闻（10/7 &lt;span class=&quot;num&quot;&gt;@jukan05&lt;/span&gt; 转发的专家纪要）收入本期「今日关注」：Anthropic 自研 ASIC 选三星 2nm、Broadcom 为设计方——方向已获独立佐证（The Information 7/2、Anthropic 招股书、三方协议 2027 年约 &lt;span class=&quot;num&quot;&gt;3.5GW&lt;/span&gt; TPU 产能、Hock Tan 9/2 财报会表态），但 4000 TOPS / 1300W / 初期 20 万颗 / v8t 150 万台等具体数字未确认（SammyGuru 10/7 指出三星/Anthropic 均未官方确认）。</description>
     </item>
   </channel>
 </rss>
