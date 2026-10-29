@@ -2,11 +2,35 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": "54",
- "following": "94",
+ "following": "99",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@jukan05",
+   "ref_url": "https://x.com/jukan05/status/2115656360465780809",
+   "text": "The $400M JV itself dates to July, so today's approval is a green light, not a new deal. Panel-level packaging only matters if yields hold at scale. 2028 production is the date to watch. $AVGO",
+   "time": "2026-10-29 19:01",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2115760970719223905"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "惠誉维持博通 A-、正面展望，理由是现金生成强、杠杆低于上调门槛，同时点名表外融资敞口日趋复杂。据彭博报道，银行计划明年一季度发约 210 亿美元债，把部分贷款转给债市。订单故事不缺钱，接下来看的是钱的代价。$AVGO",
+   "time": "2026-10-29 10:58",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2115639352420401237"
+  },
+  {
+   "ref_author": "@Chevallier145",
+   "ref_url": "https://x.com/Chevallier145/status/2115563554208174105",
+   "text": "Talks, not a done deal yet. Buying the optics stack doesn't automatically win the switch socket. Tomahawk got there on deployments, and that's the harder part to copy. CPO is the pitch, installed base is the proof. $AVGO",
+   "time": "2026-10-29 09:38",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2115619354813632900"
+  },
   {
    "ref_author": "@carrioresearch",
    "ref_url": "https://x.com/carrioresearch/status/2115388615891222571",
@@ -918,5 +942,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-28"
+ "updated": "2026-10-29"
 }
