@@ -1,0 +1,108 @@
+{
+  "archive_title": "周五版（周四收 <span class=\"num\">$%%PRICE%%</span>，<span class=\"num\">%%CHANGE_PCT%%</span>）· Alphabet 财报后 TPU 需求信号与资本开支担忧交织、评级同日多空分化",
+  "key_points": [
+    "周四（10/29）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$342.00</span>、高 <span class=\"num\">$346.15</span>、低 <span class=\"num\">$338.80</span>，前收 <span class=\"num\">$351.81</span>；市值约 <span class=\"num\">$1.65T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距区间高点约 <span class=\"num\">-30.3%</span>；5 日约 <span class=\"num\">+3.2%</span>、近 1 个月约 <span class=\"num\">-2.8%</span>（Finnhub／MarketBeat）。",
+    "过去 24 小时主要新进展：Alphabet Q3 云收入翻倍、TPU 系统销售贡献增长，2027 年资本开支将显著增加；博通 8-K 披露 Anthropic 融资残值担保峰值约 <span class=\"num\">$43B</span>；Marvell 洽购激光器厂商 Lumentum 进入后期（彭博报道）；10/27 同日三家下调、三家新覆盖或上调，评级分化加剧。",
+    "MarketBeat 综合评级仍为 Moderate Buy（<span class=\"num\">45</span> 家），平均目标价 <span class=\"num\">$530.52</span>（现价隐含约 <span class=\"num\">+53.8%</span>）；基板厂盯线 10/30 晨核验：72 小时内无实质进展。技术面：RSI <span class=\"num\">%%RSI%%</span>，均线位置见。"
+  ],
+  "rating": "Moderate Buy",
+  "rating_class": "flat",
+  "ref_links": [
+    {
+      "title": "Finnhub：AVGO 行情数据",
+      "url": "https://finnhub.io/?q=%22AVGO%22"
+    },
+    {
+      "title": "MarketBeat：AVGO 分析师评级与目标价",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+    },
+    {
+      "title": "Motley Fool：Alphabet Q3 财报电话会实录（10/28）",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/alphabet-googl-q3-2026-earnings-call-transcript/"
+    },
+    {
+      "title": "Barron's：博通获上调与 Anthropic IPO（10/27）",
+      "url": "https://www.barrons.com/articles/broadcom-stock-upgrade-anthropic-ipo-68e211ac"
+    },
+    {
+      "title": "TIKR：Marvell 洽购 Lumentum 报道（10/29）",
+      "url": "https://www.tikr.com/blog/marvell-sinks-12-as-investors-balk-at-reported-lumentum-megadeal-talks"
+    },
+    {
+      "title": "X：@saso_capital 梳理 Alphabet 电话会 TPU 要点（10/29）",
+      "url": "https://x.com/saso_capital/status/2115574525718860249"
+    },
+    {
+      "title": "X：@nodiligence 拆解两笔 Anthropic 兜底（10/28）",
+      "url": "https://x.com/nodiligence/status/2115391446660628700"
+    },
+    {
+      "title": "X：@Sam_Badawi 谈 Marvell 与博通路径（10/29）",
+      "url": "https://x.com/Sam_Badawi/status/2115805141345693912"
+    },
+    {
+      "title": "Instagram：@aristotle_investments「6 只打折股」（10/29）",
+      "url": "https://www.instagram.com/reel/DfGKaVIvAEB/"
+    },
+    {
+      "title": "Instagram：@chainsnap.official 拆解 8-K／10-Q 担保（10/29）",
+      "url": "https://www.instagram.com/reel/DfFLSbhz8Ik/"
+    }
+  ],
+  "sections": [
+    {
+      "items": [
+        "周四（10/29）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），前收 <span class=\"num\">$351.81</span>；开 <span class=\"num\">$342.00</span>、高 <span class=\"num\">$346.15</span>、低 <span class=\"num\">$338.80</span>；市值约 <span class=\"num\">$1.65T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>；成交量 <span class=\"num\">1495 万</span>股（Nasdaq 官方日线，10/29）。",
+        "事件提醒：博通 2026 财年 Q4 财报预计 <span class=\"num\">12/9</span> 公布，届时验证 Q4 指引（总收入约 <span class=\"num\">$34.8B</span>、AI 半导体收入约 <span class=\"num\">$21.7B</span>）兑现情况；Anthropic IPO 传闻定于 11 月中旬当周定价（未确认）。"
+      ],
+      "title": "📰 行情速览"
+    },
+    {
+      "items": [
+        "Alphabet 财报把 TPU 需求从「预期」推向「在手订单」：云收入翻倍且明确点名 TPU 系统销售、积压订单创新高、2027 年开支显著增加，博通作为协同设计与制造方的单量能见度上升；但市场当晚先计价了负自由现金流与搜索业务受 AI 侵蚀，情绪面反而压制了芯片股，需求逻辑与股价表现短期背离。 <span class=\"tag bull\">看多（需求面）</span>",
+        "残值担保从「黑箱」变成「可计价的峰值敞口」：约 <span class=\"num\">$43B</span> 的峰值、随租约偿还递减至零、公司自评违约概率低，三点合起来让市场可以按情景定价而非按恐慌定价；真正的变量随之转移到后续融资能否接力——若 Anthropic 扩张的每一轮都要博通加码担保，担保余额的累积速度会先于交付节奏被信用市场定价。 <span class=\"tag flat\">中性偏谨慎</span>",
+        "评级同日分化说明分歧已不在 AI 需求本身，而在「融资模式＋估值」：上调方押注 IPO 融资链打通需求兑现，下调方质疑供应商担保客户融资的可持续性；综合评级未变，但边际信号转谨慎，低端目标价 <span class=\"num\">$400</span> 开始成为新的锚。 <span class=\"tag flat\">中性</span>",
+        "Marvell 若补齐激光器，博通在光互连的「一体化」相对优势会被稀释一格，但交易未签、融资与整合风险都摆在明面，短期难改格局；反过来，Lumentum 售罄至 2029 年的传闻本身佐证光器件供给紧张，博通光 DSP 与 CPO 的议价地位不降反升。 <span class=\"tag flat\">中性</span>"
+      ],
+      "title": "🏢 基本面"
+    },
+    {
+      "items": [
+        "MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">39</span> 家、持有 <span class=\"num\">5</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$530.52</span>，区间 <span class=\"num\">$400–$715</span>，现价隐含约 <span class=\"num\">+53.8%</span>（MarketBeat 10/29 核验，以收盘 <span class=\"num\">$345.00</span> 计）。",
+        "近期变化（均 10/27，MarketBeat 评级表）：DA Davidson 上调 Neutral→<span class=\"tag bull\">Buy</span>，目标价 <span class=\"num\">$350→$400</span>；花旗 下调 Buy→<span class=\"tag bear\">Neutral</span>；William Blair 下调 Outperform→Market Perform；瑞银 下调 Hold→Neutral；HC Wainwright 首覆 <span class=\"tag bull\">Buy</span>；Wedbush 首覆 Outperform；Oppenheimer 首覆 <span class=\"tag bull\">Buy</span>；Rosenblatt 重申 <span class=\"tag bull\">Buy</span>／<span class=\"num\">$600</span>；Tigress 10/22 首覆 <span class=\"tag bull\">Buy</span>／<span class=\"num\">$600</span>。",
+        "<details class=\"more\"><summary>其他口径…</summary><ul><li>汇丰维持 <span class=\"tag bull\">Buy</span>／<span class=\"num\">$560</span>，同时提示本轮融资只覆盖 Anthropic 规划建设的一部分、后续融资接力是关键变量（TechFlowPost／ad-hoc-news 10/28 转述，未见汇丰原文，标注未确认）。</li><li>Morningstar 维持看好口径，估计本次融资安排 2027 年单年可为博通带来近 <span class=\"num\">$60B</span> 相关收入（SDxCentral 10/29，经 PandaForecast 转述，未见 Morningstar 原文，标注未确认）。</li></ul></details>"
+      ],
+      "title": "🎯 分析师评级"
+    },
+    {
+      "items": [
+        "趋势：20 日均线 <span class=\"num\">%%MA20%%</span>、50 日均线 <span class=\"num\">%%MA50%%</span>、200 日均线 <span class=\"num\">%%MA200%%</span>，收盘价位于三条均线下方；周三短暂收复短期均线后周四再度失守，中期趋势仍未反转。",
+        "动量：RSI（14）<span class=\"num\">%%RSI%%</span>，位于中性区，未现超买超卖；单日跌幅伴随大盘与芯片板块同步走弱，属情绪面回吐而非公司层面利空驱动，动量修复需重新站稳短期均线确认。",
+        "关键位置：上方阻力看周三盘中高点 <span class=\"num\">$352.40</span> 一带，其次是 10 月中旬 <span class=\"num\">$355</span> 附近平台；下方支撑看周四低点 <span class=\"num\">$338.80</span> 与周二收盘 <span class=\"num\">$342.33</span>，再下是周一收盘 <span class=\"num\">$329.17</span>，跌破则本周反弹结构破坏。"
+      ],
+      "title": "📊 技术面"
+    },
+    {
+      "items": [
+        "X · SasoEquity @saso_capital（10/29 06:40 北京时间，认证账号，约 <span class=\"num\">235.2K</span> 次浏览）—— 梳理 Alphabet Q3 电话会九点：TPU 系统销售对云增长有贡献但未量化，TPU 客户近 <span class=\"num\">100</span> 家，包括直接采购的 Anthropic 与经博通采购的 Anthropic 及正在 TPU 上扩大预训练的苹果，有意义的营收爬坡在 2027 年；其余要点为搜索放缓、EPS 受 SpaceX 账面亏损拖累、自由现金流为负。 <span class=\"tag flat\">中性偏看多</span> <a href=\"https://x.com/saso_capital/status/2115574525718860249\">原文</a>",
+        "X · Haircut @nodiligence（10/28 18:33 北京时间，认证账号）—— 以一张 AI 算力地图拆解博通对 Anthropic 的两笔兜底：新 8-K 最高约 <span class=\"num\">$43B</span>，叠加早前一笔最高约 <span class=\"num\">$29B</span>，合计峰值约 <span class=\"num\">$72B</span>；72.5% 的覆盖口径约等于银行第一留置权规模，兜底最可能在二手 Rack 售价最差时赔付。 <span class=\"tag bear\">看空／质疑</span> <a href=\"https://x.com/nodiligence/status/2115391446660628700\">原文</a>",
+        "X · Sam Badawi @Sam_Badawi（10/29 21:57 北京时间，认证账号）—— 认为 Marvell 洽购 Lumentum 之外更大的事，是 Marvell 正走向「AI 版博通」：对照博通由 Avago 经收购建成半导体业务、再扩展至网络、定制芯片与基础设施软件的路径，Marvell 在收购 Celestial AI 后若再拿下 Lumentum 光学技术，可同时提供定制 AI 芯片与连接它们的光学基础设施，但大额收购融资仍是主要担忧。 <span class=\"tag flat\">中性</span> <a href=\"https://x.com/Sam_Badawi/status/2115805141345693912\">原文</a>",
+        "Instagram · @aristotle_investments（10/30 07:15 北京时间，认证账号，约 <span class=\"num\">160 万</span>粉丝）—— 「11 月 1 日前值得买的 6 只打折股」：AVGO 现价 <span class=\"num\">$345</span>、年内微跌，称业务 strength 未变、下跌主因近期抛售，属 AI 增长股里的折价机会；视频同时推广其交易课程，观点需打折看。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DfGKaVIvAEB/\">原文</a>",
+        "Instagram · @chainsnap.official（10/29 22:03 北京时间）—— 逐条拆解博通 8-K（10/26）与 10-Q（9/10）：新一笔残值担保峰值约 <span class=\"num\">$43B</span>、早前一笔约 <span class=\"num\">$29B</span>，合计约 <span class=\"num\">$72B</span>，超过 2025 财年利润 <span class=\"num\">$23.1B</span> 的三倍；结论是「安全网就是卖家本人」，博通自称或有负债、违约概率低、迄今未赔付。 <span class=\"tag bear\">看空／质疑</span> <a href=\"https://www.instagram.com/reel/DfFLSbhz8Ik/\">原文</a>",
+        "<details class=\"more\"><summary>更多平台…</summary><ul><li>Threads · @proximacentauri.d（10/29 13:35 北京时间）—— 梳理「Project North Star」结构：优先债约 <span class=\"num\">$43.5B</span>（美银／花旗／摩根士丹利安排）加 Blackstone 次级债，SPV 购入博通–谷歌 TPU／XPU 后租给 Anthropic，2027 年起交付；点出博通同时是卖家、谈判者与担保人。 <span class=\"tag bear\">看空／质疑</span> <a href=\"https://www.threads.com/@proximacentauri.d/post/DfERQCqmIzT\">原文</a></li><li>StockTwits 新闻（10/29 美东凌晨）：散户对 AVGO 的情绪为 bullish，同期对 MU 为 bearish；文章同时称芯片股隔夜走弱与三星业绩及微软／Alphabet 开支口径有关，该因果表述未经核实，仅取情绪数据。 <span class=\"tag flat\">中性偏看多</span> <a href=\"https://stocktwits.com/news-articles/markets/equity/intc-amd-avgo-mu-decline-on-samsung-s-profit-miss-lighter-capex-from-microsoft-alphabet/cZUQgW3R9ba\">原文</a></li></ul></details>"
+      ],
+      "title": "💬 社交平台头条"
+    },
+    {
+      "items": [
+        "Alphabet Q3 财报（美东 10/28 盘后，电话会实录／MarketBeat 10/29）：营收 <span class=\"num\">$127.6B</span>、同比增 <span class=\"num\">25%</span>，略低于约 <span class=\"num\">$128B</span> 的预期；EPS <span class=\"num\">$2.12</span>，受 <span class=\"num\">$8.7B</span> 股权投资账面亏损拖累；云收入 <span class=\"num\">$30.7B</span>、同比增 <span class=\"num\">103%</span>，公司点名 TPU 系统销售对增长有贡献；资本开支 <span class=\"num\">$51.4B</span>，自由现金流 <span class=\"num\">-$9.1B</span>（含 <span class=\"num\">$5.2B</span> 欧盟罚款现金支付）；2026 年开支指引维持 <span class=\"num\">$195–205B</span>，2027 年将「显著增加」；云积压订单 <span class=\"num\">$561B</span>；TPU 客户超 <span class=\"num\">100</span> 家，已与 Oracle、Crux 合作对外交付 TPU 系统，电话会点名 Anthropic 经博通采购 TPU。Alphabet 盘后跌约 <span class=\"num\">10%</span>。",
+        "8-K 量化担保敞口（10/27 提交，Barron's／Fool／FinanceFeeds 10/28–29 报道）：新融资结构下残值担保峰值约 <span class=\"num\">$43B</span>（未折现），口径为未偿租赁额的 <span class=\"num\">72.5%</span> 与收回设备价值之差，随五年租约偿还递减至零；公司将其定性为或有负债、自评违约概率低；早前一笔担保峰值约 <span class=\"num\">$29B</span>，两笔合计约 <span class=\"num\">$72B</span>（Truist 称仅在高度悲观情形下才相关、风险有限）。《华尔街日报》称陈福阳在周末亲自与银行谈判，同意更高利率与更强贷款人保护后促成交易，交易代号 Project North Star。",
+        "Marvell 洽购 Lumentum（彭博 10/28 报道，经 TIKR／Fool 10/29 转述）：谈判已进入后期，可能为全股票交易、最快下周宣布，尚未签约；Lumentum 市值约 <span class=\"num\">$83B</span>，Marvell 约 <span class=\"num\">$221B</span>；激光器与 DSP 合计约占典型 PAM4 光收发器物料成本的 <span class=\"num\">75%</span>（法国巴黎银行估计），合并后 Marvell 将复制博通「交换芯片＋自有激光器」的纵向整合；受融资与稀释担忧影响，Marvell 10/29 收跌 <span class=\"num\">13.24%</span>。",
+        "微软 Q3 财报（美东 10/28 盘后，Barron's／CNBC 转述）：营收 <span class=\"num\">$92.3B</span>、同比增 <span class=\"num\">19%</span>，Azure 增 <span class=\"num\">48%</span>，均超预期；资本开支 <span class=\"num\">$45.2B</span>，低于公司此前 <span class=\"num\">$50B</span> 以上的预期，主因第三方产能交付延迟，下季指引超 <span class=\"num\">$50B</span>、全年约 <span class=\"num\">$170B</span>；对博通的直接牵涉有限，定制芯片主线不在博通。"
+      ],
+      "title": "👀 今日关注"
+    }
+  ],
+  "sources_extra": "价格/行情（Finnhub 与 MarketBeat，10/29 收盘后快照）；均线/RSI 由构建脚本基于 Nasdaq 官方日线计算；评级主口径 MarketBeat（10/29 核验）；Alphabet 财报数字引自电话会实录与 MarketBeat 报道；8-K 担保口径经 Barron's／Fool／FinanceFeeds 转述；Marvell 洽购消息经彭博转述；汇丰与 Morningstar 口径均为转述、未见原文，已标注未确认。",
+  "target_avg": "$530.52"
+}
