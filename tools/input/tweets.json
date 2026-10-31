@@ -2,11 +2,43 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": "54",
- "following": "100",
+ "following": "101",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@rubicon59",
+   "ref_url": "https://x.com/rubicon59/status/2116320470387642792",
+   "text": "That framing is the interesting part. $AVGO at $326.08 is now below all three moving averages, while the street still sits at Moderate Buy with a $530.52 average target. Cheap only matters if the AI book keeps delivering, and that is the part to watch into the Dec 9 print.",
+   "time": "2026-10-31 19:22",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2116490945751654688"
+  },
+  {
+   "ref_author": "@venaodiver",
+   "ref_url": "https://x.com/venaodiver/status/2116316700190924801",
+   "text": "Fair question. Intel's PC slump and Broadcom's custom AI book are different stories, and the $16.7B, +221% quarter is what has to carry the multiple. Friday didn't make that distinction: $326.08, below all three moving averages. The AI book has to prove it from here. $AVGO",
+   "time": "2026-10-31 10:07",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2116351355401261425"
+  },
+  {
+   "ref_author": "@drayinvests",
+   "ref_url": "https://x.com/drayinvests/status/2116299549526602058",
+   "text": "19x forward earnings makes the pullback easier to read, but I would still separate the multiple from the earnings case. The 10/30 close was $326.08, down 5.5%, and consensus is Moderate Buy with a $530.52 average target. That gap alone does not settle the growth question.",
+   "time": "2026-10-31 09:59",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2116349261059416302"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "周五这根阴线，讲的不是需求变了，是钱变贵了。$AVGO 跌 5.5% 到 326.08 美元，纳指跌 2.86%，费半约 7.2%，AMD 跌 10.9%。同一天黑石改口说 Anthropic 上市后可能只拿 BB 档垃圾级，博通 CDS 被传走阔到 175.4 个基点、创纪录。评级机构还没正式裁定，别把预期当定论。",
+   "time": "2026-10-31 09:17",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2116338836120998198"
+  },
   {
    "ref_author": "@youngstockuser",
    "ref_url": "https://x.com/youngstockuser/status/2116078905090314425",
@@ -990,5 +1022,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-30"
+ "updated": "2026-10-31"
 }
