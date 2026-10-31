@@ -1,0 +1,106 @@
+{
+  "archive_title": "周六版（周五收 <span class=\"num\">$%%PRICE%%</span>，<span class=\"num\">%%CHANGE_PCT%%</span>）· AI 抛售日博通跟跌、Anthropic 垃圾评级预警再点担保敞口、力成新加坡合资获批",
+  "key_points": [
+    "周五（10/30）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>）；开 <span class=\"num\">$330.71</span>、高 <span class=\"num\">$331.98</span>、低 <span class=\"num\">$319.30</span>，前收 <span class=\"num\">$345.00</span>；盘后约 <span class=\"num\">$327.22</span>（<span class=\"num\">+0.35%</span>）；市值约 <span class=\"num\">$1.56T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>，现价距区间高点约 <span class=\"num\">-34.1%</span>；5 日约 <span class=\"num\">+0.9%</span>、近 1 个月约 <span class=\"num\">-5.1%</span>（Finnhub／StockAnalysis）。",
+    "过去 24 小时主要新进展：金融时报称黑石改口、预计 Anthropic 上市后仅获垃圾级（BB 档）评级，叠加英特尔弱指引与亚马逊现金流担忧，纳指单日跌 <span class=\"num\">2.86%</span>、费城半导体指数跌约 <span class=\"num\">7.2%</span>，博通跟跌；台湾经济部已批准力成 <span class=\"num\">$400M</span> 入股博通新加坡面板级封装合资 XCIP；基板厂盯线 10/31 晨核验：72 小时内无实质进展。",
+    "MarketBeat 综合评级仍为 Moderate Buy（<span class=\"num\">45</span> 家），平均目标价 <span class=\"num\">$530.52</span>（现价隐含约 <span class=\"num\">+62.7%</span>）；10/27 之后未见新的评级变动。技术面：RSI <span class=\"num\">%%RSI%%</span>，均线位置见。"
+  ],
+  "rating": "Moderate Buy",
+  "rating_class": "flat",
+  "ref_links": [
+    {
+      "title": "Finnhub：AVGO 行情数据",
+      "url": "https://finnhub.io/?q=%22AVGO%22"
+    },
+    {
+      "title": "MarketBeat：AVGO 分析师评级与目标价",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+    },
+    {
+      "title": "路透：10/30 美股收盘 AI 抛售（经 SRN 转载）",
+      "url": "https://srnnews.com/nasdaq-futures-tumble-as-amazon-intel-results-deepen-ai-spending-woes/"
+    },
+    {
+      "title": "TechCrunch：Anthropic 垃圾评级预警（10/30）",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "title": "路透：台湾经济部批准力成新加坡合资（10/28，经 TradingView）",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3NB03U:0-taiwan-economy-ministry-approves-powertech-to-invest-400-million-to-set-up-singapore-jv-xcip-technologies-with-broadcom/"
+    },
+    {
+      "title": "The Motley Fool：博通跌破高点 29% 后的再评估（10/28）",
+      "url": "https://www.fool.com/investing/2026/10/28/broadcom-stock-is-29-below-its-record-after-its-new-anthropic-deal-i-d-consider-buying-it-a-little-at-a-time/"
+    },
+    {
+      "title": "Threads：@real_coinforge 下降楔形图解（10/30）",
+      "url": "https://www.threads.com/@real_coinforge/post/DfH2wzEEkZF"
+    },
+    {
+      "title": "Instagram：@talking_markets 定制芯片之王图解（10/30）",
+      "url": "https://www.instagram.com/p/DfIOmeMD8lt/"
+    },
+    {
+      "title": "Instagram：@hour_insight 韩语快讯（10/31）",
+      "url": "https://www.instagram.com/p/DfIxhF7n9Fo/"
+    },
+    {
+      "title": "Facebook：Signal Street RSI 与百年均线信号（10/30）",
+      "url": "https://www.facebook.com/reel/1060558380329854/"
+    }
+  ],
+  "sections": [
+    {
+      "items": [
+        "周五（10/30）收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），前收 <span class=\"num\">$345.00</span>；开 <span class=\"num\">$330.71</span>、高 <span class=\"num\">$331.98</span>、低 <span class=\"num\">$319.30</span>；盘后约 <span class=\"num\">$327.22</span>（<span class=\"num\">+0.35%</span>，美东 10/30 19:55）；市值约 <span class=\"num\">$1.56T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>；纳指当日跌 <span class=\"num\">2.86%</span> 至 <span class=\"num\">25437</span> 点，为 6 月 5 日以来最大单日跌幅（Finnhub／路透 10/30）。",
+        "事件提醒：博通 2026 财年 Q4 财报预计 <span class=\"num\">12/9</span> 盘后公布，届时验证 Q4 指引（总收入约 <span class=\"num\">$34.8B</span>、AI 半导体收入约 <span class=\"num\">$21.7B</span>）兑现情况；Anthropic IPO 传闻定于 11 月中旬当周定价（未确认）；博通–Toppan 新加坡基板厂盯线 10/31 晨核验无实质进展。"
+      ],
+      "title": "📰 行情速览"
+    },
+    {
+      "items": [
+        "周五的跌幅首先是「信用定价」接管了「需求定价」：垃圾评级预警本身不是新担保、也不是评级机构的正式决定，但它把市场对 Anthropic 融资链的计价方式从「IPO 能融到钱」改成了「融到钱要付多贵」——融资成本每上一个台阶，博通担保余额被信用市场盯住的权重就大一分，需求故事再好也要先过信用这一关。 <span class=\"tag bear\">看空（短期情绪）</span>",
+        "跌幅结构说明这是板块贝塔放大、不是公司新利空：博通 <span class=\"num\">-5.48%</span> 大于纳指 <span class=\"num\">-2.86%</span>、小于 AMD 的 <span class=\"num\">-10.9%</span>、与费城半导体指数约 <span class=\"num\">-7.2%</span> 的跌幅同向；但博通跌得比英伟达（<span class=\"num\">-4.2%</span>）深，差额部分大概率就是担保敞口被点名后的个股折价，而非基本面恶化。 <span class=\"tag flat\">中性</span>",
+        "力成合资获批是供给侧的远期利好、当季中性：批文扫清了合资落地的监管条件，但面板级封装量产要到 2027 年下半年、首客户是 AMD、博通自身出资额未披露，短期内既不贡献收入、也不改变 2027 年指引兑现的节奏；它的意义在于给「产能瓶颈」叙事再添一个实物支点，而不是给本季财报加分。 <span class=\"tag bull\">看多（长期供给）</span>"
+      ],
+      "title": "🏢 基本面"
+    },
+    {
+      "items": [
+        "MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">39</span> 家、持有 <span class=\"num\">5</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$530.52</span>，区间 <span class=\"num\">$400–$715</span>，现价隐含约 <span class=\"num\">+62.7%</span>（MarketBeat 10/30 核验，以收盘 <span class=\"num\">$326.08</span> 计；目标价与家数与 10/29 持平）。",
+        "近期变化：10/27 之后未见新的评级变动（10/31 核验 MarketBeat 评级表，AVGO 最新条目仍为 10/27 一批）；此前一批为：DA Davidson 上调 Neutral→<span class=\"tag bull\">Buy</span>，目标价 <span class=\"num\">$350→$400</span>；花旗 下调 Buy→<span class=\"tag bear\">Neutral</span>；William Blair 下调 Outperform→Market Perform；瑞银 下调 Hold→Neutral；HC Wainwright 首覆 <span class=\"tag bull\">Buy</span>；Wedbush 首覆 Outperform；Oppenheimer 首覆 <span class=\"tag bull\">Buy</span>；Rosenblatt 重申 <span class=\"tag bull\">Buy</span>／<span class=\"num\">$600</span>；Tigress 10/22 首覆 <span class=\"tag bull\">Buy</span>／<span class=\"num\">$600</span>。",
+        "<details class=\"more\"><summary>其他口径…</summary><ul><li>Instagram @hour_insight 韩语快讯（10/31）引用的另一家汇总口径：<span class=\"num\">48</span> 家分析师平均目标价约 <span class=\"num\">$530</span>、区间 <span class=\"num\">$216–$660</span>，与 MarketBeat 口径的均值接近、区间下限差异较大，仅供对照。</li></ul></details>"
+      ],
+      "title": "🎯 分析师评级"
+    },
+    {
+      "items": [
+        "趋势：20 日均线 <span class=\"num\">%%MA20%%</span>、50 日均线 <span class=\"num\">%%MA50%%</span>、200 日均线 <span class=\"num\">%%MA200%%</span>，收盘价位于三条均线下方；周五放量长阴跌破周内低点，中期趋势仍未反转，且与三条均线的距离进一步拉大。",
+        "动量：RSI（14）<span class=\"num\">%%RSI%%</span>；社交端有分析称日线 RSI 已降至 <span class=\"num\">34</span> 附近、股价距 100 周 SMA约 <span class=\"num\">$313</span> 尚有约 <span class=\"num\">5%</span> 距离（Facebook Signal Street 10/30，未经官方数据核验，仅作情绪参考），即按该口径尚未触发其「双信号见底」条件。",
+        "关键位置：上方阻力看周五盘中高点 <span class=\"num\">$331.98</span> 一带，其次是周四收盘 <span class=\"num\">$345.00</span>；下方支撑看周五低点 <span class=\"num\">$319.30</span>，再下是 52 周区间下沿附近 <span class=\"num\">$289.96</span> 一带，跌破周五低点则 10 月下旬的横盘结构破坏。"
+      ],
+      "title": "📊 技术面"
+    },
+    {
+      "items": [
+        "X · GlobalMktObserv @GlobalMktObserv（10/30 23:32 北京时间）—— 信用市场先行定价：博通 CDS 周四单日走阔 <span class=\"num\">10</span> 个基点至 <span class=\"num\">175.4</span> 个基点，创有记录以来最高收盘水平；同期 SpaceX CDS 走阔 <span class=\"num\">20</span> 个基点至 <span class=\"num\">266.5</span> 个基点；帖子把 AI 信用风险列为当日抛售的并行线索，CDS 数值本身为帖主口径、未见官方 CDS 数据源核验。 <span class=\"tag bear\">看空／警示</span> <a href=\"https://x.com/GlobalMktObserv/status/2116191403906646076\">原文</a>",
+        "Threads · CoinForge @real_coinforge（10/30 23:01 北京时间）—— 以日线图对比两次下降楔形：上一次楔形突破后约 9 周涨 <span class=\"num\">71%</span>，当前图形「同款挤压」正在形成，触发条件是日收站上约 <span class=\"num\">$356</span>，若历史重演则假设性目标约 <span class=\"num\">$545</span>；视频自带「假设推演、非投资建议」标注，形态类比不可当作预测。 <span class=\"tag bull\">看多（形态派）</span> <a href=\"https://www.threads.com/@real_coinforge/post/DfH2wzEEkZF\">原文</a>",
+        "Instagram · @talking_markets（10/30 18:29 北京时间）—— 「定制芯片之王」图解：Q3 AI 芯片收入 <span class=\"num\">$16.7B</span>、同比增 <span class=\"num\">221%</span>，总收入 <span class=\"num\">$29.6B</span>、同比增 <span class=\"num\">86%</span>，强调超大规模客户与博通共研定制芯片；帖子本身是季报回顾、非新消息，适合在抛售日对照基本面锚。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/p/DfIOmeMD8lt/\">原文</a>",
+        "Instagram · @hour_insight（10/31 07:34 北京时间，韩语）—— 快讯梳理周五走势：股价回落至 <span class=\"num\">$324</span> 一带、月度平均目标价仍约 <span class=\"num\">$530</span>，称 52 周区间 <span class=\"num\">$289–$495</span> 内的波动已动摇市场情绪，估值负担（市盈率约 <span class=\"num\">41</span> 倍）是调整的背景之一；其引用的 <span class=\"num\">48</span> 家汇总口径与 MarketBeat 略有出入，见评级栏折叠。 <span class=\"tag flat\">中性偏谨慎</span> <a href=\"https://www.instagram.com/p/DfIxhF7n9Fo/\">原文</a>",
+        "Facebook · Signal Street（10/31 04:01 北京时间）—— 技术派「见底双信号」复盘：历史上日线 RSI 跌破 <span class=\"num\">30</span> 且股价触及 100 周 SMA同时出现时，此后一年分别涨 <span class=\"num\">198%</span>（疫情期）、<span class=\"num\">113%</span>（2022 年）、<span class=\"num\">142%</span>（2025 年 4 月）；当前 RSI 约 <span class=\"num\">34</span>、股价约 <span class=\"num\">$329</span>、距 100 周 SMA约 <span class=\"num\">$313</span> 尚有约 <span class=\"num\">5%</span>，结论是「还没到、非常接近」。 <span class=\"tag flat\">中性（等待信号）</span> <a href=\"https://www.facebook.com/reel/1060558380329854/\">原文</a>",
+        "<details class=\"more\"><summary>更多平台…</summary><ul><li>X · unusual_whales @unusual_whales（10/31 00:51 北京时间）—— 「血洗」盘点：自 6 月 2 日以来 AVGO 跌 <span class=\"num\">32.1%</span>，同期 INTC 跌 <span class=\"num\">54.1%</span>、GOOGL 跌 <span class=\"num\">30.3%</span>、MU 跌 <span class=\"num\">27.3%</span>；属情绪盘点、跌幅口径以帖主为准。 <span class=\"tag bear\">看空（情绪）</span> <a href=\"https://x.com/unusual_whales/status/2116211276305056000\">原文</a></li><li>X · Shay Boloor @StockSavvyShay（10/31 00:54 北京时间）—— 转述垃圾评级预警：Anthropic 上市后或仅获 BB 档评级，而非投资级；背景是其规划超 <span class=\"num\">$800B</span> 的算力支出与博通已担保的约 <span class=\"num\">$42B</span> 贷款。 <span class=\"tag bear\">看空／警示</span> <a href=\"https://x.com/StockSavvyShay/status/2116212226474512889\">原文</a></li><li>Instagram · @honeydripnetwork（10/30 09:44 北京时间）—— 「11 月 1 日前值得关注的 6 只打折股」：AVGO 约 <span class=\"num\">$345</span>、较 <span class=\"num\">$495</span> 高点回落，AI 芯片收入仍三位数增长，下一个观察点是 12 月 9 日财报前的压缩形态；属个人观察清单、非个股推荐。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DfGbihphE-_/\">原文</a></li><li>Threads · @elisedi947（10/30 21:38 北京时间）—— 盘前交易计划：对 AVGO 等 5 只票给出支撑附近小仓位与止损位，个人偏好微软与 Meta，提醒价格仅供参考、勿追高。 <span class=\"tag flat\">中性</span> <a href=\"https://www.threads.com/@elisedi947/post/DfHtVDOk-bc\">原文</a></li><li>X · P Equity Research @pequityresearch（10/31 05:08 北京时间）—— 专家观点：AMD 目前仅处于 Google TPU v10 的早期讨论阶段，并不意味着正在取代博通，博通在 Google TPU 中的贡献和份额依然稳固；属单家研究观点、未经 AMD／Google 证实。 <span class=\"tag bull\">看多（份额辩护）</span> <a href=\"https://x.com/pequityresearch/status/2116275953152254274\">原文</a></li></ul></details>"
+      ],
+      "title": "💬 社交平台头条"
+    },
+    {
+      "items": [
+        "AI 抛售与 Anthropic 信用预警（10/30，路透／金融时报经 TechCrunch、Finimize 转述）：纳指跌 <span class=\"num\">2.86%</span> 至 <span class=\"num\">25437</span> 点、纳指 100 跌 <span class=\"num\">3.5%</span>、费城半导体指数跌约 <span class=\"num\">7.2%</span>，英特尔因 Q4 指引弱于预期跌约 <span class=\"num\">28.6%</span>、AMD 跌 <span class=\"num\">10.9%</span>、英伟达跌 <span class=\"num\">4.2%</span>；同日金融时报称 Project North Star 的锚定投资方黑石已改口，预计 Anthropic 上市后仅获 BB 档高垃圾级评级（此前预期年内可达投资级），评级机构尚未正式裁定，Anthropic 与黑石均拒绝置评；市场解读为 AI 融资成本可能上升、机构买家池收窄。",
+        "力成–博通新加坡面板级封装合资获批（路透 10/28，10/29–30 经中文媒体报道）：台湾经济部已批准力成科技投资 <span class=\"num\">$400M</span>、持股 <span class=\"num\">30%</span>，与博通在新加坡设立 XCIP Technologies，合资总投资预计 <span class=\"num\">$56.6 亿</span>；项目主攻扇出型面板级封装（FOPLP），单块面板可产约 <span class=\"num\">45</span> 颗最大尺寸 AI 芯片（传统晶圆工艺约 <span class=\"num\">8–9</span> 颗），AMD 为首客户、2027 年下半年可收货；博通自身出资额未披露，力成核心技术与知识产权留在台湾。",
+        "博通–Toppan 新加坡基板厂盯线（10/31 晨核验）：72 小时内无投产／产能／订单类实质进展，不重复 9 月 29 日开业事件细节。"
+      ],
+      "title": "👀 今日关注"
+    }
+  ],
+  "sources_extra": "价格/行情（Finnhub 与 StockAnalysis，10/30 收盘后快照，盘后价为 Finnhub 19:55 美东快照）；均线/RSI 由构建脚本基于 Nasdaq 官方日线计算；评级主口径 MarketBeat（10/30 核验）；抛售与信用预警引自路透与金融时报经 TechCrunch／Finimize 转述；力成合资引自路透 10/28 报道；社交帖子均经原文或平台检索核验；X 帖子经已保存登录会话核验。",
+  "target_avg": "$530.52"
+}
