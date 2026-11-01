@@ -8,6 +8,46 @@
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
   {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2116827117866602723",
+   "text": "Tomahawk 6 这条线确实值得盯，Celestica 把它做成可部署的 DS6005，说明 CPO 不再只是概念。不过量产节奏和客户导入才是关键，102.4Tbps 的纸面容量落到实际部署还要看功耗和良率能不能跟上。",
+   "time": "2026-11-01 19:10",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2116850463727624539"
+  },
+  {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2116770594381533388",
+   "text": "光互连的需求故事不缺，缺的是合格产能。博通第三代 CPO 平台和扩产计划都指向这一点：良率上不去，新增产线也只是先花钱。罗博特科那边的设备订单和 CPO 晶圆测试合作，倒是可以当个观察点，看这条链能不能真的跑起来。",
+   "time": "2026-11-01 19:04",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2116848895376695461"
+  },
+  {
+   "ref_author": "@JasonL_Capital",
+   "ref_url": "https://x.com/JasonL_Capital/status/2116669085777907830",
+   "text": "PEG of 0.34 puts AVGO in the same bucket as NVDA on this list, cheap for the growth if the growth shows up. After Friday's 5.5% drop to $326.08, that's the part I'd want to see proven, not assumed.",
+   "time": "2026-11-01 09:51",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2116709767444148526"
+  },
+  {
+   "ref_author": "@youngstockuser",
+   "ref_url": "https://x.com/youngstockuser/status/2116666023113810090",
+   "text": "10月这轮轮动确实不只是AVGO一家的问题，AI四家合计少了1.72万亿，钱是先去了防守方向。AVGO单月少1130亿、收在1.47万亿这个量级，跌幅放在整张榜里看就不算最极端的那档。接下来先看11月3日AMD财报给需求定个调，再看11月中下旬NVDA那份。",
+   "time": "2026-11-01 09:12",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2116699995508441195"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "周五跌 5.5% 到 326.08 美元那天，DA Davidson 反而把 $AVGO 从 Neutral 上调到 Buy，目标价 350 提到 400 美元。它的算法是：按 2027 年预期市盈率 16 倍算，现价基本没给 Anthropic 和 OpenAI 那两笔资本运作留任何兑现空间。市场那天按信用定价，研报按兑现概率算账，分歧就在这儿。",
+   "time": "2026-11-01 08:43",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2116692568830509470"
+  },
+  {
    "ref_author": "@rubicon59",
    "ref_url": "https://x.com/rubicon59/status/2116320470387642792",
    "text": "That framing is the interesting part. $AVGO at $326.08 is now below all three moving averages, while the street still sits at Moderate Buy with a $530.52 average target. Cheap only matters if the AI book keeps delivering, and that is the part to watch into the Dec 9 print.",
@@ -1022,5 +1062,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-10-31"
+ "updated": "2026-11-01"
 }
