@@ -1,12 +1,52 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": "54",
- "following": "101",
+ "followers": "58",
+ "following": "102",
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@glocalinvestor",
+   "ref_url": "https://x.com/glocalinvestor/status/2117203790529008062",
+   "text": "Tight ABF and MLCC supply reads like demand is still pulling hard, but for AVGO it also means lead times and costs are worth watching. Tightness helps the demand story, it does not remove the delivery risk.",
+   "time": "2026-11-02 19:39",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2117219924448055494"
+  },
+  {
+   "ref_author": "@jimmyhuli",
+   "ref_url": "https://x.com/jimmyhuli/status/2117091073646637437",
+   "text": "这个筛法挺实在的，先看业绩确定性和资产负债表，再谈估值。不过周五 AVGO 也跟着跌了 5.5%，筛出来不等于跌不动，板块回调时照样一起走，仓位还是得留点余地。",
+   "time": "2026-11-02 18:37",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2117204324120191108"
+  },
+  {
+   "ref_author": "@BourbonCap",
+   "ref_url": "https://x.com/BourbonCap/status/2116894811839975908",
+   "text": "The two-leg setup is the point here: custom XPUs on one side, merchant silicon for AI networking on the other. $326.08, below all three moving averages, so execution has to do the talking. $AVGO",
+   "time": "2026-11-02 09:42",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2117069875864907801"
+  },
+  {
+   "ref_author": "@pequityresearch",
+   "ref_url": "https://x.com/pequityresearch/status/2117031402038276294",
+   "text": "CW laser doing most of the heavy lifting here is the part that stands out. If that volume ramp actually ships, optical demand is real, but the test will be yields and lead times, not the forecast chart alone.",
+   "time": "2026-11-02 09:35",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2117068119969849428"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "明天 AMD 盘后财报，收入指引是一回事，我更在意它对 Helios 机架量产怎么表态。毕竟 $AVGO 那条 580→1150→2300 亿美元的 AI 半导体指引，一年翻一倍，机架组网铺不开就只是纸面数字。先看 AMD 怎么说，再看 12 月 9 号博通自己怎么交代。",
+   "time": "2026-11-02 09:15",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2117063075060961282"
+  },
   {
    "ref_author": "@carrioresearch",
    "ref_url": "https://x.com/carrioresearch/status/2116827117866602723",
@@ -1062,5 +1102,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-01"
+ "updated": "2026-11-02"
 }
