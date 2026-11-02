@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-02：周一版 · 周五半导体普跌、Anthropic 融资担保争议发酵</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-02</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周一开盘前：最新收盘仍为周五（10/30）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$327.18&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.34%&lt;/span&gt;）；今晚美股进入冬令时，北京时间 &lt;span class=&quot;num&quot;&gt;22:30&lt;/span&gt; 开盘。；过去 48 小时主线：周五半导体普跌拖累 AVGO，Anthropic &lt;span class=&quot;num&quot;&gt;$63B&lt;/span&gt; 融资包与博通担保争议继续发酵；Anthropic IPO 路演预计 11 月 9 日当周、定价窗口约 11 月 20–24 日（未确认）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动；基板厂盯线 11/2 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-01：周日版（最新收盘仍为周五 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 巴克莱 CDS 报告点名博通、Anthropic IPO 定价窗口细化至 11 月下旬</title>
       <link>https://avgo.pages.dev/briefs/2026-11-01</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-01</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
       <description>周二（10/13）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;17.2M&lt;/span&gt; 股、低于均值；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）附近，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（finnhub / MarketBeat，10/13 收盘）；博通官方发布 &lt;strong&gt;VMware HyperArmor&lt;/strong&gt;（GlobeNewswire 10/13）：ESX hypervisor 主动零日防护层，无停机、无 in-guest agent，VCF 安全捆绑再加码。；Melius Research（Ben Reitzes，MarketWatch 10/13）：预计 Google 2027 年 AI 基建 capex 达 &lt;span class=&quot;num&quot;&gt;$352B&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+75%&lt;/span&gt;），AVGO 目标价 &lt;span class=&quot;num&quot;&gt;$610&lt;/span&gt;（隐含 &lt;span class=&quot;num&quot;&gt;+70%&lt;/span&gt; 以上）；认为 TPU 供应商分散风险已被约 &lt;span class=&quot;num&quot;&gt;-28%&lt;/span&gt; 的跌幅消化。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-13：周二晨报（周一收 $354.73，-1.9%）· Hock Tan：资本是 AI 扩张最大约束 · $42B Anthropic 贷款细节披露 · CPO 整机落地</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-13</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周一（10/12）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），常规时段约 &lt;span class=&quot;num&quot;&gt;15.3M&lt;/span&gt; 股成交、明显低于均值；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）略下方，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（stockanalysis.com，10/12 收盘）；Hock Tan 新加坡表态（路透 10/12）：“The biggest constraint is capital”——AI 扩张最大瓶颈是资金而非芯片；需求至少到 &lt;span class=&quot;num&quot;&gt;2029–2030&lt;/span&gt; 年超供给；“AI 投资人像赌场赌徒”言论点燃情绪，AVGO 当日 &lt;span class=&quot;num&quot;&gt;-1.9%&lt;/span&gt;、SOX 跌 &lt;span class=&quot;num&quot;&gt;2.7%&lt;/span&gt;。；博通 AI 融资蓝图添新细节：Anthropic IPO 文件披露博通同意出借最高 &lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt;（约覆盖 Anthropic &lt;span class=&quot;num&quot;&gt;$125.2B&lt;/span&gt; 五年期 TPU 算力租赁承诺三分之一）；另为与 OpenAI 共研芯片安排 &lt;span class=&quot;num&quot;&gt;$50B+&lt;/span&gt; 融资（WSJ）、投行团筹集 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt;（彭博）。（TheStreet 10/12 整合）</description>
     </item>
   </channel>
 </rss>
