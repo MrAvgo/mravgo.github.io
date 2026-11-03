@@ -1,0 +1,108 @@
+{
+"archive_title": "周二版 · Marvell 1150 亿美元收购 Lumentum，AI 光互连竞争升温",
+"key_points": [
+"周二开盘前：最新收盘为周一（11/2）<span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），盘后约 <span class=\"num\">$323.80</span>（<span class=\"num\">+0.49%</span>）；纳指周一跌 <span class=\"num\">1.1%</span>、半导体 ETF 跌近 <span class=\"num\">4%</span>，AVGO 跌幅明显小于板块。",
+"过去 24 小时主线：Marvell 宣布以约 <span class=\"num\">$115B</span> 全股票收购 Lumentum，补齐“硅到光”栈，直接冲击博通的光 DSP／CPO 布局；SemiAnalysis 转述的 TPU 产量下修与 AMD 参与 v10 的传闻仍未证实。",
+"MarketBeat 综合评级仍为 Moderate Buy（<span class=\"num\">45</span> 家），平均目标价 <span class=\"num\">$530.52</span>（现价隐含约 <span class=\"num\">+64.7%</span>）；10/27 一批评级变动（DA Davidson 上调、Citi 与 UBS 下调）仍是最近的变化；基板厂盯线 11/3 晨核验无实质进展。"
+],
+"rating": "Moderate Buy",
+"rating_class": "flat",
+"ref_links": [
+{
+"title": "Finnhub：AVGO 行情数据",
+"url": "https://finnhub.io/?q=%22AVGO%22"
+},
+{
+"title": "MarketBeat：AVGO 分析师评级与目标价",
+"url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+},
+{
+"title": "Investopedia：11/2 市场日报（纳指与半导体板块）",
+"url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11022026-12206945"
+},
+{
+"title": "TechCrunch：Marvell 以 1150 亿美元收购 Lumentum（11/2）",
+"url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+},
+{
+"title": "Data Center Dynamics：SemiAnalysis 转述的 TPU 产量下修与 AMD v10 传闻",
+"url": "https://www.datacenterdynamics.com/en/news/google-rumored-to-have-partnered-with-amd-on-tpu-v10-as-shipments-of-current-generations-revised-down-report/"
+},
+{
+"title": "Seeking Alpha：Broadcom Riding The XPU Wave（11/2）",
+"url": "https://seekingalpha.com/article/4960952-broadcom-riding-the-xpu-wave"
+},
+{
+"title": "Longbridge：AMD Q3 财报前瞻（11/3 盘后）",
+"url": "https://longbridge.com/en/news/303926312"
+},
+{
+"title": "X：@Kshsb783142 Marvell–Lumentum 与激光供应链（11/2）",
+"url": "https://x.com/Kshsb783142/status/2117282832494276856"
+},
+{
+"title": "X：@SouthernValue95 Anthropic S-1/A 资金覆盖测算（11/3）",
+"url": "https://x.com/SouthernValue95/status/2117285822235910324"
+},
+{
+"title": "Instagram：@astrointelhq AVGO 下降楔形技术图（11/2）",
+"url": "https://www.instagram.com/p/DfOZiLakdzn/"
+}
+],
+"sections": [
+{
+"items": [
+"周二开盘前：最新收盘为周一（11/2）<span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），前收 <span class=\"num\">$326.08</span>；开 <span class=\"num\">$328.37</span>、高 <span class=\"num\">$333.56</span>、低 <span class=\"num\">$321.87</span>；盘后约 <span class=\"num\">$323.80</span>（<span class=\"num\">+0.49%</span>，美东 11/2 19:22 快照）；市值约 <span class=\"num\">$1.54T</span>；52 周区间 <span class=\"num\">$289.96–$495.00</span>；周一成交量低于日均量，与周五的放量抛售形成对比（Finnhub／StockAnalysis／MarketBeat）。",
+"事件提醒：AMD 将于今晚（11/3）美股盘后公布 Q3，电话会美东 <span class=\"num\">17:00</span>，市场预期收入约 <span class=\"num\">$13.09B</span>、调整后 EPS 约 <span class=\"num\">$1.95</span>，Q4 指引与 Helios 机架量产节奏是看点；博通 2026 财年 Q4 财报预计 <span class=\"num\">12/9</span> 盘后公布（公司尚未公告，属市场估计）；Anthropic IPO 路演预计 <span class=\"num\">11/9</span> 当周启动（市场预期，未确认）；博通–Toppan 新加坡基板厂盯线 11/3 晨核验无实质进展。"
+],
+"title": "📰 行情速览"
+},
+{
+"items": [
+"周一 AVGO 跌幅小于板块，说明抛售主因仍是板块与信用叙事而非博通自身新消息：纳指跌 <span class=\"num\">1.1%</span>、半导体 ETF 跌近 <span class=\"num\">4%</span>，Intel 再跌约 <span class=\"num\">9%</span>、Marvell 跌约 <span class=\"num\">13%</span>，AVGO 仅跌 <span class=\"num\">1.18%</span> 且成交量低于均量——相对抗跌，但趋势未反转，今晚 AMD 指引仍是第一个检验点。 <span class=\"tag flat\">中性（观察）</span>",
+"Marvell–Lumentum 是博通光互连布局最直接的竞争变量：合并后对手同时拥有定制芯片、电互连与激光器／光模块资产，博通的 DSP 与 CPO 优势不再是单点领先；但交易要到 2028 年上半年才交割、市场当日用脚投票，短期内对博通订单没有直接冲击，真正的变量是 Lumentum 今后是否继续向博通的客户供货。 <span class=\"tag bear\">看空（竞争，中期）</span>",
+"TPU 传闻的净效应偏中性：若 CoWoS 产能瓶颈导致 2026 年下半年 TPU 产量下修属实，博通当期出货节奏会受拖累；但 SemiAnalysis 同时指出 2027 年预测下调主因是封装产能向其他客户倾斜，且博通与 Google 的长期协议覆盖至 2031 年，AMD 参与 v10 的传闻按专家解读也只是供应商多元化、并非取代博通——需等 Google 或博通官方口径验证，不宜按传闻调仓。 <span class=\"tag flat\">中性（待验证）</span>"
+],
+"title": "🏢 基本面"
+},
+{
+"items": [
+"MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">39</span> 家、持有 <span class=\"num\">5</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$530.52</span>，现价隐含约 <span class=\"num\">+64.7%</span>（MarketBeat，11/3 核验）。",
+"近期变化（10/27 一批，近一周内无新变动）：DA Davidson 上调 Neutral→<span class=\"tag bull\">Buy</span>，目标价 <span class=\"num\">$350→$400</span>；Rosenblatt 重申 Buy、目标价 <span class=\"num\">$600</span>；反向的为 Citi 下调 Buy→Neutral、UBS 下调 Hold→Neutral（均为 10/27）。",
+"<details class=\"more\"><summary>其他口径…</summary><ul><li>另一汇总口径（StockAlert，11/2 数据）称 47 家覆盖中强力买入 8 家、买入 36 家、持有 3 家，平均目标价约 $530.14，与 MarketBeat 口径基本一致。</li></ul></details>"
+],
+"title": "🎯 分析师评级"
+},
+{
+"items": [
+"趋势：20 日均线 <span class=\"num\">%%MA20%%</span>、50 日均线 <span class=\"num\">%%MA50%%</span>、200 日均线 <span class=\"num\">%%MA200%%</span>，收盘价位于三条均线下方；周一缩量小跌，与周五放量长阴不同，趋势状态仍是弱势整理而非加速下跌。",
+"动量：RSI（14）<span class=\"num\">%%RSI%%</span>；社交端技术图仍把 <span class=\"num\">$318</span> 一带视为下降楔形下沿支撑、<span class=\"num\">$344.50</span> 视为上破位，仅作市场情绪参考，不构成操作建议。",
+"关键位置：上方阻力看周一盘中高点 <span class=\"num\">$333.56</span> 一带，其次是上周五收盘 <span class=\"num\">$326.08</span> 上方的 <span class=\"num\">$345.00</span> 一带；下方支撑看周一低点 <span class=\"num\">$321.87</span>，再下是上周五低点 <span class=\"num\">$319.30</span>，更远是 52 周区间下沿附近 <span class=\"num\">$289.96</span> 一带。"
+],
+"title": "📊 技术面"
+},
+{
+"items": [
+"X · Kshsb783142 @Kshsb783142（11/2 23:48）—— Marvell 收购 Lumentum 不只是垂直整合，而是把激光器这一核心资产交给博通与英伟达的竞争对手，AI 光通信竞争将从产能与价格转向供应链防御。 <span class=\"tag bear\">看空（竞争）</span> <a href=\"https://x.com/Kshsb783142/status/2117282832494276856\">原文</a>",
+"X · Ben Pouladian @benitoz（11/3 00:20）—— Marvell 与 Lumentum 已正式签约，战略逻辑是把“硅到光”栈整合为一体，给博通带来更广泛的竞争对手；市场当日并不看好，价格、2028 年交割与能否继续向竞争对手供货仍是关键问题。 <span class=\"tag flat\">中性</span> <a href=\"https://x.com/benitoz/status/2117290862594199911\">原文</a>",
+"X · SouthernValue95 @SouthernValue95（11/3 00:00）—— Anthropic 的 S-1/A 显示其现金、未提取贷款、经营现金流与 IPO 资金合计足以覆盖未来四年算力支出，即使收入持平仍有约 <span class=\"num\">$60–70B</span> 余量，应能缓解市场对 Anthropic 积压风险传导至博通的担忧（为帖主测算，未独立核实）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/SouthernValue95/status/2117285822235910324\">原文</a>",
+"X · statementdog @statementdog（11/2 22:30）—— 若 Google TPU v9 进一步延迟，其放量窗口可能在 v10 到来前被压缩；作者估计 2028 年 Humufish 芯片出货量为 <span class=\"num\">190</span> 万颗，这可能为博通与 Intel 创造机会窗口（为帖主估计，未证实）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/statementdog/status/2117262959437316341\">原文</a>",
+"Instagram · Astro Intelligence @astrointelhq（11/2 04:00 UTC）—— AVGO 日线呈下降楔形，<span class=\"num\">$318</span> 为支撑、<span class=\"num\">$344.50</span> 为上破位，10/30 期权流显示有人在 <span class=\"num\">$355</span> 行权价买入看涨期权，帖主看好的则是 11/6 到期的 <span class=\"num\">$340</span> 看涨期权（期权观点，风险较高）。 <span class=\"tag bull\">看多（技术面）</span> <a href=\"https://www.instagram.com/p/DfOZiLakdzn/\">原文</a>",
+"<details class=\"more\"><summary>更多平台…</summary><ul><li>Facebook · Philip Justin Ngo（11/2）—— “11 月观察清单”中 AVGO 六个月跌约 32%，但 AI 芯片需求与现金流仍强，长期看多、但对价格挑剔。 <span class=\"tag bull\">看多</span> <a href=\"https://www.facebook.com/reel/1821092792560318/\">原文</a></li><li>Threads · CoinForge @real_coinforge（11/2）—— AVGO 周线已在 50 日均线下方约 63 天，历史上最长一次为 140 天，帖主据此认为底部临近（语气偏营销，仅作情绪参考）。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@real_coinforge/post/DfPy4hSEc8j\">原文</a></li></ul></details>"
+],
+"title": "💬 社交平台头条"
+},
+{
+"items": [
+"Marvell 宣布收购 Lumentum（TechCrunch／StockTwits，11/2）：全股票交易、企业价值约 <span class=\"num\">$115B</span>，每股 Lumentum 换 <span class=\"num\">4.5</span> 股 Marvell（约 <span class=\"num\">$1,132</span>，较 10/28 收盘溢价约 <span class=\"num\">23.9%</span>），合并后 Marvell 股东约占 <span class=\"num\">67%</span>、Lumentum 股东约占 <span class=\"num\">33%</span>，预计 2028 年上半年交割；公司称年化协同超 <span class=\"num\">$1B</span>、合并后可覆盖约 <span class=\"num\">$550B</span> 可及市场（公司口径）；当日 Marvell 跌约 <span class=\"num\">13%</span> 至 <span class=\"num\">$170.80</span>。",
+"SemiAnalysis 转述的 TPU 产量下修与 AMD v10 传闻（Data Center Dynamics／IDC Nova，11/2 前后）：SemiAnalysis 称 2026 年下半年 TPU 产量低于此前预期，主因 CoWoS-S 先进封装爬坡困难；v7 Ironwood 预测从 <span class=\"num\">320</span> 万颗下调至 <span class=\"num\">270</span> 万颗，博通 2026 年 CoWoS 晶圆产出从 <span class=\"num\">25</span> 万片下调至 <span class=\"num\">21.5</span> 万片，2027 年 TPU 7 与 8i 合计预测低于此前 <span class=\"num\">600</span> 万颗；同期市场传闻称 Google 正与 AMD 合作开发 v10 TPU——以上均为研究机构社交帖转述，Google、AMD 与博通均未证实，专家解读称 AMD 参与不等于取代博通。",
+"XPU 出货分析（Seeking Alpha，11/2）：博通 XPU 出货量同比约增 <span class=\"num\">3.5</span> 倍，约占 2026 财年 Q3 AI 收入的 <span class=\"num\">75%</span>，Google TPU v8i 与 OpenAI Jalapeño 被视为推理场景的成本优势来源；文章同时提醒，博通为 Anthropic 大额硬件交易提供的残值担保是新增风险点（分析文章，非公司公告）。",
+"AMD 今晚 Q3 是博通的交叉验证点（Longbridge／Zacks，11/2 前瞻）：AMD 今晚盘后公布 Q3，市场预期收入约 <span class=\"num\">$13.09B</span>、调整后 EPS 约 <span class=\"num\">$1.95</span>；Helios 机架方案已在 Meta 上线测试，Q4 指引能否确认量产爬坡，将间接验证机架级 AI 组网（博通 Tomahawk 的落地场景之一）的需求节奏。",
+"博通–Toppan 新加坡基板厂盯线（11/3 晨核验）：72 小时内无投产／产能／订单类实质进展。"
+],
+"title": "👀 今日关注"
+}
+],
+"sources_extra": "价格／行情（Finnhub 与 StockAnalysis，11/2 收盘快照，盘后价为 Finnhub 19:22 美东快照）；均线／RSI 由构建脚本基于 Nasdaq 官方日线计算；评级主口径 MarketBeat（11/3 核验）；周一板块表现引自 Investopedia 11/2 市场日报；Marvell 收购引自 TechCrunch 与 StockTwits 11/2 报道；TPU 传闻引自 Data Center Dynamics 对 SemiAnalysis 的转述（未证实）；社交帖子均经原文或平台检索核验；X 帖子经已保存登录会话核验。",
+"target_avg": "$530.52"
+}

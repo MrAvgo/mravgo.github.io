@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-03：周二版 · Marvell 1150 亿美元收购 Lumentum，AI 光互连竞争升温</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-03</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周二开盘前：最新收盘为周一（11/2）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$323.80&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.49%&lt;/span&gt;）；纳指周一跌 &lt;span class=&quot;num&quot;&gt;1.1%&lt;/span&gt;、半导体 ETF 跌近 &lt;span class=&quot;num&quot;&gt;4%&lt;/span&gt;，AVGO 跌幅明显小于板块。；过去 24 小时主线：Marvell 宣布以约 &lt;span class=&quot;num&quot;&gt;$115B&lt;/span&gt; 全股票收购 Lumentum，补齐“硅到光”栈，直接冲击博通的光 DSP／CPO 布局；SemiAnalysis 转述的 TPU 产量下修与 AMD 参与 v10 的传闻仍未证实。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.7%&lt;/span&gt;）；10/27 一批评级变动（DA Davidson 上调、Citi 与 UBS 下调）仍是最近的变化；基板厂盯线 11/3 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-02：周一版 · 周五半导体普跌、Anthropic 融资担保争议发酵</title>
       <link>https://avgo.pages.dev/briefs/2026-11-02</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-02</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-15</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
       <description>周三（10/14）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;22.7M&lt;/span&gt; 股、低于均值约一成；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）之下，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线。（finnhub / thelincolnianonline，10/14 收盘）；Hock Tan“赌场”论发酵：摩根大通分析师纪要称近日半导体抛售的最近因即 Tan 的新加坡 DBS 会议发言（ZeroHedge 10/14 转述）；其质疑 OpenAI 约 &lt;span class=&quot;num&quot;&gt;$50B&lt;/span&gt; 年化收入能否转为长期盈利，并指资金是 AI 扩张的最大瓶颈。；产品落地：Micas Networks 在 OCP 发布三款 &lt;span class=&quot;num&quot;&gt;102.4T&lt;/span&gt; Tomahawk 6 交换机（含 TH6-Davisson CPO 机型，Q1 2027 量产）；AMD ROCm 10.1 生态支持博通 Thor2 网卡。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-14：周三晨报（周二收 $357.31，+0.7%）· VMware HyperArmor 发布 · Melius 喊 $610：Google 2027 capex +75% · 马斯克回应“赌场”论</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-14</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-14</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周二（10/13）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;17.2M&lt;/span&gt; 股、低于均值；位于 &lt;span class=&quot;num&quot;&gt;20&lt;/span&gt; 日均线（&lt;span class=&quot;num&quot;&gt;$%%MA20%%&lt;/span&gt;）附近，仍受压于 &lt;span class=&quot;num&quot;&gt;50/200&lt;/span&gt; 日均线之下。（finnhub / MarketBeat，10/13 收盘）；博通官方发布 &lt;strong&gt;VMware HyperArmor&lt;/strong&gt;（GlobeNewswire 10/13）：ESX hypervisor 主动零日防护层，无停机、无 in-guest agent，VCF 安全捆绑再加码。；Melius Research（Ben Reitzes，MarketWatch 10/13）：预计 Google 2027 年 AI 基建 capex 达 &lt;span class=&quot;num&quot;&gt;$352B&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+75%&lt;/span&gt;），AVGO 目标价 &lt;span class=&quot;num&quot;&gt;$610&lt;/span&gt;（隐含 &lt;span class=&quot;num&quot;&gt;+70%&lt;/span&gt; 以上）；认为 TPU 供应商分散风险已被约 &lt;span class=&quot;num&quot;&gt;-28%&lt;/span&gt; 的跌幅消化。</description>
     </item>
   </channel>
 </rss>
