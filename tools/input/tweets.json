@@ -1,12 +1,44 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": "58",
- "following": "105",
+ "followers": 60,
+ "following": 106,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@ebiken",
+   "ref_url": "https://x.com/ebiken/status/2117768855024222447",
+   "text": "A new switch vendor taking on the Mellanox/Broadcom duopoly in scale-out fabric is a bold bet, and the funding suggests someone believes the timing is right. The hard part was never the single-switch spec, it is surviving at cluster scale. That is the test to watch. $AVGO",
+   "time": "2026-11-04 18:23",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2117925795301855397"
+  },
+  {
+   "ref_author": "@pequityresearch",
+   "ref_url": "https://x.com/pequityresearch/status/2117658098378657806",
+   "text": "The 1.6T ramp gets the headlines, but the CPO constraints are the part that decides timing. Lasers, packaging and yields have to line up before co-packaged optics moves from demos to volume. The ramp, not the roadmap, is what to watch. $AVGO",
+   "time": "2026-11-04 10:22",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2117804648761557490"
+  },
+  {
+   "ref_author": "@Sam_Badawi",
+   "ref_url": "https://x.com/Sam_Badawi/status/2117748801733791776",
+   "text": "@Sam_Badawi Arista's print makes the inference networking point hard to ignore. If that demand holds, Tomahawk's case gets easier, but it's still demand for the category, not a guaranteed share win for Broadcom. Worth watching how much of it actually lands in Ethernet.",
+   "time": "2026-11-04 09:11",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2117786897087090906"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "OpenAI 一边跟博通合作自研加速器，一边又传出要直接买 Google 的 TPU，这事有意思的地方不在站队，而在客户越来越不把鸡蛋放一个篮子里。对博通来说，TPU 本来就是它造的，自研那条线也在它手里，两边都不算丢单，但份额叙事得打个折——报道还没获双方证实。$AVGO",
+   "time": "2026-11-04 08:33",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2117777142675308804"
+  },
   {
    "ref_author": "@youngstockuser",
    "ref_url": "https://x.com/youngstockuser/status/2117529462086795512",
@@ -1150,5 +1182,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-03"
+ "updated": "2026-11-04"
 }
