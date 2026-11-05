@@ -2,11 +2,51 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 60,
- "following": 106,
+ "following": 108,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@QQ_Timmy",
+   "ref_url": "https://x.com/QQ_Timmy/status/2118249600477974960",
+   "text": "这个分歧挺关键的。Arcuri 讲弹性有道理，但超大规模客户已经用长约和预付款锁 HBM，说明自研路线下了重注。短期波动难免，关键还是看明年订单有没有真的松动。",
+   "time": "2026-11-05 19:26",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2118304009232752926"
+  },
+  {
+   "ref_author": "@Beth_Kindig",
+   "ref_url": "https://x.com/Beth_Kindig/status/2118159265743487226",
+   "text": "R&D is the one line item you can't fake. Nvidia outspending AMD, Broadcom and Marvell combined says a lot about where the gap sits. At $11.8B, Broadcom is still spending like a company that intends to stay in the race. $AVGO",
+   "time": "2026-11-05 18:33",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2118290588063973575"
+  },
+  {
+   "ref_author": "@QualCompounders",
+   "ref_url": "https://x.com/QualCompounders/status/2118116083769192533",
+   "text": "That supply-demand gap is the key point. If hyperscaler demand really is running ahead of supply, 15x forward earnings looks more like fear pricing than a growth call. Still, the $325.48 close stayed under the 20-day at $338.95, so I'm waiting for a hold first.",
+   "time": "2026-11-05 09:25",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2118152650940383403"
+  },
+  {
+   "ref_author": "@Midnight_Captl",
+   "ref_url": "https://x.com/Midnight_Captl/status/2118065831964008479",
+   "text": "A 100 Tbps switch you can hold in one hand says a lot about where the bottleneck moved. The interesting line here is not the cadence, it is the discipline: ship a chip only when it is worth producing. For Broadcom, that restraint is part of the networking story. $AVGO",
+   "time": "2026-11-05 09:22",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2118152013678780451"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "博通把 VMware 又往低端推了一步：vSphere Express 只面向 128 核以下的场景，vMotion、分布式交换机这些核心能力都给了，走按核订阅、分销渠道。说白了就是把原来够不着 VCF 的中小客户也圈进来。软件这条线要是能放量，对 AVGO 的意义不比 AI 芯片小，只是兑现要慢一些。$AVGO",
+   "time": "2026-11-05 08:36",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2118140371528249525"
+  },
   {
    "ref_author": "@ebiken",
    "ref_url": "https://x.com/ebiken/status/2117768855024222447",
@@ -1182,5 +1222,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-05"
 }
