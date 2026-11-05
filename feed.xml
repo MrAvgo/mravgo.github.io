@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-05：周四版 · AVGO 回吐 2.0%，VMware 推低端新品、Anthropic 承诺近 9000 亿</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-05</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周四开盘前：最新收盘为周三（11/4）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$330.11&lt;/span&gt;；道指周三 &lt;span class=&quot;num&quot;&gt;+3.03%&lt;/span&gt;、标普 &lt;span class=&quot;num&quot;&gt;+1.58%&lt;/span&gt;、纳指 &lt;span class=&quot;num&quot;&gt;+1.44%&lt;/span&gt;，AVGO 逆势跑输大盘。；过去 24 小时主线：博通 VMware 推出面向中小团队的 vSphere Express 与 VCF 9.1 的 AI 部署工具；Anthropic 修订文件显示算力与基建承诺总额约 &lt;span class=&quot;num&quot;&gt;$8954&lt;/span&gt; 亿，其中博通设备租赁约 &lt;span class=&quot;num&quot;&gt;$1612&lt;/span&gt; 亿仍居首；Arista Q3 超预期，验证以太网组网需求。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+63.0%&lt;/span&gt;）；近一周内无新的评级变动；基板厂盯线 11/5 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-04：周三版 · AVGO 反弹 3.1%，AMD 超预期、Anthropic 承诺上调</title>
       <link>https://avgo.pages.dev/briefs/2026-11-04</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-04</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-17</guid>
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
       <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.5M&lt;/span&gt; 股放量；市值约 &lt;span class=&quot;num&quot;&gt;$1.65T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-34%&lt;/span&gt;。；Micas Networks 发布 3 款基于博通 Tomahawk 6 的 102.4T 开放式交换平台（含 Davisson CPO，10/12 宣布），又一 TH6 下游 design win。；Broadcom 与 CoreWeave 等 9 家发行人拒绝 OKX×ICE 的代币化股票交易场所（10/16）；Gartner 10/14 悲观报告（$7T 支出 vs $3.6T 收入）加剧 AI 板块融资担忧。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-16：周五晨报（周四收 $344.33，-0.6%）· 字节×联发科定制芯片谈判 · Celestica CPO 交换机验证 · 评级维持 Moderate Buy</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-16</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周四（10/15）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;28.4M&lt;/span&gt; 股放量；市值约 &lt;span class=&quot;num&quot;&gt;$1.64T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;。；字节跳动接近与联发科达成定制数据中心 AI 芯片协议（Bloomberg 10/15 爆料），定制 ASIC 赛道再添强劲对手。；Celestica 102.4T CPO 交换机 DS6005 获多源验证（TH6-Davisson）；Meta 下一代 scale-up 交换机传采用 TH6（单源待验证）。</description>
     </item>
   </channel>
 </rss>
