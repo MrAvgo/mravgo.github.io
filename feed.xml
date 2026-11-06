@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-06：周五版 · AVGO 暴跌 10.4% 逼近 52 周低点，中期选举引爆 AI 基建抛售</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-06</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五开盘前：最新收盘为周四（11/5）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$289.45&lt;/span&gt;；纳指 &lt;span class=&quot;num&quot;&gt;-5.52%&lt;/span&gt;、标普 &lt;span class=&quot;num&quot;&gt;-4.36%&lt;/span&gt;、费半跌逾 &lt;span class=&quot;num&quot;&gt;12%&lt;/span&gt;，纳指确认进入修正区间。；过去 24 小时主线：中期选举后民主党赢下两院，德州等州拟暂停新数据中心审批，AI 基建股遭历史性抛售；博通本身无新利空，Q4 AI 收入指引 &lt;span class=&quot;num&quot;&gt;$217&lt;/span&gt; 亿未变。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+82.0%&lt;/span&gt;）；近一周内无新的评级变动；基板厂盯线 11/6 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-05：周四版 · AVGO 回吐 2.0%，VMware 推低端新品、Anthropic 承诺近 9000 亿</title>
       <link>https://avgo.pages.dev/briefs/2026-11-05</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-05</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-18</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
       <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.8M&lt;/span&gt; 股放量；市值约 &lt;span class=&quot;num&quot;&gt;$1.62T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-33.6%&lt;/span&gt;。；Anthropic IPO 推进（10/14–10/16）：10/14 旧金山投资者日披露 Q3 营收 &lt;span class=&quot;num&quot;&gt;168 亿美元&lt;/span&gt;（+45%）、调整后已盈利；Reuters 10/15 称部分投资者讨论估值降至约 &lt;span class=&quot;num&quot;&gt;1.5 万亿美元&lt;/span&gt;（此前预期 &lt;span class=&quot;num&quot;&gt;2 万亿&lt;/span&gt;）；拟 11/9 当周启动路演、感恩节前上市——博通未来最大 XPU 客户的上市进展直接影响其 &lt;span class=&quot;num&quot;&gt;600 亿美元&lt;/span&gt;融资包的信用风险。；关税动向：特朗普政府考虑将半导体关税扩大至数据中心服务器等成品的说法源自 Politico 8/27 旧报道（DCD 10/15 转述，白宫 8 月已否认）；10/16 的新进展是 CCIA 等 5 家科技行业协会致信白宫，称 25% 232 关税将使数据中心建设成本增加 &lt;span class=&quot;num&quot;&gt;15.6%&lt;/span&gt;。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-17：周六晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Micas 发布 TH6 三平台 · Broadcom 拒绝 OKX-ICE 代币化 · Gartner 悲观报告</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-17</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-17</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.5M&lt;/span&gt; 股放量；市值约 &lt;span class=&quot;num&quot;&gt;$1.65T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-34%&lt;/span&gt;。；Micas Networks 发布 3 款基于博通 Tomahawk 6 的 102.4T 开放式交换平台（含 Davisson CPO，10/12 宣布），又一 TH6 下游 design win。；Broadcom 与 CoreWeave 等 9 家发行人拒绝 OKX×ICE 的代币化股票交易场所（10/16）；Gartner 10/14 悲观报告（$7T 支出 vs $3.6T 收入）加剧 AI 板块融资担忧。</description>
     </item>
   </channel>
 </rss>
