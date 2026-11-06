@@ -1,12 +1,36 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 60,
- "following": 108,
+ "followers": 62,
+ "following": 109,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@paurooteri",
+   "ref_url": "https://x.com/paurooteri/status/2118619424953622748",
+   "text": "Interesting angle from Broadcom's own blog: as AI spreads across sites, the switch itself becomes the bottleneck. Buffer depth of 1.5x the bandwidth-delay product keeps retransmissions near zero. HBM in a switch sounds odd until you do the math on 10km of fiber.",
+   "time": "2026-11-06 18:32",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2118652769989165357"
+  },
+  {
+   "ref_author": "@LiDaosen",
+   "ref_url": "https://x.com/LiDaosen/status/2118521283831017821",
+   "text": "Glass makes sense for 120mm+ — warpage is the real limiter at that size. If Broadcom and Nvidia are already locking 2027 TGV capacity, the bottleneck shifts to yield and how fast suppliers can scale, not just the substrate itself.",
+   "time": "2026-11-06 10:10",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2118526507543036215"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "AVGO 一天跌掉 10.4%，收在 $291.53，离 52 周低点 $289.96 只剩一块。这一刀砍的是审批预期不是需求：德州新州长要延长数据中心审批暂停，德州占 2028 年新增产能的 41%。博通 Q3 AI 收入 167 亿（+221%）、Q4 指引 217 亿没变，订单是推迟不是消失。RSI 31.4，情绪到了，修复得等政策松口。$AVGO",
+   "time": "2026-11-06 08:37",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2118502900800585835"
+  },
   {
    "ref_author": "@QQ_Timmy",
    "ref_url": "https://x.com/QQ_Timmy/status/2118249600477974960",
@@ -1222,5 +1246,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-05"
+ "updated": "2026-11-06"
 }
