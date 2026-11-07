@@ -8,6 +8,22 @@
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
   {
+   "ref_author": "@WealthCode99978",
+   "ref_url": "https://x.com/WealthCode99978/status/2119024002010079436",
+   "text": "这点对 $AVGO 挺关键的，AI 加速器越做越大，封装和 HBM 整合跟不上，交付一样会被卡住。原帖也提了客户在推供应链多元化，这块能不能跟上，值得继续看。",
+   "time": "2026-11-07 19:40",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2119032145591357849"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Anthropic 修订版招股书披露，博通是它算力租赁的最大头：五年 1612 亿美元 TPU 租赁，部分已上线、更多从 2027 年起交付。订单是硬支撑，但兑现节奏看 Anthropic 自己的融资和变现——Q3 它的算力成本增速已经跑赢了收入增速。$AVGO",
+   "time": "2026-11-07 08:53",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2118869311519707612"
+  },
+  {
    "ref_author": "@paurooteri",
    "ref_url": "https://x.com/paurooteri/status/2118619424953622748",
    "text": "Interesting angle from Broadcom's own blog: as AI spreads across sites, the switch itself becomes the bottleneck. Buffer depth of 1.5x the bandwidth-delay product keeps retransmissions near zero. HBM in a switch sounds odd until you do the math on 10km of fiber.",
@@ -1246,5 +1262,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-06"
+ "updated": "2026-11-07"
 }
