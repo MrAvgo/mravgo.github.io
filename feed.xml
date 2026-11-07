@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-07：周六版 · AVGO 周五冲高回落收涨 0.74%，Anthropic 修订版招股书确认博通 1612 亿美元租赁居首</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-07</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五反弹但冲高回落：收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度摸高 &lt;span class=&quot;num&quot;&gt;$311.52&lt;/span&gt;、一度跌破 52 周低点至 &lt;span class=&quot;num&quot;&gt;$289.77&lt;/span&gt;；纳指 &lt;span class=&quot;num&quot;&gt;+1.15%&lt;/span&gt;，芯片股普遍反弹。；Anthropic 修订版 S-1（11/2 申报）：算力承诺总额约 &lt;span class=&quot;num&quot;&gt;8954&lt;/span&gt; 亿美元，博通五年期设备租赁约 &lt;span class=&quot;num&quot;&gt;1612&lt;/span&gt; 亿美元居首；但 Anthropic Q3 净新增订单环比下滑，兑现节奏存疑。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+80.6%&lt;/span&gt;）；近一周内无新的评级变动；基板厂盯线 11/7 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-06：周五版 · AVGO 暴跌 10.4% 逼近 52 周低点，中期选举引爆 AI 基建抛售</title>
       <link>https://avgo.pages.dev/briefs/2026-11-06</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-06</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
       <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.7M&lt;/span&gt; 股（日均约 &lt;span class=&quot;num&quot;&gt;23.05M&lt;/span&gt; 股）放量下跌；市值约 &lt;span class=&quot;num&quot;&gt;$1.62T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-33.6%&lt;/span&gt;。；Google TPU 长约（补录，DCD 约 10/15）：博通与 Google 签署长期协议开发供应未来数代 TPU，并签供应保障协议向下一代 AI 机架供应网络及组件至 &lt;span class=&quot;num&quot;&gt;2031&lt;/span&gt; 年；Anthropic 3.5GW TPU 供应协议 2027 年起上线——定制 XPU 收入可见性大幅延长。；Anthropic “Project North Star” &lt;span class=&quot;num&quot;&gt;600 亿美元&lt;/span&gt;融资条款曝光（FT 经 shashi.co，10/18）：&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 博通背书优先级债务 + &lt;span class=&quot;num&quot;&gt;$18B&lt;/span&gt; 次级层，Blackstone 以 &lt;span class=&quot;num&quot;&gt;10%+&lt;/span&gt; 票息锚定其中 &lt;span class=&quot;num&quot;&gt;$9B&lt;/span&gt;；覆盖约 &lt;span class=&quot;num&quot;&gt;1.5GW&lt;/span&gt; TPU 五年租约；融资包据知情人士尚未敲定。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-18：周日晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Anthropic IPO 推进估值或降至 1.5T · 半导体关税扩大讨论</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-18</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.8M&lt;/span&gt; 股放量；市值约 &lt;span class=&quot;num&quot;&gt;$1.62T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-33.6%&lt;/span&gt;。；Anthropic IPO 推进（10/14–10/16）：10/14 旧金山投资者日披露 Q3 营收 &lt;span class=&quot;num&quot;&gt;168 亿美元&lt;/span&gt;（+45%）、调整后已盈利；Reuters 10/15 称部分投资者讨论估值降至约 &lt;span class=&quot;num&quot;&gt;1.5 万亿美元&lt;/span&gt;（此前预期 &lt;span class=&quot;num&quot;&gt;2 万亿&lt;/span&gt;）；拟 11/9 当周启动路演、感恩节前上市——博通未来最大 XPU 客户的上市进展直接影响其 &lt;span class=&quot;num&quot;&gt;600 亿美元&lt;/span&gt;融资包的信用风险。；关税动向：特朗普政府考虑将半导体关税扩大至数据中心服务器等成品的说法源自 Politico 8/27 旧报道（DCD 10/15 转述，白宫 8 月已否认）；10/16 的新进展是 CCIA 等 5 家科技行业协会致信白宫，称 25% 232 关税将使数据中心建设成本增加 &lt;span class=&quot;num&quot;&gt;15.6%&lt;/span&gt;。</description>
     </item>
   </channel>
 </rss>
