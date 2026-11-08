@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-08：周日版 · AVGO 周五冲高回落收涨 0.74%，Marvell 收购 Lumentum 长期挑战光互连优势</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-08</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五冲高回落收涨：收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度摸高 &lt;span class=&quot;num&quot;&gt;$311.52&lt;/span&gt;、一度跌破 52 周低点至 &lt;span class=&quot;num&quot;&gt;$289.77&lt;/span&gt; 后收回；5 日累计 &lt;span class=&quot;num&quot;&gt;-9.93%&lt;/span&gt;、1 个月 &lt;span class=&quot;num&quot;&gt;-18.45%&lt;/span&gt;（Finnhub）。；Marvell 以约 &lt;span class=&quot;num&quot;&gt;1150&lt;/span&gt; 亿美元收购 Lumentum，补齐激光器能力，长期或挑战博通在 AI 光互连的一体化优势（TrendForce／Counterpoint，11/7）；交易预计 2028 年上半年完成，短期影响有限。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+80.6%&lt;/span&gt;）；近一周无新评级变动；基板厂盯线 11/8 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-07：周六版 · AVGO 周五冲高回落收涨 0.74%，Anthropic 修订版招股书确认博通 1612 亿美元租赁居首</title>
       <link>https://avgo.pages.dev/briefs/2026-11-07</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-07</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
       <description>周一（10/19）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.75&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;340.20&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;333.82&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;17.1M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;23.6M&lt;/span&gt; 股）缩量反弹，终结三连跌；市值约 &lt;span class=&quot;num&quot;&gt;$1.57T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月初 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-32.4%&lt;/span&gt;。；Google TPU v9 延期约三周（GF/Jeff Pu：EMIB 封装良率 &lt;span class=&quot;num&quot;&gt;45–50%&lt;/span&gt;，量产流片推至 &lt;span class=&quot;num&quot;&gt;2027Q2&lt;/span&gt;、出货 &lt;span class=&quot;num&quot;&gt;2028Q1&lt;/span&gt;），分析师称不改强劲需求；DCD 爆料 Google 与 Marvell 洽谈两款新型推理芯片（未证实）——博通仍是 TPU 唯一设计方，长约延至 &lt;span class=&quot;num&quot;&gt;2031&lt;/span&gt; 年。；高盛将 CoreWeave 由中性上调至买入（目标价 &lt;span class=&quot;num&quot;&gt;$106→$139&lt;/span&gt;），称 &lt;span class=&quot;num&quot;&gt;$104B&lt;/span&gt; 收入 backlog 为已承诺订单；AI 融资叙事边际修复，AVGO 跟涨跑赢大盘。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-19：周一晨报（周五收 $%%PRICE%%，%%CHANGE_PCT%%）· Google TPU 长约延至 2031 · Anthropic 融资包条款曝光</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-19</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/16）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），成交量约 &lt;span class=&quot;num&quot;&gt;29.7M&lt;/span&gt; 股（日均约 &lt;span class=&quot;num&quot;&gt;23.05M&lt;/span&gt; 股）放量下跌；市值约 &lt;span class=&quot;num&quot;&gt;$1.62T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点约 &lt;span class=&quot;num&quot;&gt;-33.6%&lt;/span&gt;。；Google TPU 长约（补录，DCD 约 10/15）：博通与 Google 签署长期协议开发供应未来数代 TPU，并签供应保障协议向下一代 AI 机架供应网络及组件至 &lt;span class=&quot;num&quot;&gt;2031&lt;/span&gt; 年；Anthropic 3.5GW TPU 供应协议 2027 年起上线——定制 XPU 收入可见性大幅延长。；Anthropic “Project North Star” &lt;span class=&quot;num&quot;&gt;600 亿美元&lt;/span&gt;融资条款曝光（FT 经 shashi.co，10/18）：&lt;span class=&quot;num&quot;&gt;$42B&lt;/span&gt; 博通背书优先级债务 + &lt;span class=&quot;num&quot;&gt;$18B&lt;/span&gt; 次级层，Blackstone 以 &lt;span class=&quot;num&quot;&gt;10%+&lt;/span&gt; 票息锚定其中 &lt;span class=&quot;num&quot;&gt;$9B&lt;/span&gt;；覆盖约 &lt;span class=&quot;num&quot;&gt;1.5GW&lt;/span&gt; TPU 五年租约；融资包据知情人士尚未敲定。</description>
     </item>
   </channel>
 </rss>
