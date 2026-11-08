@@ -1,12 +1,28 @@
 {
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 62,
+ "followers": 63,
  "following": 109,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@Kshsb783142",
+   "ref_url": "https://x.com/Kshsb783142/status/2119356274106307069",
+   "text": "ARK在暴跌日卖出博通、加仓英伟达，等于把AI内部的仓位从定制芯片挪向通用算力，这个信号不能只看一天。博通周五收在$293.69，RSI 32.6，定制加速器的订单能见度才是接下来要盯的。",
+   "time": "2026-11-08 20:04",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2119400576194851236"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "英伟达刚宣布首款 CPO 以太网交换机量产，Marvell 收购 Lumentum 补激光短板，两边都在往光里挤。别忘了博通的 Tomahawk 6-Davisson CPO 交换芯片去年 10 月就开始出货了——先发是真的，但护城河这两年要被反复考。$AVGO",
+   "time": "2026-11-08 09:12",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2119236475317571982"
+  },
   {
    "ref_author": "@WealthCode99978",
    "ref_url": "https://x.com/WealthCode99978/status/2119024002010079436",
@@ -1262,5 +1278,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-08"
 }
