@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-09：周一版 · AVGO 险守 52 周低点，Anthropic 担保敞口细节与 TPU 出货翻倍成焦点</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-09</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌破 52 周低点至 &lt;span class=&quot;num&quot;&gt;$289.77&lt;/span&gt; 后收回；5 日累计 &lt;span class=&quot;num&quot;&gt;-9.93%&lt;/span&gt;、1 个月 &lt;span class=&quot;num&quot;&gt;-18.77%&lt;/span&gt;（Finnhub）。；Anthropic 担保敞口细节浮现：博通为其融资提供合计最高约 &lt;span class=&quot;num&quot;&gt;720&lt;/span&gt; 亿美元担保，对照现金约 &lt;span class=&quot;num&quot;&gt;240&lt;/span&gt; 亿美元（theinference／Tikr，11/6–7）；Epoch AI 估算 Q3 TPU 出货翻倍至约 &lt;span class=&quot;num&quot;&gt;200&lt;/span&gt; 万 H100 当量，v8i 已投产（11/4）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+80.6%&lt;/span&gt;）；近一周无新评级变动；基板厂盯线 11/9 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-08：周日版 · AVGO 周五冲高回落收涨 0.74%，Marvell 收购 Lumentum 长期挑战光互连优势</title>
       <link>https://avgo.pages.dev/briefs/2026-11-08</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-08</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
       <description>周二（10/20）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.75&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;340.20&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;333.82&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;10.1M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;24.9M&lt;/span&gt; 股）显著缩量，盘后反弹至 &lt;span class=&quot;num&quot;&gt;$339.82&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+1.63%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.60T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月初 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-32.4%&lt;/span&gt;。；Meta 官方工程博客（10/19）披露其 1GW 级 AI 超级集群 Prometheus 的后端聚合网络采用 Arista 7800 机箱＋博通 Jericho3 芯片——Tomahawk/Jericho 系在超大规模客户的机架级实质落地再添证据。；博通与 NTT DOCOMO 签署 10 年期 VMware 私有云协议（官方新闻稿 10/19，博通日本首个此类综合协议），FedEx 同日宣布延续基础设施协议——VMware 订阅制收入的存量与增量双线推进。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-20：周二晨报（周一收 $%%PRICE%%，%%CHANGE_PCT%%）· TPU v9 延期约三周 · 高盛上调 CoreWeave</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-20</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周一（10/19）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.75&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;340.20&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;333.82&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;17.1M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;23.6M&lt;/span&gt; 股）缩量反弹，终结三连跌；市值约 &lt;span class=&quot;num&quot;&gt;$1.57T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月初 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-32.4%&lt;/span&gt;。；Google TPU v9 延期约三周（GF/Jeff Pu：EMIB 封装良率 &lt;span class=&quot;num&quot;&gt;45–50%&lt;/span&gt;，量产流片推至 &lt;span class=&quot;num&quot;&gt;2027Q2&lt;/span&gt;、出货 &lt;span class=&quot;num&quot;&gt;2028Q1&lt;/span&gt;），分析师称不改强劲需求；DCD 爆料 Google 与 Marvell 洽谈两款新型推理芯片（未证实）——博通仍是 TPU 唯一设计方，长约延至 &lt;span class=&quot;num&quot;&gt;2031&lt;/span&gt; 年。；高盛将 CoreWeave 由中性上调至买入（目标价 &lt;span class=&quot;num&quot;&gt;$106→$139&lt;/span&gt;），称 &lt;span class=&quot;num&quot;&gt;$104B&lt;/span&gt; 收入 backlog 为已承诺订单；AI 融资叙事边际修复，AVGO 跟涨跑赢大盘。</description>
     </item>
   </channel>
 </rss>
