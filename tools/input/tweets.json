@@ -2,11 +2,35 @@
  "avatar": "assets/x-avatar.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 63,
- "following": 110,
+ "following": 112,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@toshi2114",
+   "ref_url": "https://x.com/toshi2114/status/2120037291406352868",
+   "text": "Design AI can speed up drawing a chip. It doesn't replace the rest of the stack: SerDes, networking, packaging, co-designing with the hyperscaler. Google's TPU is still built with Broadcom, not instead of it. Fabless was never just drawing chips.",
+   "time": "2026-11-10 18:41",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2120104629740695855"
+  },
+  {
+   "ref_author": "@yianisz",
+   "ref_url": "https://x.com/yianisz/status/2119892177711169804",
+   "text": "Monday was rotation, not everything moving together. NVDA down while AVGO bounced says it plainly enough. One day doesn't make a trend though, and AVGO is still under its 20-day line. Divergence worth watching, nothing more yet.",
+   "time": "2026-11-10 10:05",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2119974761497550873"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "谷歌第八代 TPU 一次出了两款：8tx 主攻机密推理，8i Max 主攻超大上下文。关键是这两款都是现有硅片重新配置，不算新芯片，瞄准的也是谷歌自己的推理负载。TPU 扩得越快，帮谷歌做芯片的博通受益越直接。周一 $AVGO 涨 8.8% 到 319.48 美元，不过还在 20 日均线下方，先当超跌反弹看。",
+   "time": "2026-11-10 09:02",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2119958837876994386"
+  },
   {
    "ref_author": "@MarcosMillaYT",
    "ref_url": "https://x.com/MarcosMillaYT/status/2119695809709269394",
@@ -1310,5 +1334,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-09"
+ "updated": "2026-11-10"
 }
