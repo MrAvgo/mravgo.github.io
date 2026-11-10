@@ -1,0 +1,108 @@
+{
+ "archive_title": "周二版 · AVGO 大涨 8.8% 创近一年最佳单日，Google 新 TPU 与英伟达调查成焦点",
+ "key_points": [
+  "周一收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），创下自去年 11 月 Google 合作宣布以来最佳单日表现；5 日累计 <span class=\"num\">-2.02%</span>、1 个月 <span class=\"num\">-11.63%</span>（Finnhub）。",
+  "反弹由三重因素叠加：大盘超跌修复（标普约 <span class=\"num\">+2%</span>、费城半导体指数 <span class=\"num\">+6.9%</span>）、英伟达董事会调查致 NVDA 跌约 <span class=\"num\">4.5%</span>、资金轮动至 AMD 与博通；Google 同日发布 TPU 8tx／8i Max 新系统。",
+  "MarketBeat 综合评级仍为 Moderate Buy（<span class=\"num\">45</span> 家），平均目标价 <span class=\"num\">$530.52</span>（现价隐含约 <span class=\"num\">+66.1%</span>）；近一周无新评级变动；基板厂盯线 11/10 晨核验无实质进展。"
+ ],
+ "rating": "Moderate Buy",
+ "rating_class": "up",
+ "ref_links": [
+  {
+   "title": "Finnhub：AVGO 行情数据",
+   "url": "https://finnhub.io/?q=%22AVGO%22"
+  },
+  {
+   "title": "MarketBeat：AVGO 分析师评级与目标价",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+  },
+  {
+   "title": "Google 官方博客：TPU 8tx 与 8i Max（11/9）",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/?ref=testingcatalog.com"
+  },
+  {
+   "title": "GlobeNewswire：博通 VM API 获 CNCF 接纳（11/9）",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398447/19933/en/broadcom-contributes-vm-api-open-source-project-to-cloud-native-computing-foundation.html"
+  },
+  {
+   "title": "Morningstar／MarketWatch：AMD 与博通是否为英伟达风波赢家（11/9）",
+   "url": "https://www.morningstar.com/news/marketwatch/20261109172/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal"
+  },
+  {
+   "title": "TradingView／Benzinga：AVGO 周一为何上涨（11/9）",
+   "url": "https://www.tradingview.com/news/benzinga:783821674094b:0-what-is-going-on-with-broadcom-stock-on-monday/"
+  },
+  {
+   "title": "X：@pdicarlotrader AVGO 形态帖（11/10）",
+   "url": "https://x.com/pdicarlotrader/status/2119825620352061672"
+  },
+  {
+   "title": "X：@Beth_Kindig TrendForce AI 网络市场帖（11/10）",
+   "url": "https://x.com/Beth_Kindig/status/2119899581039390753"
+  },
+  {
+   "title": "Threads：@trendspider AVGO 周线 100 周 EMA 图（11/9）",
+   "url": "https://www.threads.com/@trendspider/post/Dfid1kRm2uJ"
+  },
+  {
+   "title": "StockTwits：$AVGO 实时讨论",
+   "url": "https://StockTwits.com/symbol/AVGO"
+  }
+ ],
+ "sections": [
+  {
+   "items": [
+    "周一收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>，+<span class=\"num\">$25.79</span>），前收 <span class=\"num\">$293.69</span>；开 <span class=\"num\">$305.29</span>、高 <span class=\"num\">$323.05</span>、低 <span class=\"num\">$304.29</span>；成交量约 <span class=\"num\">33.3M</span> 股，较日均约 <span class=\"num\">25.0M</span> 股放量约三成（Nasdaq 日线）；盘后约 <span class=\"num\">$322.10</span>（<span class=\"num\">+0.82%</span>，Finnhub 18:57 ET 快照）；市值约 <span class=\"num\">$1.53T</span>；52 周区间 <span class=\"num\">$289.77–$495.00</span>；5 日累计 <span class=\"num\">-2.02%</span>、1 个月 <span class=\"num\">-11.63%</span>（Finnhub）。",
+    "事件提醒：博通 2026 财年 Q4 财报确认于 <span class=\"num\">12/9</span> 盘后公布；今晚 <span class=\"num\">21:30</span>（北京时间）公布 10 月 CPI，彭博调查预期环比 <span class=\"num\">+0.3%</span>、核心 <span class=\"num\">+0.2%</span>；英伟达财报在 <span class=\"num\">11/17</span>；下个除息日为 <span class=\"num\">12/21</span>（FI Handbook）；博通–Toppan 新加坡基板厂盯线 11/10 晨核验无实质进展。"
+   ],
+   "title": "📰 行情速览"
+  },
+  {
+   "items": [
+    "反弹主因是情绪修复与资金轮动，而非公司基本面突变：上周四的抛售由中期选举后数据中心审批担忧触发，周一油价回落、大盘反弹，超跌的 AI 基建股集体修复；英伟达董事会调查又把相对资金推向 AMD 与博通——单日大涨不等于趋势反转，仍需 12/9 财报兑现来确认。 <span class=\"tag flat\">中性</span>",
+    "Google TPU 新系统扩围直接利好博通的定制芯片业务：TPU 客户已近 100 家、第八代一年推出四个系统，说明定制加速器需求仍在扩容；但新系统是既有硅片的重组配置、未公布价格与上市时间，对博通收入的增量需等出货节奏验证。 <span class=\"tag bull\">看多</span>",
+    "担保敞口仍是悬顶变量：Anthropic 五年租赁与合计最高约 <span class=\"num\">720</span> 亿美元担保的讨论未变（细节见昨日简报）；周一反弹未改变这一风险结构，若今晚 CPI 偏热或政策担忧重燃，波动可能反复。 <span class=\"tag flat\">中性偏谨慎</span>"
+   ],
+   "title": "🏢 基本面"
+  },
+  {
+   "items": [
+    "MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">39</span> 家、持有 <span class=\"num\">5</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$530.52</span>，最高 <span class=\"num\">$715</span>、最低 <span class=\"num\">$400</span>，现价隐含约 <span class=\"num\">+66.1%</span>（MarketBeat，11/9 核验，口径与 11/7–11/9 相同）。",
+    "近期变化：近一周内无新的 AVGO 评级变动；最近的一批仍是 10/27：DA Davidson 上调 Neutral→<span class=\"tag bull\">Buy</span>，目标价 <span class=\"num\">$350→$400</span>；Rosenblatt 重申 Buy、目标价 <span class=\"num\">$600</span>；反向的为 Citi 下调 Buy→Neutral、William Blair 下调 Outperform→Market Perform（均为 10/27）。",
+    "<details class=\"more\"><summary>其他口径…</summary><ul><li>BigGo Finance（11/9）：Buy 共识，平均目标价 <span class=\"num\">$523.77</span>。各口径目标价均在 <span class=\"num\">$520–$531</span> 一带，显著高于现价。</li></ul></details>"
+   ],
+   "title": "🎯 分析师评级"
+  },
+  {
+   "items": [
+    "趋势：20 日均线 <span class=\"num\">%%MA20%%</span>、50 日均线 <span class=\"num\">%%MA50%%</span>、200 日均线 <span class=\"num\">%%MA200%%</span>，收盘价仍位于三条均线下方，空头排列未改；周一长阳收复了 52 周低点以来的部分失地，但尚未站上 20 日均线，是超跌反弹而非趋势反转。",
+    "动量：RSI（14）<span class=\"num\">%%RSI%%</span>，已从上周超卖区域回升；周一成交量约 <span class=\"num\">33.3M</span> 股、较日均明显放量，反弹伴随放量；期权市场看多情绪回升：周一期权成交额约 <span class=\"num\">9,620</span> 万美元，其中 <span class=\"num\">62%</span> 为看涨期权（Global Traders Academy）。",
+    "关键位置：上方阻力看 20 日均线 <span class=\"num\">%%MA20%%</span> 一带，其次是 50 日均线 <span class=\"num\">%%MA50%%</span> 一带；下方支撑看 11/6 收盘价与 52 周低点一带。"
+   ],
+   "title": "📊 技术面"
+  },
+  {
+   "items": [
+    "X · Peter DiCarlo @pdicarlotrader（11/10 00:13）—— 称 $AVGO 是目前市场最强的形态之一且有基本面支撑，认为该股正以大幅折价交易（258 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/pdicarlotrader/status/2119825620352061672\">原文</a>",
+    "X · Coinvo Trading @CoinvoTrading（11/10 02:00）—— 称现在就是买入 $AVGO 的时候，历史上月线跌破 20SMA 下方往往是见底位置（118 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/CoinvoTrading/status/2119852521367970155\">原文</a>",
+    "X · Beth Kindig @Beth_Kindig（11/10 05:07）—— 引述 TrendForce：AI 网络与互联市场预计 2027 年达 <span class=\"num\">2,789</span> 亿美元（2024 年 <span class=\"num\">379</span> 亿美元起、年复合 <span class=\"num\">95%</span>），交换机占 <span class=\"num\">38%</span>（<span class=\"num\">1,050</span> 亿美元），涉及 $NVDA、$AVGO、$MRVL（98 赞）。 <span class=\"tag flat\">中性</span> <a href=\"https://x.com/Beth_Kindig/status/2119899581039390753\">原文</a>",
+    "X · David Prince @epictrades1（11/10 01:23）—— 引述 BofA 分析师 Vivek Arya：英伟达董事会调查带来治理与政策不确定性，但非已证实的业务损害；若英伟达受干扰，AMD、博通、Marvell 等算力供应商可能获益（23 赞）。 <span class=\"tag flat\">中性</span> <a href=\"https://x.com/epictrades1/status/2119843417111117904\">原文</a>",
+    "Threads · TrendSpider @trendspider（11/9 23:02 UTC）—— AVGO 周线再度触及 100 周 EMA，十年间仅数次，周线 RSI（14）处于低位区域（26 赞）。 <span class=\"tag flat\">中性</span> <a href=\"https://www.threads.com/@trendspider/post/Dfid1kRm2uJ\">原文</a>",
+    "<details class=\"more\"><summary>更多平台…</summary><ul><li>Facebook · Yahoo Finance（11/9 15:39 UTC）—— 半导体一日热力图：NVDA <span class=\"num\">-4.47%</span>，AVGO <span class=\"num\">+7.81%</span>，AMD <span class=\"num\">+9.48%</span>（280 赞、41 评论）。 <span class=\"tag flat\">中性</span> <a href=\"https://www.facebook.com/yahoofinance/posts/pfbid02BnDo9zP9KG8WcnYykbsBy6YMUDLsKrzKtF9tg7rQb8QJTB9RLih4rh7iGTt9QqpRl\">原文</a></li><li>Instagram · The Half Percent Club @the_half_percent_club（11/9 20:34 UTC）—— 当日 AVGO 波段交易：<span class=\"num\">$311.38</span> 买入 231 股、<span class=\"num\">$312.79</span> 卖出，2 分钟赚 <span class=\"num\">$325</span>（42 赞）。 <span class=\"tag flat\">中性</span> <a href=\"https://www.instagram.com/reel/DfiMoj0xOBl/\">原文</a></li><li>Threads · @trade.wid.me（11/9 13:48 UTC）—— 认为最大的 AI 机会不在 GPU，而在定制芯片（AVGO）。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@trade.wid.me/post/DfheXu0mzZV\">原文</a></li><li>StockTwits（11/9 汇总，据 tradestie）—— 过去 24 小时 18 条散户提及（Reddit／WSB 2 条、StockTwits 16 条），情绪偏多。 <span class=\"tag flat\">中性</span> <a href=\"https://StockTwits.com/symbol/AVGO\">原文</a></li></ul></details>"
+   ],
+   "title": "💬 社交平台头条"
+  },
+  {
+   "items": [
+    "Google 发布第八代 TPU 新系统 TPU 8tx 与 TPU 8i Max（Google 官方博客，11/9）：一年内推出四个 TPU 系统属首次；8i Max 将两颗 8i 芯片合封一包，算力、SRAM 与 HBM 带宽较 8i 翻倍，主攻超大上下文窗口；8tx 基于 8t 硅片、搭配第五代 AMD EPYC 主机，主攻机密推理；TPU 客户已近 100 家。博通为 Google TPU 的设计与制造合作方。注：Google 未公布价格与上市时间，新系统为既有硅片的重组配置。",
+    "英伟达董事会启动独立调查，芯片股分化、资金轮动至博通（多家媒体，11/8–9）：英伟达董事会 11/8 宣布，就 CEO 黄仁勋遭境外情报针对的报道展开独立调查（独立董事委员会＋外部律师），董事会称暂无理由认为国家安全或公司机密受损，黄仁勋留任；周一 NVDA 跌约 <span class=\"num\">4.5%</span>，AMD 涨约 <span class=\"num\">13%</span>、AVGO 涨 <span class=\"num\">8.8%</span>、Marvell 涨约 <span class=\"num\">8.8%</span>，费城半导体指数涨 <span class=\"num\">6.9%</span>（Morningstar／MarketWatch、TipRanks，11/9）。众议院三委员会主席已要求黄仁勋 11/18 参加闭门简报。",
+    "博通 VM API 获 CNCF Sandbox 接纳，KubeCon 发布 VMware／Kubernetes 新动向（GlobeNewswire，11/9）：VM API 项目被接纳进云原生计算基金会 Sandbox，实现跨异构基础设施以 Kubernetes API 配置管理虚拟机；博通将联合主持新成立的 Workload Conformance 工作组；20 余个新合作伙伴方案通过 VMware vSphere Kubernetes Service 验证。短期内无直接收入影响，属生态布局。",
+    "博通确认 Q4 财报 12/9 盘后公布（公司公告，11/9）：2026 财年 Q4 及全年业绩将于 12 月 9 日美股收盘后发布；市场将聚焦 AI 半导体收入指引（Q4 指引约 <span class=\"num\">217</span> 亿美元）与毛利率走势。",
+    "博通–Toppan 新加坡基板厂盯线（11/10 晨核验）：72 小时内无投产／产能／订单类实质进展；产品线方面，48 小时内亦无 Tomahawk／Jericho／Thor／CPO 类新动态。"
+   ],
+   "title": "👀 今日关注"
+  }
+ ],
+ "sources_extra": "价格／行情（Finnhub 与 Ticker Report，11/9 收盘；盘后价为 Finnhub 18:57 ET 快照）；均线／RSI 由构建脚本基于 Nasdaq 官方日线计算；评级主口径 MarketBeat（11/9 核验）；Google TPU 发布引自 Google 官方博客（11/9）；英伟达调查引自英伟达董事会声明与多家媒体（11/8–9）；VM API 引自 GlobeNewswire（11/9）；社交帖子均经原文或平台检索核验；X 帖子经已保存登录会话核验。",
+ "target_avg": "$530.52"
+}

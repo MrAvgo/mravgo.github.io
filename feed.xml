@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-10：周二版 · AVGO 大涨 8.8% 创近一年最佳单日，Google 新 TPU 与英伟达调查成焦点</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-10</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周一收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），创下自去年 11 月 Google 合作宣布以来最佳单日表现；5 日累计 &lt;span class=&quot;num&quot;&gt;-2.02%&lt;/span&gt;、1 个月 &lt;span class=&quot;num&quot;&gt;-11.63%&lt;/span&gt;（Finnhub）。；反弹由三重因素叠加：大盘超跌修复（标普约 &lt;span class=&quot;num&quot;&gt;+2%&lt;/span&gt;、费城半导体指数 &lt;span class=&quot;num&quot;&gt;+6.9%&lt;/span&gt;）、英伟达董事会调查致 NVDA 跌约 &lt;span class=&quot;num&quot;&gt;4.5%&lt;/span&gt;、资金轮动至 AMD 与博通；Google 同日发布 TPU 8tx／8i Max 新系统。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+66.1%&lt;/span&gt;）；近一周无新评级变动；基板厂盯线 11/10 晨核验无实质进展。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-09：周一版 · AVGO 险守 52 周低点，Anthropic 担保敞口细节与 TPU 出货翻倍成焦点</title>
       <link>https://avgo.pages.dev/briefs/2026-11-09</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-09</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
       <description>周三（10/21）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.03&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;339.24&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;332.29&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;17M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;24.9M&lt;/span&gt; 股），盘后小幅回落至 &lt;span class=&quot;num&quot;&gt;$334.36&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-1.02%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.61T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-31.8%&lt;/span&gt;。；博通 10/21 官宣推出 Arcot Scam Defense（GlobeNewswire）：针对 3-D Secure 认证成功后的社交工程欺诈做实时第二道防线；试点数据称审查风险最高的 1% 认证可避免约 &lt;span class=&quot;num&quot;&gt;$400&lt;/span&gt; 万欺诈损失——支付安全软件线的增量功能。；博通反对 AVGO 股票在 OKXICE 代币化平台上线（CoinDesk 10/18）：SEC 五年创新豁免下，博通等 9 家发行人（Verizon、UnitedHealth 等）行使 30 天否决权；属合规与投资者关系事项，不影响经营。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-21：周三晨报（周二收 $%%PRICE%%，%%CHANGE_PCT%%）· Meta 百万卡集群落地 Jericho3 · 博通签 NTT DOCOMO 十年协议</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-21</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周二（10/20）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;338.75&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;340.20&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;333.82&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;10.1M&lt;/span&gt; 股（50 日均约 &lt;span class=&quot;num&quot;&gt;24.9M&lt;/span&gt; 股）显著缩量，盘后反弹至 &lt;span class=&quot;num&quot;&gt;$339.82&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+1.63%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.60T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距年内高点（6 月初 &lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-32.4%&lt;/span&gt;。；Meta 官方工程博客（10/19）披露其 1GW 级 AI 超级集群 Prometheus 的后端聚合网络采用 Arista 7800 机箱＋博通 Jericho3 芯片——Tomahawk/Jericho 系在超大规模客户的机架级实质落地再添证据。；博通与 NTT DOCOMO 签署 10 年期 VMware 私有云协议（官方新闻稿 10/19，博通日本首个此类综合协议），FedEx 同日宣布延续基础设施协议——VMware 订阅制收入的存量与增量双线推进。</description>
     </item>
   </channel>
 </rss>
