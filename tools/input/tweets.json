@@ -1,12 +1,36 @@
 {
- "avatar": "assets/x-avatar.jpg",
+ "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 63,
- "following": 112,
+ "followers": 62,
+ "following": 113,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@PhotonCap",
+   "ref_url": "https://x.com/PhotonCap/status/2120285327994876377",
+   "text": "Fair point on open standards. If the SC26 demos turn into design wins, networking becomes a steadier leg next to custom silicon. AVGO closed at $331.98, still below its 50-day average of $346.13, so this needs follow through, not just a good show.",
+   "time": "2026-11-11 09:31",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2120328492693049828"
+  },
+  {
+   "ref_author": "@felixprehn",
+   "ref_url": "https://x.com/felixprehn/status/2120184972866879904",
+   "text": "Morgan Stanley still puts 72% upside on Broadcom in the middle of the AI-infra selloff, above even the Street's ~$530 average target. The distance from $332 says a lot about how fast sentiment turned, less about the order book. $AVGO",
+   "time": "2026-11-11 09:29",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2120328134113505573"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Burry 又盯上博通了。据 @burrytracker 转述，他翻 Anthropic 交易发现博通承诺供 1610 亿美元设备、还另有 420 亿美元“出借”，质疑这是拿越做越大的交易藏债务，表态不买下周的 IPO。另一边也有反驳：博通是成本加成、严格预收现金，不是供应商融资。这笔账 12 月 9 日财报前大概还得吵一阵。$AVGO",
+   "time": "2026-11-11 08:41",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2120315869125554405"
+  },
   {
    "ref_author": "@toshi2114",
    "ref_url": "https://x.com/toshi2114/status/2120037291406352868",
@@ -22,6 +46,14 @@
    "time": "2026-11-10 10:05",
    "type": "reply",
    "url": "https://x.com/AVGO_X_/status/2119974761497550873"
+  },
+  {
+   "ref_author": "@PhotonCap",
+   "ref_url": "https://x.com/PhotonCap/status/2119960788786151921",
+   "text": "Fair point. AMD getting the host slot doesn't change Broadcom's seat at the table. TPU 8tx is more a reshuffle of existing silicon than a new chip, and Broadcom is still the design and manufacturing partner on future generations. The networking side matters too.",
+   "time": "2026-11-10 09:21",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2119963712425701687"
   },
   {
    "ref_author": "",
@@ -1334,5 +1366,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-10"
+ "updated": "2026-11-11"
 }
