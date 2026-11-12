@@ -8,6 +8,30 @@
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
   {
+   "ref_author": "@jukan05",
+   "ref_url": "https://x.com/jukan05/status/2120697404332949533",
+   "text": "Glass substrate is moving from roadmap to purchase orders. Samsung Electro-Mechanics targeting pilot production in 2027 and mass production in 2028 — if that holds, it's a real timeline for large AI packages, and Broadcom is the obvious customer to watch.",
+   "time": "2026-11-12 18:49",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2120831251930292658"
+  },
+  {
+   "ref_author": "@paurooteri",
+   "ref_url": "https://x.com/paurooteri/status/2120683469160501485",
+   "text": "Agree. The deterministic architecture point is the key one, and Broadcom's custom work with OpenAI and Anthropic is where that shift shows up first. The question is how fast customers move off GPU programmability, given how sticky that ecosystem is.",
+   "time": "2026-11-12 09:18",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2120687595307012316"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "英伟达风波不断，资金这几天往定制芯片这边挪。AVGO 三连涨 17.6%，昨天收 345.22，离 50 日线 345.64 只差 0.42，盘后又到了 357 附近。先当超跌修复看，12 月 9 号财报才是下一关。$AVGO",
+   "time": "2026-11-12 09:04",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2120684192585625954"
+  },
+  {
    "ref_author": "@PhotonCap",
    "ref_url": "https://x.com/PhotonCap/status/2120285327994876377",
    "text": "Fair point on open standards. If the SC26 demos turn into design wins, networking becomes a steadier leg next to custom silicon. AVGO closed at $331.98, still below its 50-day average of $346.13, so this needs follow through, not just a good show.",
@@ -1366,5 +1390,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-12"
 }
