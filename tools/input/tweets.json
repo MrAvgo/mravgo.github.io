@@ -2,11 +2,51 @@
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 62,
- "following": 113,
+ "following": 114,
  "handle": "@AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@ProKayaFinance",
+   "ref_url": "https://x.com/ProKayaFinance/status/2121193554693206408",
+   "text": "A sharp cut, but $398 is still above Thursday's $364.36 close, and it's the low one in your table: JPM and BofA both reiterated Buy on 11/9. The split among analysts matters more than any single target. Dec 9 earnings are the next checkpoint for the financing question.",
+   "time": "2026-11-13 19:11",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2121199298906063359"
+  },
+  {
+   "ref_author": "@Sam_Badawi",
+   "ref_url": "https://x.com/Sam_Badawi/status/2121094858903564681",
+   "text": "TSMC putting $500M behind chip startups, and maybe suppliers for the first time, is the supply chain betting on itself. The next Broadcom gets built, not bought. Worth watching who the fund actually backs. $AVGO",
+   "time": "2026-11-13 19:07",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2121198353442898323"
+  },
+  {
+   "ref_author": "@realACollins",
+   "ref_url": "https://x.com/realACollins/status/2120997241523704127",
+   "text": "The re-rating case is really about the mix: custom silicon plus the networking that ties it together. $16.7B in AI semis, up 221%, is the number that has to keep compounding. December 9 is when margins get checked. $AVGO",
+   "time": "2026-11-13 10:06",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2121062004660343116"
+  },
+  {
+   "ref_author": "@LiDaosen",
+   "ref_url": "https://x.com/LiDaosen/status/2121041490763755571",
+   "text": "The Broadcom angle is the interesting part here. A scaled MRVL-LITE gives Nvidia a counterweight without owning the fabs, but Cisco and Arista won't love a captive stack, and SAMR gets 18-24 months to weigh in.",
+   "time": "2026-11-13 10:05",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2121061764083368318"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "收 364.36，四连涨，五个交易日涨了快 12%。50 日线 345.59 踩在脚下了，上面就是 200 日线 367.34。量也放出来了，RSI 59.5，还没到过热。接下来就看 200 日线能不能站住，12 月 9 号财报是下一关。$AVGO",
+   "time": "2026-11-13 09:22",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2121051043178131596"
+  },
   {
    "ref_author": "@jukan05",
    "ref_url": "https://x.com/jukan05/status/2120697404332949533",
@@ -1390,5 +1430,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-12"
+ "updated": "2026-11-13"
 }
