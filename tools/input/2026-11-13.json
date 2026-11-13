@@ -1,0 +1,106 @@
+{
+ "archive_title": "周五版 · 英伟达 CEO 辞职引爆轮动，AVGO 大涨 5.5% 站上 50 日均线",
+ "key_points": [
+  "周四收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），四连涨、自 52 周低点反弹约 <span class=\"num\">+25.7%</span>；5 日累计 <span class=\"num\">+11.95%</span>、1 个月 <span class=\"num\">+1.97%</span>（Finnhub）。",
+  "英伟达 CEO 黄仁勋辞职，资金轮动至博通：NVDA 收跌 4.34%，AVGO 逆势涨 5.54%。",
+  "Anthropic IPO 约 6 倍超额认购（Bloomberg，11/12），博通 10 亿美元私募认购在列；MarketBeat 综合评级仍为 Moderate Buy（45 家），平均目标价 <span class=\"num\">$530.52</span>（现价隐含约 <span class=\"num\">+45.6%</span>）。"
+ ],
+ "rating": "Moderate Buy",
+ "rating_class": "up",
+ "ref_links": [
+  {
+   "title": "Finnhub：AVGO 行情数据",
+   "url": "https://finnhub.io/?q=%22AVGO%22"
+  },
+  {
+   "title": "MarketBeat：AVGO 分析师评级与目标价",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+  },
+  {
+   "title": "Motley Fool：黄仁勋辞职推高博通（11/12）",
+   "url": "https://www.fool.com/investing/2026/11/12/why-broadcom-stock-rallied-thursday-morning/"
+  },
+  {
+   "title": "TechCrunch：黄仁勋辞职、Kress 临时接任（11/12）",
+   "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/"
+  },
+  {
+   "title": "TradingView：Anthropic IPO 约 6 倍超额认购（11/12）",
+   "url": "https://www.tradingview.com/news/stocktwits:0dc81ad1f094b:0-ai-trade-barometer-anthropic-s-ipo-is-reportedly-six-times-oversubscribed/"
+  },
+  {
+   "title": "StockTwits：Tom Lee 称科技股见底、芯片股领涨（11/12）",
+   "url": "https://stocktwits.com/news-articles/markets/equity/tom-lee-jensen-huang-exit-no-impact-on-tech-amd-avgo-stocks-lead-chip-rally/cNGCcGiR9aH"
+  },
+  {
+   "title": "X：@CKCapitalxx 轮动帖（11/11）",
+   "url": "https://x.com/CKCapitalxx/status/2120646975771291922"
+  },
+  {
+   "title": "X：@BenBajarin 受益候选分析（11/12）",
+   "url": "https://x.com/BenBajarin/status/2120890555370795212"
+  },
+  {
+   "title": "Instagram：@thestreet 纽交所快评（11/12）",
+   "url": "https://www.instagram.com/reel/DfpraZPjRtk/"
+  },
+  {
+   "title": "Facebook：@findbettertrades 站上 50 日均线图（11/12）",
+   "url": "https://www.facebook.com/findbettertrades/posts/pfbid02wLFdAdxfs13YAFacz92Zzd3T13oeeKeXuGP9Y9ErVdAuWzJpFHNczxxpq5M6eB12l"
+  }
+ ],
+ "sections": [
+  {
+   "items": [
+    "周四收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>，+<span class=\"num\">$19.14</span>），前收 <span class=\"num\">$345.22</span>；开 <span class=\"num\">$356.80</span>、高 <span class=\"num\">$369.82</span>、低 <span class=\"num\">$354.72</span>；成交量约 <span class=\"num\">40.30M</span> 股，较周三约 <span class=\"num\">33.64M</span> 股放量约 <span class=\"num\">20%</span>（Nasdaq 日线）；盘后 19:03 ET 约 <span class=\"num\">$366.68</span>（<span class=\"num\">+0.64%</span>，Finnhub）；市值约 <span class=\"num\">$1.74T</span>；52 周区间 <span class=\"num\">$289.77–$495.00</span>；5 日累计 <span class=\"num\">+11.95%</span>、1 个月 <span class=\"num\">+1.97%</span>（Finnhub）。",
+    "事件提醒：美国 10 月 PPI 将于周五 11/13 8:30 ET 公布；英伟达 Q3 财报 11/17 盘后；Anthropic IPO 拟 11/18 定价、11/19 上市；博通 2026 财年 Q4 财报将于 12/9 盘后公布；下个除息日为 12/21。"
+   ],
+   "title": "📰 行情速览"
+  },
+  {
+   "items": [
+    "轮动行情的本质是对手方风险定价、不是博通基本面变化：黄仁勋辞职终结了数日的不确定性，NVDA 单日跌 4.34% 且盘中一度跌逾 13%，资金涌向 AMD 与博通；博通作为定制 XPU 与以太网组网的替代供给方，超大规模客户分散 GPU 依赖的叙事获得新的现实注脚。但上涨由对手方事件驱动，博通自身订单与指引未变；NVDA 11/17 财报若稳住阵脚或继任人选明朗，轮动资金可能回流，追高需警惕事件驱动的回吐。 <span class=\"tag bull\">看多（事件驱动）</span>",
+    "Anthropic 认购火爆验证的是客户融资链条、不是博通的订单：IPO 约 6 倍超额认购、定价或高于区间，说明市场对 Anthropic 这类算力大买家的融资能力仍有信心，间接缓和了此前围绕博通担保敞口与循环融资的质疑；但 6 倍是路演初期的账面需求、存在水分，最终定价才是试金石；博通 10 亿美元认购仅占市值约 0.06%，战略绑定意义大于财务影响。 <span class=\"tag bull\">看多（谨慎）</span>",
+    "位置与情绪都已不便宜：四连涨后股价较 52 周低点反弹约 25.7%，StockTwits 散户情绪升至“极度看多”，Tom Lee 称科技股已见“内部底部”、AVGO 有望创上市以来最强单周涨幅；但股价仍在 200 日均线下方、均线未形成多头排列，且 12/9 财报前缺乏新的公司层面催化剂，担保敞口（最高约 720 亿美元）仍是悬顶变量。 <span class=\"tag flat\">中性偏谨慎</span>"
+   ],
+   "title": "🏢 基本面"
+  },
+  {
+   "items": [
+    "MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">39</span> 家、持有 <span class=\"num\">5</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$530.52</span>，最高 <span class=\"num\">$715</span>、最低 <span class=\"num\">$400</span>，现价隐含约 <span class=\"num\">+45.6%</span>（MarketBeat，11/12 核验，口径与 11/11 相同）。",
+    "近期变化：11/11 Weiss Ratings 下调 Buy (B)→Buy (B-)，仍为买入评级；近一周内无其他 AVGO 评级变动；最近一批实质性变动仍是 10/27（DA Davidson 上调 Neutral→Buy，目标价 <span class=\"num\">$350→$400</span>；Rosenblatt 重申 Buy、目标价 <span class=\"num\">$600</span>；反向为 Citi 下调至 Neutral、William Blair 下调至 Market Perform、UBS 下调至 Neutral）。",
+    "<details class=\"more\"><summary>其他口径…</summary><ul><li>TipRanks 口径（11/11）：Strong Buy（近 3 个月 29 家买入、1 家持有），平均目标价 <span class=\"num\">$524</span>，现价隐含约 <span class=\"num\">+43.8%</span>。</li><li>高盛 James Schneider（11/11，经 Yahoo Finance／TradingView）：将 AVGO 列为首选买入，称约 13 倍 2028 年零增长基线市盈率，同时提醒年底前持续反弹的催化剂有限。</li></ul></details>"
+   ],
+   "title": "🎯 分析师评级"
+  },
+  {
+   "items": [
+    "趋势：收盘价站上 50 日均线 <span class=\"num\">%%MA50%%</span>，仍在 200 日均线 <span class=\"num\">%%MA200%%</span> 下方约 2 美元；站上 20 日均线 <span class=\"num\">%%MA20%%</span>；四连涨、自 52 周低点反弹约 <span class=\"num\">+25.7%</span>，但均线仍未形成多头排列，属超跌反弹延续而非趋势反转确认。",
+    "动量：RSI（14）<span class=\"num\">%%RSI%%</span>，处于中性偏强区间（TradingKey 11/12 盘中约 59.6）；成交量约 <span class=\"num\">40.30M</span> 股，较周三约 <span class=\"num\">33.64M</span> 股放量约 <span class=\"num\">20%</span>，反弹有量能配合；盘后继续小幅上行约 <span class=\"num\">0.6%</span>。",
+    "关键位置：上方阻力看 200 日均线 <span class=\"num\">%%MA200%%</span> 一带，其次是周四盘中高点一带；下方支撑看 50 日均线 <span class=\"num\">%%MA50%%</span> 一带，其次是 20 日均线 <span class=\"num\">%%MA20%%</span> 一带。"
+   ],
+   "title": "📊 技术面"
+  },
+  {
+   "items": [
+    "X · @CKCapitalxx（11/11 17:36，美东）—— 转发“英伟达正准备撤换黄仁勋”的消息并称“$AMD 和 $AVGO 要起飞了”（417 赞、24 转）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/CKCapitalxx/status/2120646975771291922\">原文</a>",
+    "X · @BenBajarin（11/12 09:44，美东）—— 长期看 NVDA 产品路线图不变，但新领导层下其他战略可能变化；若英伟达产品需求受影响，AVGO、AMD 与 GOOG 是受益候选（38 赞）。 <span class=\"tag bull\">看多（谨慎）</span> <a href=\"https://x.com/BenBajarin/status/2120890555370795212\">原文</a>",
+    "X · @realACollins（11/12 13:49，美东）—— 称 AVGO 获高盛与摩根大通支持，云厂商正加速布局 ASIC 与高速网络（24 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/realACollins/status/2120952074871652795\">原文</a>",
+    "Instagram · @thestreet（11/12 13:16，美东）—— 纽交所现场快评：将 AVGO 评为 Add，称其为英伟达风波的“间接受益者”、经营稳健（4.4K 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DfpraZPjRtk/\">原文</a>",
+    "Facebook · @findbettertrades（11/12 10:46，美东）—— 图表：AVGO 跳空站上 50 日均线 <span class=\"num\">%%MA50%%</span>，仍在 200 日均线 <span class=\"num\">%%MA200%%</span> 下方（270K 粉丝账号）。 <span class=\"tag bull\">看多（技术）</span> <a href=\"https://www.facebook.com/findbettertrades/posts/pfbid02wLFdAdxfs13YAFacz92Zzd3T13oeeKeXuGP9Y9ErVdAuWzJpFHNczxxpq5M6eB12l\">原文</a>",
+    "<details class=\"more\"><summary>更多平台…</summary><ul><li>X · @mylifcc（11/11 11:44，美东）—— 称 Anthropic 路演不到 48 小时认购簿已被长线机构数倍超额认购，高盛与摩根士丹利考虑将发行价定在 70–78 美元指导区间之上；博通、美光、微软各认购 10 亿美元（29 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/mylifcc/status/2120558410064445845\">原文</a></li><li>X · @jerrychen0awi（11/12 10:00，美东）—— 提醒不要只看博通与 Anthropic 的巨额芯片订单：据 IPO 文件，与博通相关的设备租赁义务约 1610 亿美元（多为不可取消），博通还同意提供最高 420 亿美元融资支持，需警惕客户集中度与信用风险（2 赞）。 <span class=\"tag flat\">中性偏谨慎</span> <a href=\"https://x.com/jerrychen0awi/status/2120894389622816955\">原文</a></li><li>X · @Poly_Perps（11/12 16:27，美东）—— 统计自黄仁勋承认风波以来，AMD +30.5%、AVGO +23.5%、NVDA -10.8%，呈现明显的资金轮动（15 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/Poly_Perps/status/2120991935657918617\">原文</a></li><li>X · @ParadisLabs（11/11 07:58，美东）—— 引述瑞银预计 MU、NVDA、AVGO 回购到 2028 年将激增约 3400 亿美元，这股资金流应能支撑 AI／科技股（153 赞）。 <span class=\"tag bull\">看多</span> <a href=\"https://x.com/ParadisLabs/status/2120501298818588712\">原文</a></li><li>Threads · @thierryborgeat（11/12 03:34，美东）—— “博通似乎是黄仁勋困境的最大受益者”（4.8K 粉丝）。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@thierryborgeat/post/DfoozvbHCD-\">原文</a></li><li>Threads · @darkflowalert（11/12 10:44，美东）—— 期权流：12 月 31 日到期 $365 看涨期权大单约 40.8 万美元，价差目标 $390.35，需较现价再涨约 7.9%。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@darkflowalert/post/DfpaDt-II16\">原文</a></li><li>Threads · @trade.wid.me（11/12 05:28，美东）—— 称芯片股反弹正在进行，“AVGO 的反弹才刚开始”。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@trade.wid.me/post/Dfo13fuG54w\">原文</a></li><li>Instagram · @contingent.traders（11/11 19:05，美东）—— 长期看多：博通是 AI 基建繁荣中最大的机会之一，基础情形目标价 600–750 美元、乐观情形 850–1000 美元，并提示 AI 支出放缓与客户集中度风险（40K 粉丝）。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DfnuDdJPihL/\">原文</a></li><li>Instagram · @tickerteardown（11/12 17:13，美东）—— 视频拆解当日上涨：AVGO 约 19 倍远期市盈率，低于 NVDA 的 25 倍与 AMD 的 40 倍；技术面看阻力在 200 日均线 <span class=\"num\">%%MA200%%</span> 一带，支撑在 50 日均线 <span class=\"num\">%%MA50%%</span> 一带。 <span class=\"tag flat\">中性</span> <a href=\"https://www.instagram.com/reel/DfqGeCNk71z/\">原文</a></li><li>Facebook · TradingNEWS（11/12 13:11，美东）—— “芯片王座正在转移”：AVGO 五个交易日涨 23.15%，AI 半导体收入 167 亿美元（+221%），予斐波那契目标 417 美元。 <span class=\"tag bull\">看多</span> <a href=\"https://www.facebook.com/thatsTradingnews/posts/pfbid02PDtkCYTxNj7vpVrQx62h2m5dsA6AtHvHbD8ZosZxbp1Fu5S8siLqSbBHeAGqtxyCl\">原文</a></li><li>零售情绪汇总：StockTwits 上 AVGO 散户情绪由“看多”升至“极度看多”；tradestie 统计 24 小时 18 条零售提及（Reddit／WSB 7 条、StockTwits 11 条），情绪偏多。 <span class=\"tag flat\">中性</span> <a href=\"https://StockTwits.com/symbol/AVGO\">原文</a></li></ul></details>"
+   ],
+   "title": "💬 社交平台头条"
+  },
+  {
+   "items": [
+    "英伟达 CEO 黄仁勋辞职，博通成资金轮动最大受益者（Nvidia 公告／8-K、TechCrunch、Motley Fool，11/12）：董事会 11/11 晚接受黄仁勋辞呈、立即生效；CFO Colette Kress 任临时 CEO（兼任 CFO），Harvey C. Jones 任董事会首任主席；正式 CEO 内外寻访中，无时间表；8-K 未说明辞职原因与离职补偿。NVDA 收 <span class=\"num\">$166.19</span>（<span class=\"num\">-4.34%</span>），盘中一度跌逾 13%；AVGO <span class=\"num\">+5.54%</span>、AMD <span class=\"num\">+5.86%</span>，资金轮动逻辑明确；NVDA 财报仍定于 11/17 盘后。",
+    "Anthropic IPO 约 6 倍超额认购（Bloomberg 经 Reuters／TradingView，11/12）：路演两日订单约为发售股数的 6 倍，承销商称将优先现有股东；定价区间 <span class=\"num\">$70–78</span> 不变，拟 11/18 定价、11/19 上市（ANT），估值约 1.4 万亿美元；七家算力供应商 <span class=\"num\">260</span> 亿美元同步私募中博通认购 <span class=\"num\">10</span> 亿美元（13,513,513 股，按 <span class=\"num\">$74</span> 中点计）。",
+    "产品与高管层面：48 小时内无 Tomahawk／Jericho／Thor／CPO 类新动态，Hock Tan 亦无新表态；博通–Toppan 新加坡基板厂 11/13 晨核验无实质进展。"
+   ],
+   "title": "👀 今日关注"
+  }
+ ],
+ "sources_extra": "价格／行情（Finnhub，11/12 收盘；盘后价为 Finnhub 19:03 ET 快照）；均线／RSI／成交量由构建脚本基于 Nasdaq 官方日线计算；评级主口径 MarketBeat（11/12 核验）；黄仁勋辞职引自 Nvidia 公告／8-K 与多家媒体（11/12）；Anthropic IPO 超额认购引自 Bloomberg 经 Reuters／TradingView（11/12）；社交帖子均经原文或平台检索核验；X 帖子经已保存登录会话核验。",
+ "target_avg": "$530.52"
+}

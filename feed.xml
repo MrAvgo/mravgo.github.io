@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-13：周五版 · 英伟达 CEO 辞职引爆轮动，AVGO 大涨 5.5% 站上 50 日均线</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-13</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周四收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），四连涨、自 52 周低点反弹约 &lt;span class=&quot;num&quot;&gt;+25.7%&lt;/span&gt;；5 日累计 &lt;span class=&quot;num&quot;&gt;+11.95%&lt;/span&gt;、1 个月 &lt;span class=&quot;num&quot;&gt;+1.97%&lt;/span&gt;（Finnhub）。；英伟达 CEO 黄仁勋辞职，资金轮动至博通：NVDA 收跌 4.34%，AVGO 逆势涨 5.54%。；Anthropic IPO 约 6 倍超额认购（Bloomberg，11/12），博通 10 亿美元私募认购在列；MarketBeat 综合评级仍为 Moderate Buy（45 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+45.6%&lt;/span&gt;）。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-12：周四版 · AVGO 再涨 4% 逼近 50 日均线，CoreWeave 财报点燃 AI 反弹</title>
       <link>https://avgo.pages.dev/briefs/2026-11-12</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-12</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0800</pubDate>
       <description>周五（10/23）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$321.50&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$327.70&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$320.23&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 一带支撑守住；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-35%&lt;/span&gt;。；过去 48 小时公司层面无新公告；补录一条此前简报漏收的实质进展：KDDI 与博通 10/22 启动 CPO 联合测试（Tomahawk 6 + Davisson 光引擎装入 KDDI AI 数据中心）。博通–Toppan 新加坡基板厂今日 07:00 盯线核验，72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.5%&lt;/span&gt;）；技术面维持空头：收盘低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 仍在弱势区，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 为短期支撑。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-24：周六晨报（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 公司层面无新动态</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-24</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/23）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$321.25&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$327.70&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$320.23&lt;/span&gt;，成交量约 &lt;span class=&quot;num&quot;&gt;10.8M&lt;/span&gt; 股（周四约 &lt;span class=&quot;num&quot;&gt;17.8M&lt;/span&gt; 股，缩量）；&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 一带支撑守住；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-35%&lt;/span&gt;。；今日公司层面无重要新动态：本周前半段的实质性事件（NTT DOCOMO 十年期 VMware 协议、FedEx 协议延续、Arcot Scam Defense 上线、Tigress 首覆 Buy/$600）已在 10/21–23 简报完整收录；博通–Toppan 新加坡基板厂今日 07:00 盯线核验，72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.5%&lt;/span&gt;）；技术面维持空头：收盘低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 接近超卖，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 为短期支撑。</description>
     </item>
   </channel>
 </rss>
