@@ -8,6 +8,30 @@
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
   {
+   "ref_author": "@paurooteri",
+   "ref_url": "https://x.com/paurooteri/status/2121471370127343995",
+   "text": "四半期推移で見ると、xPUとNetworkingの伸びがはっきりしている。需要側の勢いは続いているが、株価は50日線（$345.38）すれすれまで押された。来週の終値が試金石になる。",
+   "time": "2026-11-14 19:08",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2121560837349626093"
+  },
+  {
+   "ref_author": "@drayinvests",
+   "ref_url": "https://x.com/drayinvests/status/2121393731944501559",
+   "text": "Friday explains a lot of it. Redburn cut to Neutral with a $398 target and the stock fell 4.76% to $347.01. Consensus is still Moderate Buy at a $525.19 average, so this looks more like a re-rating than a broken growth story.",
+   "time": "2026-11-14 09:11",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2121410701684330595"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Redburn 把博通从 Buy 砍到 Neutral，目标价 595→398，周五跌了 4.8%。砍的不是订单，是 AI 收入的质量：Anthropic 和 OpenAI 能不能自己造血。另一边 Anthropic IPO 认购了约 6 倍，市场还在给算力大买家掏钱。砍完的 398 仍比收盘 347 高 15%，分歧就摆在这了。$AVGO",
+   "time": "2026-11-14 08:50",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2121405380479873185"
+  },
+  {
    "ref_author": "@ProKayaFinance",
    "ref_url": "https://x.com/ProKayaFinance/status/2121193554693206408",
    "text": "A sharp cut, but $398 is still above Thursday's $364.36 close, and it's the low one in your table: JPM and BofA both reiterated Buy on 11/9. The split among analysts matters more than any single target. Dec 9 earnings are the next checkpoint for the financing question.",
@@ -1430,5 +1454,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }
