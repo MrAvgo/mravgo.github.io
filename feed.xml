@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-15：周日版 · 担保上限拆解出炉，静候 NVDA 财报</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-15</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌至 &lt;span class=&quot;num&quot;&gt;$337.67&lt;/span&gt;；全周仍涨约 &lt;span class=&quot;num&quot;&gt;+18.2%&lt;/span&gt;，自 11/6 收盘 &lt;span class=&quot;num&quot;&gt;$293.69&lt;/span&gt; 反弹约 &lt;span class=&quot;num&quot;&gt;+18.2%&lt;/span&gt;（Finnhub／X 周度统计）。；担保敞口周末再量化：上限约 &lt;span class=&quot;num&quot;&gt;$720 亿&lt;/span&gt;（违约且机架残值归零的极端假设），其中 10 月备案残值担保约 &lt;span class=&quot;num&quot;&gt;$430 亿&lt;/span&gt;、6 月交易约 &lt;span class=&quot;num&quot;&gt;$290 亿&lt;/span&gt;；触发机制为补足欠款 &lt;span class=&quot;num&quot;&gt;72.5%&lt;/span&gt; 与转售价的差额，随租赁付款到账而下降——Redburn 担忧的具体化，但属或有上限而非已发生损失。；英伟达 11/17 盘后财报成下周首个催化剂（共识营收约 &lt;span class=&quot;num&quot;&gt;$109.2B&lt;/span&gt;、EPS 约 &lt;span class=&quot;num&quot;&gt;$2.48&lt;/span&gt;，临时 CEO Kress 首秀）；Anthropic IPO 拟 11/18 定价、11/19 上市；博通 Q4 财报 12/9 盘后。MarketBeat 综合评级仍为 Moderate Buy（45 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$525.19&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+51.35%&lt;/span&gt;）。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-14：周六版 · Redburn 下调评级触发抛售，AVGO 跌 4.8%</title>
       <link>https://avgo.pages.dev/briefs/2026-11-14</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-14</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
       <description>周一（10/26）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$324.53&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$332.12&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$323.25&lt;/span&gt;，成交约 &lt;span class=&quot;num&quot;&gt;16.27M&lt;/span&gt; 股；市值约 &lt;span class=&quot;num&quot;&gt;$1.57T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点约 &lt;span class=&quot;num&quot;&gt;-33.5%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+0.1%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-6.7%&lt;/span&gt;（Finnhub）。；过去 24 小时最大事件：博通与美银、黑石、花旗、摩根士丹利宣布约 &lt;span class=&quot;num&quot;&gt;$63B&lt;/span&gt; 融资安排，专项载体采购博通 XPU 与组网设备租给 Anthropic，2027 年起交付；同日 Anthropic 公布 IPO 招股书，博通为其最大算力交易对手（约 &lt;span class=&quot;num&quot;&gt;$161B&lt;/span&gt; 义务口径，见）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+60.8%&lt;/span&gt;）；技术面周一反弹但趋势未改，收盘仍低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 仍在弱势区，短线看 &lt;span class=&quot;num&quot;&gt;$332.12&lt;/span&gt;（周一高点）能否站稳。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-26：周一版（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· SemiAnalysis 吉瓦成本拆解</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-26</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/23）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$321.50&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$327.70&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$320.23&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 一带支撑守住；市值约 &lt;span class=&quot;num&quot;&gt;$1.54T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距 6 月高点（&lt;span class=&quot;num&quot;&gt;$495&lt;/span&gt;）约 &lt;span class=&quot;num&quot;&gt;-35%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;-2.2%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-8.8%&lt;/span&gt;（Finnhub）。；过去 48 小时公司层面无新公告；唯一新增的直接相关讨论是 SemiAnalysis 的 Dylan Patel 在 10/24 CASPA 峰会上的成本拆解：1 吉瓦 AI 数据中心成本已超 &lt;span class=&quot;num&quot;&gt;$60B&lt;/span&gt;，剔除芯片设计商利润后约 &lt;span class=&quot;num&quot;&gt;$20B&lt;/span&gt;，并称 Anthropic 正以约一半于 OpenAI 的时间推进自研芯片。博通–Toppan 新加坡基板厂今日 07:00 盯线核验，72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;42&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$529.17&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.5%&lt;/span&gt;）；技术面维持空头：收盘低于 20/50/200 日均线，&lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 仍在弱势区，&lt;span class=&quot;num&quot;&gt;$320&lt;/span&gt; 为短期支撑。</description>
     </item>
   </channel>
 </rss>
