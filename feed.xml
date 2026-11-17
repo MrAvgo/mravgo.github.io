@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-17：周二版 · 出口管制重击芯片股，AVGO 跌破 50 日线</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-17</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周一收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），跌破 50 日均线 &lt;span class=&quot;num&quot;&gt;%%MA50%%&lt;/span&gt;；盘中最低 &lt;span class=&quot;num&quot;&gt;$327.80&lt;/span&gt;；成交量约 &lt;span class=&quot;num&quot;&gt;21.94M&lt;/span&gt; 股。；美国商务部 11/15 发布临时最终规则：向东南亚四国与巴西出口先进 AI 芯片须许可证，现有数据中心 90 天宽限期；费城半导体指数跌超 4%，AVGO 跌 3.92%。；SemiAnalysis 大幅下调 AI 加速器支出预测（2028 年 -28%），博通定制芯片累计收入预测仅下修 11%；Anthropic IPO 认购约 6 倍超额，11/18 定价、11/19 上市，博通定向认购 10 亿美元。英伟达今晚盘后财报（共识营收约 1090 亿美元）是板块下一个分叉口；MarketBeat 仍为 Moderate Buy（45 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$525.19&lt;/span&gt;。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-16：周一版 · 美联储点名 AI 风险，静候 NVDA 财报</title>
       <link>https://avgo.pages.dev/briefs/2026-11-16</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-16</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
       <description>周三（10/28）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$349.22&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$352.40&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$344.35&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$342.33&lt;/span&gt;；市值约 &lt;span class=&quot;num&quot;&gt;$1.67T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-28.9%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+5.2%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;+0.6%&lt;/span&gt;（Finnhub／MarketBeat）。；过去 24 小时主要新进展：惠誉维持博通 A- 评级与正面展望；银行拟于 2027 年一季度发行约 &lt;span class=&quot;num&quot;&gt;$21B&lt;/span&gt; 投资级债券，为 630 亿美元 Anthropic 融资包中的贷款敞口对冲（彭博报道经转述）；KeyBanc 关于 Anthropic 自研 ASIC 与 Meta MTIA 的口径仅见二手转述，标注未确认。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+50.8%&lt;/span&gt;）；基板厂盯线 10/29 晨核验：72 小时内无实质进展。技术面：RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 位于中性区，均线位置见。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-28：周三版（周二收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· WSJ 披露陈福阳周末斡旋保住 630 亿美元融资</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-28</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-28</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周二（10/27）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$339.87&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$345.67&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$336.87&lt;/span&gt;，市值约 &lt;span class=&quot;num&quot;&gt;$1.63T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-30.8%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+4.1%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-3.0%&lt;/span&gt;（Finnhub）。；过去 24 小时最大新进展：WSJ 披露陈福阳周末亲自斡旋、同意提高利率并强化担保，才保住 630 亿美元 Anthropic 融资；残值担保规模与触发条件仍未完全披露，Truist 认为预期情形下风险有限。DA Davidson 同日上调至 Buy、目标价 &lt;span class=&quot;num&quot;&gt;$400&lt;/span&gt;。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+55.0%&lt;/span&gt;）；Celestica 电话会透露 Tomahawk 6 CPO 平台已跑通、2027 年底量产爬坡。技术面：收盘仍低于 20/50/200 日均线，RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 位于中性区。</description>
     </item>
   </channel>
 </rss>
