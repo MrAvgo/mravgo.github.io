@@ -2,11 +2,35 @@
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 62,
- "following": 115,
+ "following": 116,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2122635063678697536",
+   "text": "The demand-conversion point matters for Broadcom too. If NVDA's backlog converts more slowly, custom XPU orders are usually where it shows up first. AVGO closed Monday at $333.40, below its 50-day of $344.89.",
+   "time": "2026-11-17 19:17",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2122650391519322150"
+  },
+  {
+   "ref_author": "@fiiiiiist",
+   "ref_url": "https://x.com/fiiiiiist/status/2122345497662718321",
+   "text": "BIS rule reaches past the chips into the plumbing around AI clusters: licences for five countries, 90-day grace for existing data centres. For Broadcom the question is how much overseas build-out slows, not whether demand disappears. $AVGO closed Monday at $333.40, down 3.9%.",
+   "time": "2026-11-17 09:45",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2122506364769776095"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "周一博通跟板块一起跌，收 333.40，-3.9%。不过 SC26 上产品线没停：Tomahawk 6、Thor Ultra 800G 网卡开始向大客户送样，2027 年量产，瞄准 10 万+加速器集群的开放以太网。股价跌的是情绪，技术进展另算。 $AVGO",
+   "time": "2026-11-17 09:27",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2122501909135413397"
+  },
   {
    "ref_author": "@garyblack00",
    "ref_url": "https://x.com/garyblack00/status/2122270934220300728",
@@ -1518,5 +1542,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-16"
+ "updated": "2026-11-17"
 }
