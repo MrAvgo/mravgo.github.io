@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-18：周三版 · 英伟达财报超预期，AVGO 反弹 2.5%</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-18</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周二收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$351.16&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+2.80%&lt;/span&gt;，Finnhub 18:43 ET）；收复 20 日均线 &lt;span class=&quot;num&quot;&gt;%%MA20%%&lt;/span&gt;，仍在 50 日均线 &lt;span class=&quot;num&quot;&gt;%%MA50%%&lt;/span&gt; 下方。；英伟达 Q3 超预期：营收 &lt;span class=&quot;num&quot;&gt;$115.8B&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+103%&lt;/span&gt;）、EPS &lt;span class=&quot;num&quot;&gt;$2.68&lt;/span&gt;，Q4 指引 &lt;span class=&quot;num&quot;&gt;$130B&lt;/span&gt;；FY28 增长展望上调至约 &lt;span class=&quot;num&quot;&gt;75%&lt;/span&gt;，董事会无意恢复黄仁勋职务；NVDA 盘后约 &lt;span class=&quot;num&quot;&gt;+3%&lt;/span&gt;。；Anthropic 今日定价、明日上市（&lt;span class=&quot;num&quot;&gt;$70–78&lt;/span&gt;，认购约 &lt;span class=&quot;num&quot;&gt;7&lt;/span&gt; 倍）；博通担保细节明确：两档合计最高约 &lt;span class=&quot;num&quot;&gt;$72B&lt;/span&gt;，博通称触发概率低。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-17：周二版 · 出口管制重击芯片股，AVGO 跌破 50 日线</title>
       <link>https://avgo.pages.dev/briefs/2026-11-17</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-17</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
       <description>周四（10/29）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$342.00&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$346.15&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$338.80&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$351.81&lt;/span&gt;；市值约 &lt;span class=&quot;num&quot;&gt;$1.65T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-30.3%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+3.2%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-2.8%&lt;/span&gt;（Finnhub／MarketBeat）。；过去 24 小时主要新进展：Alphabet Q3 云收入翻倍、TPU 系统销售贡献增长，2027 年资本开支将显著增加；博通 8-K 披露 Anthropic 融资残值担保峰值约 &lt;span class=&quot;num&quot;&gt;$43B&lt;/span&gt;；Marvell 洽购激光器厂商 Lumentum 进入后期（彭博报道）；10/27 同日三家下调、三家新覆盖或上调，评级分化加剧。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+53.8%&lt;/span&gt;）；基板厂盯线 10/30 晨核验：72 小时内无实质进展。技术面：RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt;，均线位置见。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-29：周四版（周三收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 惠誉维持 A-、210 亿美元债券发行计划浮现</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-29</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-29</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周三（10/28）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$349.22&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$352.40&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$344.35&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$342.33&lt;/span&gt;；市值约 &lt;span class=&quot;num&quot;&gt;$1.67T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-28.9%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+5.2%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;+0.6%&lt;/span&gt;（Finnhub／MarketBeat）。；过去 24 小时主要新进展：惠誉维持博通 A- 评级与正面展望；银行拟于 2027 年一季度发行约 &lt;span class=&quot;num&quot;&gt;$21B&lt;/span&gt; 投资级债券，为 630 亿美元 Anthropic 融资包中的贷款敞口对冲（彭博报道经转述）；KeyBanc 关于 Anthropic 自研 ASIC 与 Meta MTIA 的口径仅见二手转述，标注未确认。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+50.8%&lt;/span&gt;）；基板厂盯线 10/29 晨核验：72 小时内无实质进展。技术面：RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt; 位于中性区，均线位置见。</description>
     </item>
   </channel>
 </rss>
