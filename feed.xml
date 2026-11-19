@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-19：周四版 · Anthropic 以 $83 定价上市，AVGO 大涨 3.6% 收复 50 日线</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-19</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周三收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$357.50&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.97%&lt;/span&gt;，Finnhub 18:51 ET）；收复 50 日均线 &lt;span class=&quot;num&quot;&gt;%%MA50%%&lt;/span&gt;，仍在 200 日均线 &lt;span class=&quot;num&quot;&gt;%%MA200%%&lt;/span&gt; 下方。；Anthropic 以 &lt;span class=&quot;num&quot;&gt;$83&lt;/span&gt; 定价（高于 &lt;span class=&quot;num&quot;&gt;$70–78&lt;/span&gt; 区间），今日以 ANT 上市，募资约 &lt;span class=&quot;num&quot;&gt;$813&lt;/span&gt; 亿创史上最大 IPO；博通 &lt;span class=&quot;num&quot;&gt;$1B&lt;/span&gt; 定向认购按发行价执行。；英伟达表态继续以“有选择、有纪律”方式支持 AI 基建融资，缓解融资链条担忧；SOXX 周三上涨 &lt;span class=&quot;num&quot;&gt;3.8%&lt;/span&gt;。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-18：周三版 · 英伟达财报超预期，AVGO 反弹 2.5%</title>
       <link>https://avgo.pages.dev/briefs/2026-11-18</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-18</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-10-31</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
       <description>周五（10/30）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$330.71&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$331.98&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$319.30&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$345.00&lt;/span&gt;；盘后约 &lt;span class=&quot;num&quot;&gt;$327.22&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.35%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.56T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-34.1%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+0.9%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-5.1%&lt;/span&gt;（Finnhub／StockAnalysis）。；过去 24 小时主要新进展：金融时报称黑石改口、预计 Anthropic 上市后仅获垃圾级（BB 档）评级，叠加英特尔弱指引与亚马逊现金流担忧，纳指单日跌 &lt;span class=&quot;num&quot;&gt;2.86%&lt;/span&gt;、费城半导体指数跌约 &lt;span class=&quot;num&quot;&gt;7.2%&lt;/span&gt;，博通跟跌；台湾经济部已批准力成 &lt;span class=&quot;num&quot;&gt;$400M&lt;/span&gt; 入股博通新加坡面板级封装合资 XCIP；基板厂盯线 10/31 晨核验：72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动。技术面：RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt;，均线位置见。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-30：周五版（周四收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· Alphabet 财报后 TPU 需求信号与资本开支担忧交织、评级同日多空分化</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-30</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-30</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周四（10/29）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$342.00&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$346.15&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$338.80&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$351.81&lt;/span&gt;；市值约 &lt;span class=&quot;num&quot;&gt;$1.65T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-30.3%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+3.2%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-2.8%&lt;/span&gt;（Finnhub／MarketBeat）。；过去 24 小时主要新进展：Alphabet Q3 云收入翻倍、TPU 系统销售贡献增长，2027 年资本开支将显著增加；博通 8-K 披露 Anthropic 融资残值担保峰值约 &lt;span class=&quot;num&quot;&gt;$43B&lt;/span&gt;；Marvell 洽购激光器厂商 Lumentum 进入后期（彭博报道）；10/27 同日三家下调、三家新覆盖或上调，评级分化加剧。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+53.8%&lt;/span&gt;）；基板厂盯线 10/30 晨核验：72 小时内无实质进展。技术面：RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt;，均线位置见。</description>
     </item>
   </channel>
 </rss>
