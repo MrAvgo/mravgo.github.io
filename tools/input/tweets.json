@@ -1,12 +1,36 @@
 {
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 62,
- "following": 117,
+ "followers": 60,
+ "following": 118,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Anthropic 以 83 美元定价，今天挂牌，募了约 813 亿美元，史上最大 IPO。博通掏了 10 亿美元按发行价认购，供应商变股东。客户融得到钱，订单才有底气兑现。AVGO 昨天涨 3.6%，收 354.05，站回 50 日线。 $AVGO",
+   "time": "2026-11-19 09:45",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2123231051145531702"
+  },
+  {
+   "ref_author": "@realACollins",
+   "ref_url": "https://x.com/realACollins/status/2123174717381120457",
+   "text": "The $43B guarantee is the part I'd watch. 10GW is a long-dated plan, so when the revenue actually lands matters more than the headline size. AVGO closed $354.05, +3.6%, back over the 50-day $344.15, still under the 200-day $367.66.",
+   "time": "2026-11-19 09:42",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2123230465985552488"
+  },
+  {
+   "ref_author": "@EhrmantrautCap_",
+   "ref_url": "https://x.com/EhrmantrautCap_/status/2123163350418768322",
+   "text": "Fair point on the pounding. AVGO is still about 26% below its recent high even after Wednesday's 3.6% bounce back above the 50-day, and the demand visibility is the part that hasn't changed.",
+   "time": "2026-11-19 09:35",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2123228721985585627"
+  },
   {
    "ref_author": "@paurooteri",
    "ref_url": "https://x.com/paurooteri/status/2122987353388257361",
@@ -1574,5 +1598,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-18"
+ "updated": "2026-11-19"
 }
