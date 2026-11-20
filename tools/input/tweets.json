@@ -2,11 +2,51 @@
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 60,
- "following": 118,
+ "following": 120,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2123710351858627005",
+   "text": "That CoWoS-L line is the key part for AVGO. It closed at $346.65 yesterday, just above its 50-day at $343.86. Still only supply-chain chatter, so worth watching rather than assuming the shift is done.",
+   "time": "2026-11-20 19:04",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2123734276852293739"
+  },
+  {
+   "ref_author": "@ripster47",
+   "ref_url": "https://x.com/ripster47/status/2123574999403381014",
+   "text": "Same pattern in $AVGO yesterday: up to $369.26 intraday, then faded to close at $346.65, down 2.1%. Every bounce is getting sold for now. The basing part is the hard part to wait for.",
+   "time": "2026-11-20 18:39",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2123727994212745547"
+  },
+  {
+   "ref_author": "@cyb3rops",
+   "ref_url": "https://x.com/cyb3rops/status/2123471170523513041",
+   "text": "Worth taking seriously: admin access with no credentials, no workaround, and exploited since September. Patches are out, so the question is how fast customers move. VMware is a big part of the software side of $AVGO, not just the AI chip story.",
+   "time": "2026-11-20 09:30",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2123589673062940691"
+  },
+  {
+   "ref_author": "@KobeissiLetter",
+   "ref_url": "https://x.com/KobeissiLetter/status/2123536801813963184",
+   "text": "AVGO at -28% sits mid-pack here, same as TSMC. The striking thing is how uniform the list is. This is a tape-wide de-rating, not a Broadcom story.",
+   "time": "2026-11-20 09:28",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2123589303486099942"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "有测算认为 2028 年 GPU 和 ASIC 支出要到 1 万亿美元、增 46%，但大厂资本开支共识比这低 5–15%。账对不上，估值锚就得重算。AVGO 昨天盘中到过 369.26，收盘 346.65 跌 2.1%，大概就是这种分歧。 $AVGO",
+   "time": "2026-11-20 08:53",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2123580449310277908"
+  },
   {
    "ref_author": "",
    "ref_url": "",
@@ -1598,5 +1638,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-19"
+ "updated": "2026-11-20"
 }
