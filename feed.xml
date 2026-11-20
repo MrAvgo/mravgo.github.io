@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-20：周五版 · Anthropic 上市首日，AVGO 冲高回落收跌 2.1%</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-20</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周四收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$345.40&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;-0.36%&lt;/span&gt;，Finnhub 18:23 ET）；日内冲高后大幅回落，收盘仍守在 50 日均线 &lt;span class=&quot;num&quot;&gt;%%MA50%%&lt;/span&gt; 上方，仍在 200 日均线 &lt;span class=&quot;num&quot;&gt;%%MA200%%&lt;/span&gt; 下方。；Anthropic 以 &lt;span class=&quot;num&quot;&gt;$83&lt;/span&gt; 定价、今日以 ANT 上市，首日开盘 &lt;span class=&quot;num&quot;&gt;$111.50&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+34%&lt;/span&gt;），午后涨幅约 &lt;span class=&quot;num&quot;&gt;17%&lt;/span&gt;；博通 &lt;span class=&quot;num&quot;&gt;$1B&lt;/span&gt; 定向认购按发行价执行。；高盛 11/18 下调目标价 &lt;span class=&quot;num&quot;&gt;$540→$460&lt;/span&gt;、维持 Buy；MarketBeat 仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$525.19&lt;/span&gt;。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-19：周四版 · Anthropic 以 $83 定价上市，AVGO 大涨 3.6% 收复 50 日线</title>
       <link>https://avgo.pages.dev/briefs/2026-11-19</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-19</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-11-01</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
       <description>周日版：最新交易日仍为周五（10/30），收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$330.71&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$331.98&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$319.30&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$345.00&lt;/span&gt;；盘后约 &lt;span class=&quot;num&quot;&gt;$327.18&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.34%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.56T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;；近 1 个月约 &lt;span class=&quot;num&quot;&gt;-8.2%&lt;/span&gt;（Finnhub）。；过去 24 小时主要新进展：巴克莱 AI CDS 报告把博通列为买入 5 年期 CDS 保护的标的，AI 融资链的信用定价继续发酵；Anthropic IPO 时间表细化至 11 月下旬定价窗口（未确认）；基板厂盯线 11/1 晨核验：72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-10-31：周六版（周五收 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· AI 抛售日博通跟跌、Anthropic 垃圾评级预警再点担保敞口、力成新加坡合资获批</title>
-      <link>https://avgo.pages.dev/briefs/2026-10-31</link>
-      <guid>https://avgo.pages.dev/briefs/2026-10-31</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0800</pubDate>
-      <description>周五（10/30）收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$330.71&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$331.98&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$319.30&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$345.00&lt;/span&gt;；盘后约 &lt;span class=&quot;num&quot;&gt;$327.22&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.35%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.56T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;，现价距区间高点约 &lt;span class=&quot;num&quot;&gt;-34.1%&lt;/span&gt;；5 日约 &lt;span class=&quot;num&quot;&gt;+0.9%&lt;/span&gt;、近 1 个月约 &lt;span class=&quot;num&quot;&gt;-5.1%&lt;/span&gt;（Finnhub／StockAnalysis）。；过去 24 小时主要新进展：金融时报称黑石改口、预计 Anthropic 上市后仅获垃圾级（BB 档）评级，叠加英特尔弱指引与亚马逊现金流担忧，纳指单日跌 &lt;span class=&quot;num&quot;&gt;2.86%&lt;/span&gt;、费城半导体指数跌约 &lt;span class=&quot;num&quot;&gt;7.2%&lt;/span&gt;，博通跟跌；台湾经济部已批准力成 &lt;span class=&quot;num&quot;&gt;$400M&lt;/span&gt; 入股博通新加坡面板级封装合资 XCIP；基板厂盯线 10/31 晨核验：72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动。技术面：RSI &lt;span class=&quot;num&quot;&gt;%%RSI%%&lt;/span&gt;，均线位置见。</description>
     </item>
   </channel>
 </rss>
