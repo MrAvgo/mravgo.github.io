@@ -1,12 +1,28 @@
 {
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 60,
+ "followers": 59,
  "following": 120,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@pequityresearch",
+   "ref_url": "https://x.com/pequityresearch/status/2123899190552179109",
+   "text": "The five-year shortage call stands out. For Broadcom, packaging, power and cooling as the binding constraints cuts both ways: it supports demand for custom silicon and networking, but it also limits how quickly that demand becomes shipments.",
+   "time": "2026-11-21 09:32",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2123952593399603588"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "郭明錤称 Google 把 2027 年 TPU 8i 砍掉约 100 万颗，占那系列出货的 20%，砍的还是单价最高的 8i Max。AVGO 周五跌 12.2% 收 304.41，AI 股集体抛售，这消息让它跑输板块。数字来自一家产业调查，Google 和博通都没表态，先当传闻看。验证看 12/9 财报 FY27 AI 收入指引 $115B 保不保得住。$AVGO https://t.co/k7kLBxYWWt",
+   "time": "2026-11-21 09:30",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2123952213269823978"
+  },
   {
    "ref_author": "@carrioresearch",
    "ref_url": "https://x.com/carrioresearch/status/2123710351858627005",
@@ -1638,5 +1654,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-20"
+ "updated": "2026-11-21"
 }
