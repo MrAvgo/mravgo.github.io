@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-21：周六版 · AVGO 单日暴跌 12.2%，郭明錤称 Google 砍单百万颗 TPU</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-21</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌破 &lt;span class=&quot;num&quot;&gt;$302&lt;/span&gt;，成交量约为日均的 &lt;span class=&quot;num&quot;&gt;2.3&lt;/span&gt; 倍；盘后约 &lt;span class=&quot;num&quot;&gt;$311.49&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+2.33%&lt;/span&gt;，Finnhub 18:25 ET）。；郭明錤称 Google 将 2027 年博通 TPU 8i 出货削减约 &lt;span class=&quot;num&quot;&gt;100&lt;/span&gt; 万颗（约 &lt;span class=&quot;num&quot;&gt;20%&lt;/span&gt;），多为高价 8i Max，同时增购联发科 TPU 8t——Google 与博通均未置评，数字未经证实。；高盛 11/18 下调目标价 &lt;span class=&quot;num&quot;&gt;$540→$460&lt;/span&gt;、维持 Buy；MarketBeat 仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$525.19&lt;/span&gt;。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-20：周五版 · Anthropic 上市首日，AVGO 冲高回落收跌 2.1%</title>
       <link>https://avgo.pages.dev/briefs/2026-11-20</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-20</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
       <description>周一开盘前：最新收盘仍为周五（10/30）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$327.18&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.34%&lt;/span&gt;）；今晚美股进入冬令时，北京时间 &lt;span class=&quot;num&quot;&gt;22:30&lt;/span&gt; 开盘。；过去 48 小时主线：周五半导体普跌拖累 AVGO，Anthropic &lt;span class=&quot;num&quot;&gt;$63B&lt;/span&gt; 融资包与博通担保争议继续发酵；Anthropic IPO 路演预计 11 月 9 日当周、定价窗口约 11 月 20–24 日（未确认）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动；基板厂盯线 11/2 晨核验无实质进展。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-11-01：周日版（最新收盘仍为周五 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;，&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）· 巴克莱 CDS 报告点名博通、Anthropic IPO 定价窗口细化至 11 月下旬</title>
-      <link>https://avgo.pages.dev/briefs/2026-11-01</link>
-      <guid>https://avgo.pages.dev/briefs/2026-11-01</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0800</pubDate>
-      <description>周日版：最新交易日仍为周五（10/30），收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;）；开 &lt;span class=&quot;num&quot;&gt;$330.71&lt;/span&gt;、高 &lt;span class=&quot;num&quot;&gt;$331.98&lt;/span&gt;、低 &lt;span class=&quot;num&quot;&gt;$319.30&lt;/span&gt;，前收 &lt;span class=&quot;num&quot;&gt;$345.00&lt;/span&gt;；盘后约 &lt;span class=&quot;num&quot;&gt;$327.18&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.34%&lt;/span&gt;）；市值约 &lt;span class=&quot;num&quot;&gt;$1.56T&lt;/span&gt;；52 周区间 &lt;span class=&quot;num&quot;&gt;$289.96–$495.00&lt;/span&gt;；近 1 个月约 &lt;span class=&quot;num&quot;&gt;-8.2%&lt;/span&gt;（Finnhub）。；过去 24 小时主要新进展：巴克莱 AI CDS 报告把博通列为买入 5 年期 CDS 保护的标的，AI 融资链的信用定价继续发酵；Anthropic IPO 时间表细化至 11 月下旬定价窗口（未确认）；基板厂盯线 11/1 晨核验：72 小时内无实质进展。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动。</description>
     </item>
   </channel>
 </rss>
