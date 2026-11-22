@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-22：周日版 · 暴跌后周末平静，Google 与博通仍未回应 TPU 砍单传闻</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-22</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌破 &lt;span class=&quot;num&quot;&gt;$302&lt;/span&gt;，成交量约为日均的 &lt;span class=&quot;num&quot;&gt;2.4&lt;/span&gt; 倍；盘后约 &lt;span class=&quot;num&quot;&gt;$311.50&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+2.33%&lt;/span&gt;，Finnhub 20:00 ET）。；截至周六，Google 与博通仍未就郭明錤的 TPU 砍单说法置评；12/9 财报是下一个验证点。；Anthropic 上市首周收官：ANT 周五收 &lt;span class=&quot;num&quot;&gt;$88.91&lt;/span&gt;，较 &lt;span class=&quot;num&quot;&gt;$83&lt;/span&gt; 发行价高约 &lt;span class=&quot;num&quot;&gt;7%&lt;/span&gt;；博通 &lt;span class=&quot;num&quot;&gt;$1B&lt;/span&gt; Class N 认购账面仍浮盈约 &lt;span class=&quot;num&quot;&gt;7%&lt;/span&gt;。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-21：周六版 · AVGO 单日暴跌 12.2%，郭明錤称 Google 砍单百万颗 TPU</title>
       <link>https://avgo.pages.dev/briefs/2026-11-21</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-21</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
       <description>周二开盘前：最新收盘为周一（11/2）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$323.80&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.49%&lt;/span&gt;）；纳指周一跌 &lt;span class=&quot;num&quot;&gt;1.1%&lt;/span&gt;、半导体 ETF 跌近 &lt;span class=&quot;num&quot;&gt;4%&lt;/span&gt;，AVGO 跌幅明显小于板块。；过去 24 小时主线：Marvell 宣布以约 &lt;span class=&quot;num&quot;&gt;$115B&lt;/span&gt; 全股票收购 Lumentum，补齐“硅到光”栈，直接冲击博通的光 DSP／CPO 布局；SemiAnalysis 转述的 TPU 产量下修与 AMD 参与 v10 的传闻仍未证实。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.7%&lt;/span&gt;）；10/27 一批评级变动（DA Davidson 上调、Citi 与 UBS 下调）仍是最近的变化；基板厂盯线 11/3 晨核验无实质进展。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-11-02：周一版 · 周五半导体普跌、Anthropic 融资担保争议发酵</title>
-      <link>https://avgo.pages.dev/briefs/2026-11-02</link>
-      <guid>https://avgo.pages.dev/briefs/2026-11-02</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0800</pubDate>
-      <description>周一开盘前：最新收盘仍为周五（10/30）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$327.18&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.34%&lt;/span&gt;）；今晚美股进入冬令时，北京时间 &lt;span class=&quot;num&quot;&gt;22:30&lt;/span&gt; 开盘。；过去 48 小时主线：周五半导体普跌拖累 AVGO，Anthropic &lt;span class=&quot;num&quot;&gt;$63B&lt;/span&gt; 融资包与博通担保争议继续发酵；Anthropic IPO 路演预计 11 月 9 日当周、定价窗口约 11 月 20–24 日（未确认）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+62.7%&lt;/span&gt;）；10/27 之后未见新的评级变动；基板厂盯线 11/2 晨核验无实质进展。</description>
     </item>
   </channel>
 </rss>
