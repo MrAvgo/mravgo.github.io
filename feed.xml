@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-23：周一版 · 周末仍无官方回应，期权市场偏防御</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-23</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌破 &lt;span class=&quot;num&quot;&gt;$302&lt;/span&gt;，成交量约为日均的 &lt;span class=&quot;num&quot;&gt;2.4&lt;/span&gt; 倍；盘后约 &lt;span class=&quot;num&quot;&gt;$311.50&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+2.33%&lt;/span&gt;，Finnhub 20:00 ET）。；截至周日，Google 与博通仍未就郭明錤 TPU 砍单说法置评；TheStreet 周末复盘：Google 正把定制芯片分散到博通、联发科、Marvell 三家，电力成稀缺门槛。；期权市场偏防御：看跌期权溢价约 &lt;span class=&quot;num&quot;&gt;$343M&lt;/span&gt;、对看涨约 &lt;span class=&quot;num&quot;&gt;$196M&lt;/span&gt;，12/18 到期最集中（GTA Terminal，11/22）。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-22：周日版 · 暴跌后周末平静，Google 与博通仍未回应 TPU 砍单传闻</title>
       <link>https://avgo.pages.dev/briefs/2026-11-22</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-22</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-11-04</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0800</pubDate>
       <description>周三开盘前：最新收盘为周二（11/3）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$334&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.6%&lt;/span&gt;）；纳指周二 &lt;span class=&quot;num&quot;&gt;+0.83%&lt;/span&gt;、半导体 ETF SOXX &lt;span class=&quot;num&quot;&gt;+2.5%&lt;/span&gt;，AVGO 跑赢大盘与板块。；过去 24 小时主线：AMD 盘后超预期（Q3 收入 &lt;span class=&quot;num&quot;&gt;$13.38B&lt;/span&gt;、Q4 指引约 &lt;span class=&quot;num&quot;&gt;$17B&lt;/span&gt;）验证 AI 机架需求；Anthropic S-1/A 上调 Google 承诺至约 &lt;span class=&quot;num&quot;&gt;$1213&lt;/span&gt; 亿、博通租赁承诺约 &lt;span class=&quot;num&quot;&gt;$1612&lt;/span&gt; 亿仍居首；OpenAI 拟购 TPU 的传闻再被转述（未证实）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+59.7%&lt;/span&gt;）；10/27 一批评级变动仍是最近的变化；基板厂盯线 11/4 晨核验无实质进展。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-11-03：周二版 · Marvell 1150 亿美元收购 Lumentum，AI 光互连竞争升温</title>
-      <link>https://avgo.pages.dev/briefs/2026-11-03</link>
-      <guid>https://avgo.pages.dev/briefs/2026-11-03</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0800</pubDate>
-      <description>周二开盘前：最新收盘为周一（11/2）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$323.80&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.49%&lt;/span&gt;）；纳指周一跌 &lt;span class=&quot;num&quot;&gt;1.1%&lt;/span&gt;、半导体 ETF 跌近 &lt;span class=&quot;num&quot;&gt;4%&lt;/span&gt;，AVGO 跌幅明显小于板块。；过去 24 小时主线：Marvell 宣布以约 &lt;span class=&quot;num&quot;&gt;$115B&lt;/span&gt; 全股票收购 Lumentum，补齐“硅到光”栈，直接冲击博通的光 DSP／CPO 布局；SemiAnalysis 转述的 TPU 产量下修与 AMD 参与 v10 的传闻仍未证实。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+64.7%&lt;/span&gt;）；10/27 一批评级变动（DA Davidson 上调、Citi 与 UBS 下调）仍是最近的变化；基板厂盯线 11/3 晨核验无实质进展。</description>
     </item>
   </channel>
 </rss>
