@@ -1,12 +1,44 @@
 {
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 59,
+ "followers": 60,
  "following": 122,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@youngstockuser",
+   "ref_url": "https://x.com/youngstockuser/status/2125183900158718102",
+   "text": "这个角度挺关键：TPU对外卖，抢的是新增订单，短期动不了NVDA的基本盘。但对AVGO来说，不管TPU走内部还是对外，不少自研芯片都要经过它。周一收$313.55，仍在20日均线$331.60之下，12月9日财报前还是先看需求能不能兑现。",
+   "time": "2026-11-24 19:26",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2125189218318311564"
+  },
+  {
+   "ref_author": "@SemiAnalysis_",
+   "ref_url": "https://x.com/SemiAnalysis_/status/2125017089693843541",
+   "text": "Scale-up past the rack is where the switch matters as much as the accelerator. Single-hop Ethernet at 500-1k GPUs is Tomahawk/Jericho territory, and the copper-vs-optics split in this model is the number to watch.",
+   "time": "2026-11-24 18:32",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2125175769337102444"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "NVDA 一天 +31%，AVGO 只跟了 3%，盘中还从 $324.46 回到 $313.55。 这轮反弹是黄仁勋复任带起来的，NVDA 自己的事，没扩散到整个 AI 硬件。AVGO 仍在三条均线下方，砍单传闻两边都没回应，答案得等 12/9 财报。 $AVGO",
+   "time": "2026-11-24 09:16",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2125035858424394103"
+  },
+  {
+   "ref_author": "@JasonL_Capital",
+   "ref_url": "https://x.com/JasonL_Capital/status/2124991261157318745",
+   "text": "16x looks cheap next to the rest of the list, but the multiple is doing a lot of work here. AVGO closed Monday at $313.55, still under its 20-day at $331.60 with RSI at 43.8. Dec 9 earnings should say more than the P/E does.",
+   "time": "2026-11-24 09:08",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2125033780025119048"
+  },
   {
    "ref_author": "@AgastyaSinha7",
    "ref_url": "https://x.com/AgastyaSinha7/status/2124640577627070951",
@@ -1702,5 +1734,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-23"
+ "updated": "2026-11-24"
 }
