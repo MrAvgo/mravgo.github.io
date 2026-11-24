@@ -1,0 +1,110 @@
+{
+  "archive_title": "周二版 · 黄仁勋复任带涨芯片股，AVGO 仅涨 3% 跑输同业",
+  "key_points": [
+    "周一收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），盘中一度冲高至 <span class=\"num\">$324.46</span> 后回落，成交量约为日均的 <span class=\"num\">1.5</span> 倍；盘后约 <span class=\"num\">$310</span>（<span class=\"num\">-1.13%</span>，Finnhub 18:43 ET）。",
+    "英伟达董事会全票通过黄仁勋复任，NVDA 单日 <span class=\"num\">+31.48%</span>、市值增加近 <span class=\"num\">$1T</span>，纳指 <span class=\"num\">+6.51%</span>；AVGO 仅 <span class=\"num\">+3.00%</span>，明显跑输同业。",
+    "截至周一，Google 与博通仍未就郭明錤 TPU 砍单说法置评；Wolfe Research 对冲观点称 TPU v8i 将在 Q4/Q1 放量、定价较 Ironwood 高 <span class=\"num\">35%</span>。",
+    "Bernstein 11/23 重申 Buy、目标价 <span class=\"num\">$575</span>；MarketBeat 仍为 Moderate Buy（<span class=\"num\">45</span> 家），平均目标价 <span class=\"num\">$525.19</span>；感恩节当周周四休市、周五提前收市。"
+  ],
+  "rating": "Moderate Buy",
+  "rating_class": "flat",
+  "ref_links": [
+    {
+      "title": "Finnhub：AVGO 行情数据",
+      "url": "https://finnhub.io/?q=%22AVGO%22"
+    },
+    {
+      "title": "MarketBeat：AVGO 分析师评级与目标价",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+    },
+    {
+      "title": "TipRanks：AVGO 分析师评级与目标价",
+      "url": "https://www.tipranks.com/stocks/avgo/forecast"
+    },
+    {
+      "title": "Fool：NVDA 11/23 大涨 31%",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/"
+    },
+    {
+      "title": "FinanceFeeds：AVGO 周一反弹 2%",
+      "url": "https://financefeeds.com/broadcom-avgo-stock-rebounds-2-as-nvidia-rally-eases-google-tpu-selloff/"
+    },
+    {
+      "title": "Trefis：周五暴跌原因",
+      "url": "https://www.trefis.com/stock/avgo/articles/627781/why-did-broadcom-stock-drop-on-friday/2026-11-23"
+    },
+    {
+      "title": "X：@KobeissiLetter 科技股涨幅榜",
+      "url": "https://x.com/KobeissiLetter/status/2124942055952482332"
+    },
+    {
+      "title": "X：@CheddarFlow 看涨期权扫单",
+      "url": "https://x.com/CheddarFlow/status/2124932739312853040"
+    },
+    {
+      "title": "Instagram：@earlyinvestorig 跌幅拆解",
+      "url": "https://www.instagram.com/reel/DgFscSLu10Z/"
+    },
+    {
+      "title": "X：@pequityresearch 转述 Wolfe",
+      "url": "https://x.com/pequityresearch/status/2124727391125966892"
+    }
+  ],
+  "sections": [
+    {
+      "items": [
+        "周一收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>，+<span class=\"num\">$9.14</span>），前收 <span class=\"num\">$304.41</span>；开 <span class=\"num\">$320.86</span>、高 <span class=\"num\">$324.46</span>、低 <span class=\"num\">$304.56</span>；成交量约 <span class=\"num\">38.1M</span> 股，约为日均约 <span class=\"num\">25.4M</span> 股的 <span class=\"num\">1.5</span> 倍；盘后 <span class=\"num\">$310</span>（<span class=\"num\">-1.13%</span>，Finnhub 18:43 ET）；市值约 <span class=\"num\">$1.47T</span>；52 周区间 <span class=\"num\">$289.77–$495.00</span>；年初至今约 <span class=\"num\">-9.4%</span>，距 6 月高点 <span class=\"num\">$495</span> 回落约 <span class=\"num\">36.7%</span>（Finnhub／MarketBeat）。",
+        "事件提醒：感恩节当周美股 11/26（周四）休市、11/27（周五）提前收市；博通 2026 财年 Q4 财报将于 12/9（周三）盘后公布，当天还有美联储议息决议；下个除息日为 12/21（周一）。"
+      ],
+      "title": "📰 行情速览"
+    },
+    {
+      "items": [
+        "复任行情的性质：黄仁勋复任解除的是整个 AI 交易的领导层真空与监管不确定性，利好的是情绪面而非博通自身基本面；AVGO 周一高开后回吐过半涨幅、收盘仅 +3%，说明资金仍在等砍单传闻的证实或证伪——公司层面的悬念未解，情绪反弹不等于基本面修复。 <span class=\"tag flat\">中性</span>",
+        "砍单传闻的双向信号：郭明錤说法仍是单一产业调查、未经证实；Wolfe 的放量预期若属实，意味着 8i 的需求端并未坍缩，争议焦点从“需求消失”转向“型号结构与单价”——8i Max 高单价缺口能否由 8t 增量与 v8i 定价补位，是 FY27 约 $115B 指引能否兑现的关键变量，12/9 电话会验证。 <span class=\"tag flat\">中性</span>",
+        "期权流向转暖但分化：周一盘中出现多笔看涨期权扫单（2 月 $360 看涨期权约 $4.2M、12/18 $300 看涨期权约 $0.74M），与上周五看跌期权占优（GTA Terminal：51% 期权资金在看跌）形成反差——机构对方向仍无共识，感恩节当周清淡交投下波动可能放大。 <span class=\"tag flat\">中性</span>",
+        "ANT 未跟涨的提示：NVDA 创纪录反弹日，ANT 反而 -1.43%，说明市场对 Anthropic 商业模式的定价仍独立于 AI 硬件情绪；博通的 $1B 认购账面浮盈收窄至约 5.6%，对博通估值影响有限，关键仍是 Anthropic 的 TPU 部署执行。 <span class=\"tag flat\">中性</span>"
+      ],
+      "title": "🏢 基本面"
+    },
+    {
+      "items": [
+        "MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">38</span> 家、持有 <span class=\"num\">6</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$525.19</span>，最高 <span class=\"num\">$715</span>、最低 <span class=\"num\">$398</span>，按周一收盘计隐含约 <span class=\"num\">+67.5%</span>（MarketBeat，11/24 核验；与 11/23 相同，无变化）。",
+        "近期变化：11/23 Bernstein 重申 Buy，目标价 <span class=\"num\">$575</span>（分析师 Mark Newman，TipRanks 明细表最新一条）；11/18 高盛下调目标价 <span class=\"num\">$540→$460</span>，维持 Buy（分析师 James Schneider；下调因估值倍数由 30x 降至 25x，盈利预测不变）；11/16 TD Cowen 下调目标价 <span class=\"num\">$475→$425</span>，维持 Buy；11/13 Rothschild & Co Redburn 下调 Buy→Neutral，目标价 <span class=\"num\">$595→$398</span>（现为最低目标价）；11/11 Weiss Ratings B→B-；10/27 DA Davidson 上调 Neutral→Buy，目标价 <span class=\"num\">$350→$400</span>；10/27 William Blair 下调 Outperform→Market Perform；10/27 Rosenblatt 重申 Buy，目标价 <span class=\"num\">$600</span>。MarketBeat 评级表最新一条仍为 11/13 Redburn。",
+        "<details class=\"more\"><summary>其他口径…</summary><ul><li>TipRanks 口径（11/24 核验）：Strong Buy（近 3 个月 31 家：买入 29 家、持有 2 家、卖出 0 家），平均目标价 <span class=\"num\">$514.86</span>，区间 <span class=\"num\">$398–$630</span>，按现价计隐含约 <span class=\"num\">+64.2%</span>；均值与 11/23 相同，明细新增 11/23 Bernstein 重申 Buy、目标价 $575。</li><li>StockAnalysis 口径（11/23）：51 家分析师，Strong Buy，平均目标价 <span class=\"num\">$526.47</span>，区间 <span class=\"num\">$398.47–$660</span>，按现价计隐含约 <span class=\"num\">+67.9%</span>。</li><li>Barchart 口径（11/21 专栏）：Strong Buy，平均目标价 <span class=\"num\">$519.11</span>。</li><li>另有看空声音：Seeking Alpha 撰稿人 11/19 给予 Sell，内在价值估算 <span class=\"num\">$295.71</span>，理由为五大客户占收入 55% 与约 <span class=\"num\">$72B</span> 担保敞口——为个人观点，非机构评级。</li></ul></details>"
+      ],
+      "title": "🎯 分析师评级"
+    },
+    {
+      "items": [
+        "趋势：收盘仍低于 20 日均线 <span class=\"num\">%%MA20%%</span> 与 50 日均线 <span class=\"num\">%%MA50%%</span>，也在 200 日均线 <span class=\"num\">%%MA200%%</span> 下方；均线仍为空头排列；周一高开后大幅回落，收出长上影。",
+        "动量：RSI（14）<span class=\"num\">%%RSI%%</span>；成交量约 <span class=\"num\">38.1M</span> 股，约为日均的 <span class=\"num\">1.5</span> 倍，放量反弹但回吐过半涨幅；盘后约 <span class=\"num\">$310</span>（<span class=\"num\">-1.13%</span>）。",
+        "关键位：上方阻力先看周一盘中高点 <span class=\"num\">$324.46</span>，再上是 11 月 18 日收盘 <span class=\"num\">$354.05</span> 一带；下方支撑先看周五低点 <span class=\"num\">$301.02</span>，再下是 11 月 6 日 52 周低点 <span class=\"num\">$289.77</span> 一带。",
+        "短线方向取决于收盘能否重新站上 20 日均线 <span class=\"num\">%%MA20%%</span> 上方：若能站回，则周五的抛售可视为一次超跌宣泄；反之若失守周五低点，波动可能进一步放大。"
+      ],
+      "title": "📊 技术面"
+    },
+    {
+      "items": [
+        "X · @KobeissiLetter（11/23 14:04，美东）—— 当日美股科技股涨幅榜上 AVGO 以 +3% 排第 20 位；纳指 100 成分股当日合计市值增加约 $2T。（2,888 赞、约 26.5 万浏览） <span class=\"tag flat\">中性</span> <a href=\"https://x.com/KobeissiLetter/status/2124942055952482332\">原文</a>",
+        "X · @CheddarFlow（11/23 13:26，美东）—— 4 秒内分 4 笔扫单买入约 $4.2M 的 AVGO 看涨期权，2 月到期、行权价 $360，比当时股价高约 16%。（183 赞、约 3.8 万浏览） <span class=\"tag bull\">看多</span> <a href=\"https://x.com/CheddarFlow/status/2124932739312853040\">原文</a>",
+        "Instagram · @earlyinvestorig（11/23 15:27，UTC）—— 视频分析：郭明錤砍单说法只能解释周五 12% 跌幅中的约 1.5 个百分点，英伟达 SEC 调查才是更大推手；支撑位看 $270 与 $240；只有 12/9 财报 AI 收入接近 $21.7B 指引时才考虑加仓。（3.2K 粉丝） <span class=\"tag flat\">中性</span> <a href=\"https://www.instagram.com/reel/DgFscSLu10Z/\">原文</a>",
+        "Threads · @bnice_fnp（11/23 15:25，UTC）—— 多头卖出 11/23 到期 $312.50 看跌期权，权利金约 $3.3M，成交量超过未平仓量，解读为看涨信号。（2.2K 粉丝） <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@bnice_fnp/post/DgFsmKHkcn2\">原文</a>",
+        "X · @pequityresearch（11/22 23:51，美东）—— 转述 Wolfe Research：TPU v8i 将在 Q4/Q1 于 Google 与 Anthropic 放量，定价较 Ironwood 高 35%，Q4 出货约 115 万颗、Q1 增至约 120 万颗。（145 赞、约 2.3 万浏览） <span class=\"tag bull\">看多</span> <a href=\"https://x.com/pequityresearch/status/2124727391125966892\">原文</a>",
+        "<details class=\"more\"><summary>更多平台…</summary><ul><li>X · @wallstengine（11/23 09:21，美东）—— 盘前芯片股大涨：AVGO +5%、NVDA +30%、AMD +10%。（481 赞、约 4.3 万浏览） <span class=\"tag flat\">中性</span> <a href=\"https://x.com/wallstengine/status/2124870896309670030\">原文</a></li><li>X · @MarcosMillaYT（11/22 23:54，美东）—— 华尔街分析师评出的 20 只“强力买入”股中 AVGO 排第 1。（123 赞、约 1.7 万浏览） <span class=\"tag bull\">看多</span> <a href=\"https://x.com/MarcosMillaYT/status/2124728202262417810\">原文</a></li><li>X · @Beth_Kindig（11/23 10:25，美东）—— 英伟达上调 2028 财年收入展望至同比 +75%（此前 +70%），帖子同时标注 $AMD 与 $AVGO。（501 赞、约 2.7 万浏览） <span class=\"tag flat\">中性</span> <a href=\"https://x.com/Beth_Kindig/status/2124886990151946644\">原文</a></li><li>X · @keith_market（11/22 19:28，美东）—— 日文资讯汇总：转述郭明錤 11/20 报告，称 Google 2027 年 TPU 8i 削减约 100 万颗、联发科将成 v9/v10 独家供应商（仍未经证实）。（156 赞、约 9,517 浏览） <span class=\"tag bear\">看空</span> <a href=\"https://x.com/keith_market/status/2124661345840988165\">原文</a></li><li>Instagram · @investing.eng（11/23 11:09，UTC）—— 轮播长文：回调是买入机会，Q3 收入 $29.6B（+86%）、AI 芯片 +221%，远期市盈率约 19.3 倍、目标价均值 $519.11。（认证账号） <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/p/DgFPcbQAo55/\">原文</a></li><li>Threads · @darkflowalert（11/23 17:19，UTC）—— 重复扫单：$1.21M 买入 2 月 $360 看涨期权，成交量为未平仓量 3.4 倍，盈亏平衡 $375.50。（420 粉丝） <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@darkflowalert/post/DgF5tlgmp0M\">原文</a></li><li>Threads · @justinquinlisk（11/23 02:08，UTC）—— 图文：销售额 +86%、股价却 -12%，称 $304.17 一带“值得买入”，唯一担忧是约 $43B 的客户融资担保。（32 粉丝） <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@justinquinlisk/post/DgERbZ_kcS0\">原文</a></li><li>Facebook · GTA Terminal（11/23 21:51，UTC）—— 暗池交易高于正常水平，51% 的期权资金在看跌期权（数据为周五 11/20 交易活动）。 <span class=\"tag bear\">看空</span> <a href=\"https://www.facebook.com/permalink.php?story_fbid=pfbid02BDTz9kLL7yvcA1V7RdB9af4Sn5ezpY99MHtC6WNaBtD4zkmeTZQS7zoQMp2S9uDNl&id=61596126149812\">原文</a></li><li>Reddit（AltIndex，11/23）—— AVGO 在主要投资 subreddit 日均约 56 条提及，情绪 60/100 中性，热度正常；Wallsti 显示最新交易日提及量激增至 33 条（前一周日均 8.6 条）。 <span class=\"tag flat\">中性</span> <a href=\"https://altindex.com/ticker/avgo/reddit-mentions\">原文</a></li><li>YouTube：本期未找到 48 小时内新发布的 AVGO 分析视频。</li></ul></details>"
+      ],
+      "title": "💬 社交平台头条"
+    },
+    {
+      "items": [
+        "黄仁勋复任引爆 AI 股反弹（11/23，Fool／MarketBeat／Benzinga）：英伟达董事会全票通过、即刻复任黄仁勋总裁、CEO 及董事（11/22 生效），此前 11 月 17 日董事会还称不打算恢复其职务；董事会称已获美国政府高层意见、复任无国家安全风险，特朗普公开支持；NVDA 单日 +31.48% 至 $165.05，单日市值增加近 $1T、创纪录，标普 +4.74%、纳指 +6.51%；AVGO 仅 +3.00%，跑输 AMD（+6.85%）与半导体 ETF；SEC 调查与独立调查仍未了结。",
+        "砍单传闻仍无官方回应，对冲观点出现（截至周一，FinanceFeeds 11/23；Wolfe Research 经 @pequityresearch 11/22 转述）：Google 与博通均未就郭明錤“2027 年 TPU 8i 削减约 100 万颗（约 20%）”的说法置评；Wolfe 预计 TPU v8i 将在 Q4/Q1 于 Google 与 Anthropic 放量，定价较 Ironwood 高 35%，Q4 出货约 115 万颗、Q1 增至约 120 万颗——若属实，与砍单说法形成对冲，争议焦点转向型号结构与单价；12/9 财报是指引验证点。",
+        "Anthropic 周一未跟涨（11/23，Finnhub）：ANT 收 $87.64（-1.43%），盘前一度 +5.7% 后回落，仍高于 $83 发行价；博通约 $1B 的 Class N 认购账面浮盈约 5.6%。",
+        "产品与高管层面：48 小时内无新品发布或高管表态；博通–Toppan 新加坡基板厂今日（11/24）晨核验无实质进展。"
+      ],
+      "title": "👀 今日关注"
+    }
+  ],
+  "sources_extra": "均线与 RSI 数值由构建脚本基于 Nasdaq 官方日线计算。价格／行情（Finnhub，11/23 收盘 $313.55，+3.00%；盘后价为 Finnhub 18:43 ET 快照约 $310；成交量为 Nasdaq 官方日线约 38.1M 股、日均约 25.4M 股；市值约 $1.47T）；评级主口径 MarketBeat（11/24 核验），TipRanks 明细新增 11/23 Bernstein 重申 Buy、目标价 $575；黄仁勋复任引自 Fool／MarketBeat／Benzinga（11/23）；砍单传闻回应状态引自 FinanceFeeds（11/23），Wolfe 对冲观点经 X @pequityresearch 11/22 转述；ANT 收盘引自 Finnhub（11/23）；期权流向引自 Cheddar Flow／darkflowalert／@bnice_fnp 与 GTA Terminal（11/23）；基板厂盯线 11/24 晨核验无实质进展；社交帖子均经原文或平台检索核验；X 帖子经已保存登录会话核验。",
+  "target_avg": "$525.19"
+}
