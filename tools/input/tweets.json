@@ -1,12 +1,44 @@
 {
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK_200x200.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
- "followers": 60,
- "following": 122,
+ "followers": 59,
+ "following": 123,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@BullTheoryio",
+   "ref_url": "https://x.com/BullTheoryio/status/2125527266172231819",
+   "text": "The financing angle is the one to watch here. Broadcom’s guarantee is contingent: it only bites if Anthropic defaults and rack value falls short. A junk rating would still tighten funding behind that $900B compute plan. Dec 9 will tell us if the ~$115B FY27 guide holds.",
+   "time": "2026-11-25 18:29",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2125537272254857296"
+  },
+  {
+   "ref_author": "@pequityresearch",
+   "ref_url": "https://x.com/pequityresearch/status/2125273246991827200",
+   "text": "Nomura's note is a useful reality check on CPO. If adoption keeps slipping, that leg of the optical story moves further out and NPO does the near-term work. For AVGO it doesn't change the near-term question: Dec 9, and whether the ~$115B FY27 AI guide holds.",
+   "time": "2026-11-25 09:33",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2125402556604235850"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "博通软件这边也有消息：VMware 安全通告 VMSA-2026-0011，一次修了 23 个漏洞，其中 vCenter 有个 9.8 分的身份验证绕过 CVE-2026-123903。新漏洞目前没有在野利用的报告，不过上周那个 CVE-2026-123890 已经被确认利用、进了 CISA 目录。 $AVGO",
+   "time": "2026-11-25 09:28",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2125401261570974138"
+  },
+  {
+   "ref_author": "@StonkValue",
+   "ref_url": "https://x.com/StonkValue/status/2125364201527070727",
+   "text": "Custom AI demand is the right lens here, but the numbers still need to prove out. AVGO closed at $301.08, still below its 20- and 50-day averages, so I'll wait for Dec 9 to see if management reaffirms the ~$115B FY27 AI guide.",
+   "time": "2026-11-25 09:16",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2125398059723133153"
+  },
   {
    "ref_author": "@youngstockuser",
    "ref_url": "https://x.com/youngstockuser/status/2125183900158718102",
@@ -1734,5 +1766,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-24"
+ "updated": "2026-11-25"
 }
