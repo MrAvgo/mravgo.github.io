@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-26：感恩节版 · 盘中探至 $278 新低后 V 形收复，收盘守住 $300 一线</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-26</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周三收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌至 &lt;span class=&quot;num&quot;&gt;$278.00&lt;/span&gt; 创 52 周新低后大幅收复，成交量约 &lt;span class=&quot;num&quot;&gt;29.4M&lt;/span&gt; 股；盘后约 &lt;span class=&quot;num&quot;&gt;$301.50&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+0.21%&lt;/span&gt;，Finnhub 18:45 ET）。；砍单传闻仍无官方回应；摩根士丹利 11/9 报告仍将 AVGO 列为 GPU/XPU 首选、目标价 &lt;span class=&quot;num&quot;&gt;$505&lt;/span&gt;，与 Redburn 的 &lt;span class=&quot;num&quot;&gt;$398&lt;/span&gt; 形成机构分歧。；Anthropic 周三 &lt;span class=&quot;num&quot;&gt;+1.08%&lt;/span&gt; 收 &lt;span class=&quot;num&quot;&gt;$82.79&lt;/span&gt;，连续第二日收于 &lt;span class=&quot;num&quot;&gt;$83&lt;/span&gt; 发行价下方，盘中低至 &lt;span class=&quot;num&quot;&gt;$73.85&lt;/span&gt;；博通约 &lt;span class=&quot;num&quot;&gt;$1B&lt;/span&gt; 认购仍略浮亏。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-25：周三版 · 砍单传闻余震未消，AVGO 再跌 4% 逼近 $301 一线</title>
       <link>https://avgo.pages.dev/briefs/2026-11-25</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-25</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-11-07</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0800</pubDate>
       <description>周五反弹但冲高回落：收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度摸高 &lt;span class=&quot;num&quot;&gt;$311.52&lt;/span&gt;、一度跌破 52 周低点至 &lt;span class=&quot;num&quot;&gt;$289.77&lt;/span&gt;；纳指 &lt;span class=&quot;num&quot;&gt;+1.15%&lt;/span&gt;，芯片股普遍反弹。；Anthropic 修订版 S-1（11/2 申报）：算力承诺总额约 &lt;span class=&quot;num&quot;&gt;8954&lt;/span&gt; 亿美元，博通五年期设备租赁约 &lt;span class=&quot;num&quot;&gt;1612&lt;/span&gt; 亿美元居首；但 Anthropic Q3 净新增订单环比下滑，兑现节奏存疑。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+80.6%&lt;/span&gt;）；近一周内无新的评级变动；基板厂盯线 11/7 晨核验无实质进展。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-11-06：周五版 · AVGO 暴跌 10.4% 逼近 52 周低点，中期选举引爆 AI 基建抛售</title>
-      <link>https://avgo.pages.dev/briefs/2026-11-06</link>
-      <guid>https://avgo.pages.dev/briefs/2026-11-06</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <description>周五开盘前：最新收盘为周四（11/5）&lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘后约 &lt;span class=&quot;num&quot;&gt;$289.45&lt;/span&gt;；纳指 &lt;span class=&quot;num&quot;&gt;-5.52%&lt;/span&gt;、标普 &lt;span class=&quot;num&quot;&gt;-4.36%&lt;/span&gt;、费半跌逾 &lt;span class=&quot;num&quot;&gt;12%&lt;/span&gt;，纳指确认进入修正区间。；过去 24 小时主线：中期选举后民主党赢下两院，德州等州拟暂停新数据中心审批，AI 基建股遭历史性抛售；博通本身无新利空，Q4 AI 收入指引 &lt;span class=&quot;num&quot;&gt;$217&lt;/span&gt; 亿未变。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+82.0%&lt;/span&gt;）；近一周内无新的评级变动；基板厂盯线 11/6 晨核验无实质进展。</description>
     </item>
   </channel>
 </rss>
