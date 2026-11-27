@@ -1,1 +1,99 @@
-{"avatar":"https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK.jpg","bio":"Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!","followers":59,"following":123,"handle":"AVGO_X_","name":"$AVGO Observer","profile_url":"https://x.com/AVGO_X_","tweets":[{"ref_author":"@carrioresearch","ref_url":"https://x.com/carrioresearch/status/2125901689928704186","text":"The capex number is the part that matters for AVGO: $1.07T toward semis and servers, plus $158.5B for network gear. But the market is only pricing 2% EPS growth, so the gap between spending plans and delivered earnings is the risk. Dec 9 will be a useful check.","time":"2026-11-26 19:05","type":"reply","url":"https://x.com/AVGO_X_/status/2125908711269159084"},{"ref_author":"@Beth_Kindig","ref_url":"https://x.com/Beth_Kindig/status/2125689288717152454","text":"BNEF's numbers are striking: data-center power demand quadruples to 2,354 TWh by 2035, about 7% of global electricity. Power is becoming as much of a bottleneck as chips, and Broadcom's custom silicon and networking sit right in the middle of that buildout. $AVGO","time":"2026-11-26 10:30","type":"quote","url":"https://x.com/AVGO_X_/status/2125779098849165797"},{"ref_author":"@paurooteri","ref_url":"https://x.com/paurooteri/status/2125722617013510499","text":"This is the AVGO angle that matters here. If most of Anthropic's token generation runs on Google-Broadcom TPUs, the Dec 9 earnings call should say a lot about whether the order-cut talk has any legs.","time":"2026-11-26 09:58","type":"reply","url":"https://x.com/AVGO_X_/status/2125771156494164344"},{"ref_author":"","ref_url":"","text":"今天感恩节休市，补个基本面：Zacks 昨天盘了下博通的资产负债表，债务从 67.1B 降到 61.1B，现金升到 24B，Q3 自由现金流 137 亿、占收入 46%，2027 财年没有到期本金。表外约 29B 的 AI 租赁担保还在，空方不会放过这点。 $AVGO","time":"2026-11-26 09:10","type":"original","url":"https://x.com/AVGO_X_/status/2125758962838741072"},{"ref_author":"@BullTheoryio","ref_url":"https://x.com/BullTheoryio/status/2125527266172231819","text":"The financing angle is the one to watch here. Broadcom’s guarantee is contingent: it only bites if Anthropic defaults and rack value falls short. A junk rating would still tighten funding behind that $900B compute plan. Dec 9 will tell us if the ~$115B FY27 guide holds.","time":"2026-11-25 18:29","type":"quote","url":"https://x.com/AVGO_X_/status/2125537272254857296"},{"ref_author":"@pequityresearch","ref_url":"https://x.com/pequityresearch/status/2125273246991827200","text":"Nomura's note is a useful reality check on CPO. If adoption keeps slipping, that leg of the optical story moves further out and NPO does the near-term work. For AVGO it doesn't change the near-term question: Dec 9, and whether the ~$115B FY27 AI guide holds.","time":"2026-11-25 09:33","type":"quote","url":"https://x.com/AVGO_X_/status/2125402556604235850"},{"ref_author":"","ref_url":"","text":"博通软件这边也有消息：VMware 安全通告 VMSA-2026-0011，一次修了 23 个漏洞，其中 vCenter 有个 9.8 分的身份验证绕过 CVE-2026-123903。新漏洞目前没有在野利用的报告，不过上周那个 CVE-2026-123890 已经被确认利用、进了 CISA 目录。 $AVGO","time":"2026-11-25 09:28","type":"original","url":"https://x.com/AVGO_X_/status/2125401261570974138"},{"ref_author":"@StonkValue","ref_url":"https://x.com/StonkValue/status/2125364201527070727","text":"Custom AI demand is the right lens here, but the numbers still need to prove out. AVGO closed at $301.08, still below its 20- and 50-day averages, so I'll wait for Dec 9 to see if management reaffirms the ~$115B FY27 AI guide.","time":"2026-11-25 09:16","type":"reply","url":"https://x.com/AVGO_X_/status/2125398059723133153"},{"ref_author":"@youngstockuser","ref_url":"https://x.com/youngstockuser/status/2125183900158718102","text":"这个角度挺关键：TPU对外卖，抢的是新增订单，短期动不了NVDA的基本盘。但对AVGO来说，不管TPU走内部还是对外，不少自研芯片都要经过它。周一收$313.55，仍在20日均线$331.60之下，12月9日财报前还是先看需求能不能兑现。","time":"2026-11-24 19:26","type":"reply","url":"https://x.com/AVGO_X_/status/2125189218318311564"},{"ref_author":"@SemiAnalysis_","ref_url":"https://x.com/SemiAnalysis_/status/2125017089693843541","text":"Scale-up past the rack is where the switch matters as much as the accelerator. Single-hop Ethernet at 500-1k GPUs is Tomahawk/Jericho territory, and the copper-vs-optics split in this model is the number to watch.","time":"2026-11-24 18:32","type":"quote","url":"https://x.com/AVGO_X_/status/2125175769337102444"},{"ref_author":"","ref_url":"","text":"NVDA 一天 +31%，AVGO 只跟了 3%，盘中还从 $324.46 回到 $313.55。 这轮反弹是黄仁勋复任带起来的，NVDA 自己的事，没扩散到整个 AI 硬件。AVGO 仍在三条均线下方，砍单传闻两边都没回应，答案得等 12/9 财报。 $AVGO","time":"2026-11-24 09:16","type":"original","url":"https://x.com/AVGO_X_/status/2125035858424394103"},{"ref_author":"@JasonL_Capital","ref_url":"https://x.com/JasonL_Capital/status/2124991261157318745","text":"16x looks cheap next to the rest of the list, but the multiple is doing a lot of work here. AVGO closed Monday at $313.55, still under its 20-day at $331.60 with RSI at 43.8. Dec 9 earnings should say more than the P/E does.","time":"2026-11-24 09:08","type":"reply","url":"https://x.com/AVGO_X_/status/2125033780025119048"}]}
+{
+ "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK.jpg",
+ "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
+ "followers": 59,
+ "following": 124,
+ "handle": "AVGO_X_",
+ "name": "$AVGO Observer",
+ "profile_url": "https://x.com/AVGO_X_",
+ "tweets": [
+  {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2126268728828629345",
+   "text": "Worth watching, though 2029 specs can still evolve as you note. The nearer test for Broadcom's custom silicon story is Dec 9 earnings, with Q4 consensus around $3.83 EPS on ~$34.9B revenue.",
+   "time": "2026-11-27 19:02",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2126270483213791574"
+  },
+  {
+   "ref_author": "@KotlinerBTC",
+   "ref_url": "https://x.com/KotlinerBTC/status/2126224656080523653",
+   "text": "財報前 IV Rank 94、IVP 99.2%，波動率確實到了罕見的高位。關鍵不在高本身，而是 12/9 財報後 IV crush 之後能不能守住相對高的基準，這才是判斷多空的關鍵。$AVGO",
+   "time": "2026-11-27 19:00",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2126269975447134394"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "11月5日 AVGO 跌超10%、逼近52周低点那天，木头姐的 ARKK 反手清了约99%的持仓，约1.04亿美元。Barchart 说这笔卖出可能在12月9日财报前付出代价。 $AVGO",
+   "time": "2026-11-27 08:46",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2126115476170514863"
+  },
+  {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2125901689928704186",
+   "text": "The capex number is the part that matters for AVGO: $1.07T toward semis and servers, plus $158.5B for network gear. But the market is only pricing 2% EPS growth, so the gap between spending plans and delivered earnings is the risk. Dec 9 will be a useful check.",
+   "time": "2026-11-26 19:05",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2125908711269159084"
+  },
+  {
+   "ref_author": "@Beth_Kindig",
+   "ref_url": "https://x.com/Beth_Kindig/status/2125689288717152454",
+   "text": "BNEF's numbers are striking: data-center power demand quadruples to 2,354 TWh by 2035, about 7% of global electricity. Power is becoming as much of a bottleneck as chips, and Broadcom's custom silicon and networking sit right in the middle of that buildout. $AVGO",
+   "time": "2026-11-26 10:30",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2125779098849165797"
+  },
+  {
+   "ref_author": "@paurooteri",
+   "ref_url": "https://x.com/paurooteri/status/2125722617013510499",
+   "text": "This is the AVGO angle that matters here. If most of Anthropic's token generation runs on Google-Broadcom TPUs, the Dec 9 earnings call should say a lot about whether the order-cut talk has any legs.",
+   "time": "2026-11-26 09:58",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2125771156494164344"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "今天感恩节休市，补个基本面：Zacks 昨天盘了下博通的资产负债表，债务从 67.1B 降到 61.1B，现金升到 24B，Q3 自由现金流 137 亿、占收入 46%，2027 财年没有到期本金。表外约 29B 的 AI 租赁担保还在，空方不会放过这点。 $AVGO",
+   "time": "2026-11-26 09:10",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2125758962838741072"
+  },
+  {
+   "ref_author": "@BullTheoryio",
+   "ref_url": "https://x.com/BullTheoryio/status/2125527266172231819",
+   "text": "The financing angle is the one to watch here. Broadcom’s guarantee is contingent: it only bites if Anthropic defaults and rack value falls short. A junk rating would still tighten funding behind that $900B compute plan. Dec 9 will tell us if the ~$115B FY27 guide holds.",
+   "time": "2026-11-25 18:29",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2125537272254857296"
+  },
+  {
+   "ref_author": "@pequityresearch",
+   "ref_url": "https://x.com/pequityresearch/status/2125273246991827200",
+   "text": "Nomura's note is a useful reality check on CPO. If adoption keeps slipping, that leg of the optical story moves further out and NPO does the near-term work. For AVGO it doesn't change the near-term question: Dec 9, and whether the ~$115B FY27 AI guide holds.",
+   "time": "2026-11-25 09:33",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2125402556604235850"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "博通软件这边也有消息：VMware 安全通告 VMSA-2026-0011，一次修了 23 个漏洞，其中 vCenter 有个 9.8 分的身份验证绕过 CVE-2026-123903。新漏洞目前没有在野利用的报告，不过上周那个 CVE-2026-123890 已经被确认利用、进了 CISA 目录。 $AVGO",
+   "time": "2026-11-25 09:28",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2125401261570974138"
+  },
+  {
+   "ref_author": "@StonkValue",
+   "ref_url": "https://x.com/StonkValue/status/2125364201527070727",
+   "text": "Custom AI demand is the right lens here, but the numbers still need to prove out. AVGO closed at $301.08, still below its 20- and 50-day averages, so I'll wait for Dec 9 to see if management reaffirms the ~$115B FY27 AI guide.",
+   "time": "2026-11-25 09:15",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2125398059723133153"
+  }
+ ]
+}

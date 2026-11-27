@@ -2,11 +2,35 @@
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 59,
- "following": 123,
+ "following": 124,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@carrioresearch",
+   "ref_url": "https://x.com/carrioresearch/status/2126268728828629345",
+   "text": "Worth watching, though 2029 specs can still evolve as you note. The nearer test for Broadcom's custom silicon story is Dec 9 earnings, with Q4 consensus around $3.83 EPS on ~$34.9B revenue.",
+   "time": "2026-11-27 19:02",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2126270483213791574"
+  },
+  {
+   "ref_author": "@KotlinerBTC",
+   "ref_url": "https://x.com/KotlinerBTC/status/2126224656080523653",
+   "text": "財報前 IV Rank 94、IVP 99.2%，波動率確實到了罕見的高位。關鍵不在高本身，而是 12/9 財報後 IV crush 之後能不能守住相對高的基準，這才是判斷多空的關鍵。$AVGO",
+   "time": "2026-11-27 19:00",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2126269975447134394"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "11月5日 AVGO 跌超10%、逼近52周低点那天，木头姐的 ARKK 反手清了约99%的持仓，约1.04亿美元。Barchart 说这笔卖出可能在12月9日财报前付出代价。 $AVGO",
+   "time": "2026-11-27 08:46",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2126115476170514863"
+  },
   {
    "ref_author": "@carrioresearch",
    "ref_url": "https://x.com/carrioresearch/status/2125901689928704186",
@@ -1798,5 +1822,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-26"
+ "updated": "2026-11-27"
 }
