@@ -1,0 +1,111 @@
+{
+  "archive_title": "感恩节休市 · 周三探至 $278 新低后收复 $300，盘后升至 $304",
+  "key_points": [
+    "周三收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>），盘中一度跌至 <span class=\"num\">$278.00</span> 创 52 周新低后大幅收复；盘后约 <span class=\"num\">$304.00</span>（<span class=\"num\">+1.04%</span>，Finnhub 19:59 ET）；感恩节周四休市、周五提前收市。",
+    "传闻出现新分级：vlsi.kr 11/26 认为 Kuo 说法“方向已确认、规模未证实”，若 2027 年 TPU 总出货约 880 万颗，博通设计量仍可增长；Google 与博通仍未置评，12/9 财报是验证点。",
+    "估值端两家同日看多但收窄安全边际：Fool 称低于 $290 是买入区，Seeking Alpha 撰稿人重申 Buy、公允价值 $442→$385；Anthropic 盘后约 $84.26，重回 $83 发行价上方。",
+    "MarketBeat 仍为 Moderate Buy（<span class=\"num\">45</span> 家），平均目标价 <span class=\"num\">$525.19</span>；TipRanks Strong Buy（<span class=\"num\">31</span> 家），平均目标价 <span class=\"num\">$513.25</span>；财报 12/9 盘后（同日美联储议息）。"
+  ],
+  "rating": "Moderate Buy",
+  "rating_class": "flat",
+  "ref_links": [
+    {
+      "title": "Finnhub：AVGO 行情数据",
+      "url": "https://finnhub.io/?q=%22AVGO%22"
+    },
+    {
+      "title": "MarketBeat：AVGO 分析师评级与目标价",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/AVGO/forecast/"
+    },
+    {
+      "title": "TipRanks：AVGO 分析师评级与目标价",
+      "url": "https://www.tipranks.com/stocks/avgo/forecast"
+    },
+    {
+      "title": "Fool：博通跌至 2025 年 7 月以来最低、作者看多",
+      "url": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/"
+    },
+    {
+      "title": "vlsi.kr：Kuo 说法“方向已确认、规模未证实”",
+      "url": "https://www.vlsi.kr/en/google-tpu-broadcom-cut-mediatek-rise-en/"
+    },
+    {
+      "title": "Seeking Alpha：市场错杀博通、重申 Buy",
+      "url": "https://seekingalpha.com/article/4972153-broadcom-why-the-market-is-wrong-to-sell"
+    },
+    {
+      "title": "YouTube：跌破 52 周低点复盘",
+      "url": "https://www.youtube.com/watch?v=-rhGSrVcrRo"
+    },
+    {
+      "title": "Instagram：@barchartofficial 谈 Cathie Wood 卖出 AVGO",
+      "url": "https://www.instagram.com/p/DgNioldFSvK/"
+    },
+    {
+      "title": "MarketBeat：ANT 行情数据",
+      "url": "https://www.marketbeat.com/stocks/NASDAQ/ANT/"
+    },
+    {
+      "title": "X：@Beth_Kindig 数据中心电力需求预测",
+      "url": "https://x.com/Beth_Kindig/status/2125689288717152454"
+    }
+  ],
+  "sections": [
+    {
+      "items": [
+        "周三收盘 <span class=\"num\">$%%PRICE%%</span>（<span class=\"num\">%%CHANGE_PCT%%</span>，-<span class=\"num\">$0.22</span>），前收 <span class=\"num\">$301.08</span>；开 <span class=\"num\">$286.98</span>、高 <span class=\"num\">$301.27</span>、低 <span class=\"num\">$278.00</span>（盘中创 52 周新低，跌破 11 月 6 日前低 <span class=\"num\">$289.77</span>）；成交量约 <span class=\"num\">34.3M</span> 股（Nasdaq 官方日线），较日均约 <span class=\"num\">25.5M</span> 股高约 <span class=\"num\">35%</span>；盘后 <span class=\"num\">$304.00</span>（<span class=\"num\">+1.04%</span>，Finnhub 19:59 ET）；市值约 <span class=\"num\">$1.44T</span>；52 周区间 <span class=\"num\">$278.00–$495.00</span>；五日约 <span class=\"num\">-15.02%</span>，年初至今约 <span class=\"num\">-13.1%</span>，距 6 月高点 <span class=\"num\">$495</span> 回落约 <span class=\"num\">39.2%</span>（Finnhub）。",
+        "事件提醒：感恩节美股 11/26（周四）休市、11/27（周五）提前收市（美东 13:00）；博通 2026 财年 Q4 财报将于 12/9（周三）盘后公布，当天还有美联储议息决议；Q4 共识预期收入约 <span class=\"num\">$34.9B</span>、EPS 约 <span class=\"num\">$3.83</span>（TipRanks，区间 <span class=\"num\">$34.74–35.59B</span>／<span class=\"num\">$3.53–3.92</span>），与公司指引约 <span class=\"num\">$34.8B</span> 基本一致；Marvell 12/1 财报或是 Google 定制芯片支出的先行指标；下个除息日为 12/21（周一）。"
+      ],
+      "title": "📰 行情速览"
+    },
+    {
+      "items": [
+        "休市日无新公告，考验留给周五半日市：周三长下影线叠加盘后升至 <span class=\"num\">$304</span>，说明 <span class=\"num\">$278–$280</span> 一带有买盘承接；但五日跌约 <span class=\"num\">15%</span>、成交量放大至约 <span class=\"num\">34.3M</span> 股，抛压并未出清——周五能否守住 <span class=\"num\">$300</span> 一线，是判断这次收复是超跌宣泄还是阶段底部的第一道检验。 <span class=\"tag flat\">中性</span>",
+        "估值分歧不在方向、在倍数：Fool 与 Seeking Alpha 撰稿人同日看多，但一个把买入区划在 <span class=\"num\">$290</span> 下方、一个把公允价值从 <span class=\"num\">$442</span> 下调至 <span class=\"num\">$385</span>；机构共识目标价仍在 <span class=\"num\">$525</span> 一带——市场对 FY27 约 <span class=\"num\">$115B</span> AI 指引愿意给多少倍数仍未达成共识，12/9 财报是指引兑现的验证点。 <span class=\"tag flat\">中性</span>",
+        "传闻冲击的上限在收窄：按 vlsi.kr 的分级，即使 TPU 8i 砍单约 100 万颗属实，只要 2027 年 TPU 总量继续增长，博通设计量仍可上升；真正的变量是型号结构——被砍的主要是单价更高的 8i Max，份额从 95% 降至 80% 对收入的侵蚀，需要 12/9 电话会确认。 <span class=\"tag flat\">中性</span>",
+        "ANT 的信号意义：盘后重回发行价上方，博通约 <span class=\"num\">$1B</span> 认购的账面浮亏基本抹平；但 ANT 上市首周较首日收盘已跌约 <span class=\"num\">15%</span>，AI 应用层估值仍在降温——Anthropic 的 TPU 部署节奏与融资能力，仍是约 <span class=\"num\">$115B</span> 指引能否兑现的另一条线。 <span class=\"tag flat\">中性</span>"
+      ],
+      "title": "🏢 基本面"
+    },
+    {
+      "items": [
+        "MarketBeat 综合：Moderate Buy，<span class=\"num\">45</span> 家覆盖（强力买入 <span class=\"num\">1</span> 家、买入 <span class=\"num\">38</span> 家、持有 <span class=\"num\">6</span> 家、卖出 <span class=\"num\">0</span> 家），平均目标价 <span class=\"num\">$525.19</span>，最高 <span class=\"num\">$715</span>、最低 <span class=\"num\">$398</span>，按周三收盘计隐含约 <span class=\"num\">+74.6%</span>（MarketBeat，11/27 核验；与 11/26 相同，无变化）。",
+        "近期变化：11/26–27 无新增评级变化，最新一条仍为 11/13 Redburn。11/24 UBS 下调目标价 <span class=\"num\">$470→$425</span>，维持 Buy（分析师 Timothy Arcuri）；11/23 Bernstein 重申 Buy，目标价 <span class=\"num\">$575</span>（分析师 Mark Newman，按现价计隐含约 <span class=\"num\">+91.1%</span>）；11/18 高盛下调目标价 <span class=\"num\">$540→$460</span>，维持 Buy（分析师 James Schneider；下调因估值倍数由 30x 降至 25x，盈利预测不变）；11/16 TD Cowen 下调目标价 <span class=\"num\">$475→$425</span>，维持 Buy；11/13 Rothschild &amp; Co Redburn 下调 Buy→Neutral，目标价 <span class=\"num\">$595→$398</span>（现为最低目标价）；11/11 Weiss Ratings B→B-；10/27 DA Davidson 上调 Neutral→Buy，目标价 <span class=\"num\">$350→$400</span>；10/27 William Blair 下调 Outperform→Market Perform；10/27 Rosenblatt 重申 Buy，目标价 <span class=\"num\">$600</span>。",
+        "<details class=\"more\"><summary>其他口径…</summary><ul><li>TipRanks 口径（11/27 核验）：Strong Buy（近 3 个月 31 家：买入 29 家、持有 2 家、卖出 0 家），平均目标价 <span class=\"num\">$513.25</span>（较 11/26 的 <span class=\"num\">$514.86</span> 小幅下调），区间 <span class=\"num\">$398–$630</span>，按现价计隐含约 <span class=\"num\">+70.6%</span>；Q4 共识 EPS <span class=\"num\">$3.83</span>（区间 <span class=\"num\">$3.53–3.92</span>）、收入 <span class=\"num\">$34.90B</span>（区间 <span class=\"num\">$34.74–35.59B</span>）。</li><li>StockAnalysis 口径（11/25）：51 家分析师，Strong Buy，平均目标价 <span class=\"num\">$525.51</span>，区间 <span class=\"num\">$398.47–$660</span>，按现价计隐含约 <span class=\"num\">+74.7%</span>。</li><li>摩根士丹利 11/9 报告：GPU/XPU 板块首选之一，目标价 <span class=\"num\">$505</span>，按现价计隐含约 <span class=\"num\">+67.9%</span>。</li><li>另有看空声音：Seeking Alpha 撰稿人 11/19 给予 Sell，内在价值估算 <span class=\"num\">$295.71</span>，理由为五大客户占收入 55% 与约 <span class=\"num\">$72B</span> 担保敞口——为个人观点，非机构评级。</li></ul></details>"
+      ],
+      "title": "🎯 分析师评级"
+    },
+    {
+      "items": [
+        "趋势：收盘仍低于 20 日均线 <span class=\"num\">%%MA20%%</span> 与 50 日均线 <span class=\"num\">%%MA50%%</span>，也在 200 日均线 <span class=\"num\">%%MA200%%</span> 下方；均线仍为空头排列；连续四个交易日收在 20 日均线下方，短线仍处下跌趋势——但周三长下影线是 11 月 20 日以来首次出现的日内大幅收复。",
+        "动量：RSI（14）<span class=\"num\">%%RSI%%</span>；成交量约 <span class=\"num\">34.3M</span> 股，较日均高约 <span class=\"num\">35%</span>，放量探底回升；盘后约 <span class=\"num\">$304.00</span>（<span class=\"num\">+1.04%</span>）。",
+        "关键位：上方阻力先看周三盘中高点 <span class=\"num\">$301.27</span>，再上是周二盘中高点 <span class=\"num\">$309.18</span> 与周一收盘 <span class=\"num\">$313.55</span>；下方支撑先看 <span class=\"num\">$297.80</span>（周二盘中低点），再下是 11 月 6 日 52 周前低 <span class=\"num\">$289.77</span> 一带，以及周三盘中低点 <span class=\"num\">$278.00</span>。",
+        "短线方向取决于周五半日市能否守住 <span class=\"num\">$300</span> 一线并收复周三高点 <span class=\"num\">$301.27</span>；若失守 <span class=\"num\">$297.80</span>，下看 <span class=\"num\">$289.77</span> 一带；若能站回 <span class=\"num\">$309.18</span> 上方，则有望确认一次超跌反弹。"
+      ],
+      "title": "📊 技术面"
+    },
+    {
+      "items": [
+        "X · @Beth_Kindig（11/25 15:33，美东）—— 引用 BNEF 预测：数据中心电力需求 2026—2035 年将翻两番至 <span class=\"num\">2,354 TWh</span>，约占全球电力需求 7%，标注 <span class=\"num\">$NVDA $AMD $AVGO</span>，属 AI 需求长期利好叙事。（481 赞、49 转发、约 2.87 万浏览） <span class=\"tag bull\">看多</span> <a href=\"https://x.com/Beth_Kindig/status/2125689288717152454\">原文</a>",
+        "X · @unusual_whales（11/25 12:42，美东）—— 半导体热力图连续第二天全红：<span class=\"num\">$AVGO -4.6%</span>、<span class=\"num\">$MU -10.1%</span>、<span class=\"num\">$NVDA -7.3%</span>，确认 11 月 25 日的板块性下跌。（316 赞、36 转发、约 12.47 万浏览） <span class=\"tag bear\">看空</span> <a href=\"https://x.com/unusual_whales/status/2125646195435442628\">原文</a>",
+        "X · @nezih_gokay（11/26 04:00，美东）—— 土耳其文帖：博通股价自高点跌约 40%，但上季收入同比增 86% 至 <span class=\"num\">$29.6B</span>、AI 芯片收入 <span class=\"num\">$16.7B</span>（+221%）、自由现金流 <span class=\"num\">$13.7B</span>，管理层预计 FY27 AI 芯片收入约 <span class=\"num\">$115B</span>；风险在客户集中，建议分批建仓而非一次买入。（148 赞、12 转发；文中数字为作者说法） <span class=\"tag bull\">看多</span> <a href=\"https://x.com/nezih_gokay/status/2125877232375910529\">原文</a>",
+        "Instagram · @marketbeatmedia（11/26 01:02，UTC）—— 转载 Joseph Hogue“Stock Talk Money”访谈：把 AVGO（约 <span class=\"num\">$282</span>）列为“睡得着觉”的现金充裕型 AI 股，称市场因恐惧而折价，若情绪修复有超额回报空间；同时提醒若 AI 支出担忧持续，波动会更大。（120 赞） <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DgL4BjBOpQC/\">原文</a>",
+        "Instagram · @barchartofficial（11/26 16:32，UTC）—— 转载 Barchart 专栏（Jabran Kundi，11/25）：Cathie Wood 的 ARKK 于 11/5（AVGO 当日跌超 10%、逼近 52 周低点）卖出约 99% 的 AVGO 持仓、约 <span class=\"num\">$104M</span>；文章认为这笔卖出可能在 12/9 财报前付出代价，并引述 43 位分析师共识 Strong Buy、均值 <span class=\"num\">$515.74</span>。（8 赞） <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/p/DgNioldFSvK/\">原文</a>",
+        "<details class=\"more\"><summary>更多平台…</summary><ul><li>X · @paurooteri（11/25 17:45，美东，日文帖）—— Anthropic 的大部分 token 生成将通过 Google 与博通合作开发的 TPU 进行，帖子详解后续合同与 TPU 规格（其引用的 11/24 原文还提到通过博通的五年租赁与约 <span class=\"num\">$42B</span> 信贷安排）。（74 赞、约 3.06 万浏览） <span class=\"tag flat\">中性</span> <a href=\"https://x.com/paurooteri/status/2125722617013510499\">原文</a></li><li>YouTube · 《$AVGO: Breaks 52 Week Low Amid Google TPU Cut &amp; Anthropic AI Demand》（11/25）—— 复盘跌破 52 周低点：Kuo 砍单传闻未证实、AI 收入占 Q3 的 56%、Q4 指引占比将升至约 62%；空方看客户集中、多方看需求超供给；关键验证点 12/9 财报。 <span class=\"tag flat\">中性</span> <a href=\"https://www.youtube.com/watch?v=-rhGSrVcrRo\">原文</a></li><li>Threads · @shuitun0123（11/26 01:07，UTC）—— 中文交易分享：AVGO 在 <span class=\"num\">$305</span> 建仓持有，短线目标 <span class=\"num\">$320</span> 上方。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@shuitun0123/post/DgL4zkCCcx6\">原文</a></li><li>Threads · @trade.wid.me（11/26 14:44，UTC）—— 援引 UBS <span class=\"num\">$425</span> 目标价，认为近期下跌是过度反应。 <span class=\"tag bull\">看多</span> <a href=\"https://www.threads.com/@trade.wid.me/post/DgNWXU9m2iN\">原文</a></li><li>Threads · @thestreet（11/26 18:40，UTC）—— 配 Hock Tan 照片发文：高盛在财报前重置博通 12 个月目标价，背景是 AI 融资与 2028 年数据中心担忧。 <span class=\"tag flat\">中性</span> <a href=\"https://www.threads.com/@thestreet/post/DgNxStoFNEj\">原文</a></li><li>Instagram · @fromthefilings（11/26 21:06，UTC）—— Q4 财报前瞻：博通给自己定的 Q4 门槛是 AI 芯片收入 <span class=\"num\">$21.7B</span>，高于 Q3 的 <span class=\"num\">$16.7B</span>。 <span class=\"tag flat\">中性</span> <a href=\"https://www.instagram.com/p/DgOCD5QoEZf/\">原文</a></li><li>Instagram · @tickzen_（11/26 13:03，UTC）—— 估值测算：TickZen 给 AVGO 的估值为 <span class=\"num\">$377</span>，市价 <span class=\"num\">$301</span>。 <span class=\"tag bull\">看多</span> <a href=\"https://www.instagram.com/reel/DgNKt4AxUSE/\">原文</a></li><li>Reddit：AltIndex 追踪显示 AVGO 在主要投资 subreddit 日均约 <span class=\"num\">40</span> 条提及，较近期均值下降 <span class=\"num\">40%</span>，情绪 <span class=\"num\">78/100</span> 偏看多，散户热度降温。 <span class=\"tag bull\">看多</span> <a href=\"https://altindex.com/ticker/avgo/reddit-mentions\">原文</a></li><li>StockTwits：经搜索未找到 24 小时内可验证的 <span class=\"num\">$AVGO</span> 热帖（FOMO Finder 显示 AVGO 在 StockTwits 提及动量榜排第 32 位，24 小时动量 -92%）。</li><li>注：X · @wealthmatica 与 @wallstengine 11/25 的帖子已收入昨日简报，本期不重复。</li></ul></details>"
+      ],
+      "title": "💬 社交平台头条"
+    },
+    {
+      "items": [
+        "Fool 看多：跌至 2025 年 7 月以来最低是买入机会（11/25，Motley Fool）：Daniel Sparks 认为博通是买入——Q3 收入同比 +86%、FY27 AI 收入预计翻倍至约 $115B；按 Q4 指引年化约 $3.80 EPS 计，现价约 19 倍市盈率，“低于 $290 是买入区”；最大风险仍是客户集中（前五大客户占收入约一半）。为媒体观点，非机构评级。",
+        "传闻新分级：方向已确认、规模未证实（11/26，vlsi.kr）：该文将 Kuo 的说法拆成两层——多供应商分流是博通财报电话会已确认的结构，约 100 万颗的规模只是单一行业调查的估算；若 2027 年 TPU 总出货达约 880 万颗，博通设计量仍可增长、份额从 95% 降至 80%；Google 与博通仍未置评。",
+        "Seeking Alpha 撰稿人重申 Buy、公允价值下调（11/26，Seeking Alpha）：撰稿人重申 Buy，公允价值从 $442 下调至 $385；Q3 收入 +86%、GAAP 营业利润率 53.9%、自由现金流占收入 46%；但联网业务占 AI 收入比重已降至 27%，维持高 20% 区间份额是关键考验；厂商融资敞口与美国数据中心审批延迟值得监测。为个人观点，非机构评级。",
+        "Anthropic 盘后重回发行价上方（11/25，MarketBeat／Finnhub）：ANT 收 <span class=\"num\">$82.79</span>（<span class=\"num\">+1.08%</span>），连续第二日收于 <span class=\"num\">$83</span> 发行价下方，盘中一度低至 <span class=\"num\">$73.85</span>、市值短暂跌破 <span class=\"num\">$1T</span>；盘后约 <span class=\"num\">$84.26</span>（<span class=\"num\">+1.78%</span>），重回发行价上方；博通约 <span class=\"num\">$1B</span> 的认购账面基本回平。",
+        "基板厂盯线：博通–Toppan 新加坡基板厂今日（11/27）晨核验无实质进展；产品与高管层面 48 小时内无新品发布或高管表态。"
+      ],
+      "title": "👀 今日关注"
+    }
+  ],
+  "sources_extra": "行情、均线与 RSI 基于 Nasdaq 官方日线与 Finnhub 最新行情计算（11/25 收盘 $300.86，-0.07%；盘后价为 Finnhub 19:59 ET 快照约 $304.00；成交量 34,349,550 股为 Nasdaq 官方日线；市值约 $1.44T；52 周新低 $278.00 为 11/25 盘中）；评级主口径 MarketBeat（11/27 核验），TipRanks 口径 11/27 核验、平均目标价 $513.25；Fool 买入观点（11/25）；vlsi.kr 传闻分级（11/26）；Seeking Alpha 撰稿人观点（11/26）；ANT 收盘引自 Finnhub／MarketBeat（11/25），盘后约 $84.26；基板厂盯线 11/27 晨核验无实质进展；社交帖子均经原文或平台检索核验；X 帖子经已保存登录会话核验。",
+  "target_avg": "$525.19"
+}
