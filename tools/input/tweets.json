@@ -2,11 +2,35 @@
  "avatar": "https://pbs.twimg.com/profile_images/2104406849797713921/kwv8bpAK.jpg",
  "bio": "Keeping an eye on any topics about $AVGO. All comments are for informational purposes only and does not constitute investment advice. DYOR!",
  "followers": 59,
- "following": 124,
+ "following": 125,
  "handle": "AVGO_X_",
  "name": "$AVGO Observer",
  "profile_url": "https://x.com/AVGO_X_",
  "tweets": [
+  {
+   "ref_author": "@gabz_investor05",
+   "ref_url": "https://x.com/gabz_investor05/status/2126633602158858288",
+   "text": "Fair point. Hard to 'avoid' the companies funding the whole stack and then buy what's downstream of them. For AVGO it comes down to Dec 9: earnings land the same day as the Fed, and the guide will show whether custom silicon demand is still holding up.",
+   "time": "2026-11-28 19:30",
+   "type": "reply",
+   "url": "https://x.com/AVGO_X_/status/2126639890960187395"
+  },
+  {
+   "ref_author": "@RahulChitkaraRC",
+   "ref_url": "https://x.com/RahulChitkaraRC/status/2126477990553116687",
+   "text": "The $179B backlog is the part that matters. Friday's move to $312.34 still leaves AVGO below its $325.36 20-day average, and with earnings on Dec 9, the real test is how much of that backlog converts into AI revenue on schedule.",
+   "time": "2026-11-28 10:13",
+   "type": "quote",
+   "url": "https://x.com/AVGO_X_/status/2126499765924102359"
+  },
+  {
+   "ref_author": "",
+   "ref_url": "",
+   "text": "Tepper 的 Appaloosa 三季度清仓了全部 15 万股 AVGO，加仓 NVDA 约 31%、Micron 约 28%。另一边，博通约 10 亿美元认购的 Anthropic 上市首周浮盈约 10.7%。大户也在分歧，裁决得等 12/9 财报。 $AVGO",
+   "time": "2026-11-28 09:05",
+   "type": "original",
+   "url": "https://x.com/AVGO_X_/status/2126482471378379178"
+  },
   {
    "ref_author": "@carrioresearch",
    "ref_url": "https://x.com/carrioresearch/status/2126268728828629345",
@@ -1822,5 +1846,5 @@
    "url": "https://x.com/AVGO_X_/status/2104384578622275763"
   }
  ],
- "updated": "2026-11-27"
+ "updated": "2026-11-28"
 }
