@@ -6,6 +6,13 @@
     <description>Broadcom (NASDAQ: AVGO) 中文每日投资简报</description>
     <language>zh-CN</language>
     <item>
+      <title>AVGO 日报 2026-11-28：半日市 +3.82% 收复 $309 一线；五家机构 11 天连砍目标价、砍的是倍数</title>
+      <link>https://avgo.pages.dev/briefs/2026-11-28</link>
+      <guid>https://avgo.pages.dev/briefs/2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 +0800</pubDate>
+      <description>周五半日市收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），收复周三高点与周二高点 &lt;span class=&quot;num&quot;&gt;$309.18&lt;/span&gt;，逼近周一收盘 &lt;span class=&quot;num&quot;&gt;$313.55&lt;/span&gt;；成交量约 &lt;span class=&quot;num&quot;&gt;15.9M&lt;/span&gt; 股（半日市），盘后 &lt;span class=&quot;num&quot;&gt;$311.67&lt;/span&gt;。；五家机构 11 天内连砍目标价（vlsi.kr 11/26）：UBS &lt;span class=&quot;num&quot;&gt;$470→$425&lt;/span&gt; 维持 Buy，新增 BNP Paribas &lt;span class=&quot;num&quot;&gt;$540→$485&lt;/span&gt;（单源）；FY27 EPS 共识仅下调 &lt;span class=&quot;num&quot;&gt;1%&lt;/span&gt;，前瞻 P/E 约 &lt;span class=&quot;num&quot;&gt;17x&lt;/span&gt;、低于 5 年均值 &lt;span class=&quot;num&quot;&gt;24x&lt;/span&gt;——砍的是倍数不是盈利，12/9 财报验证。；ANT 首周收官 &lt;span class=&quot;num&quot;&gt;$91.88&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;+10.98%&lt;/span&gt;），站上 &lt;span class=&quot;num&quot;&gt;$83&lt;/span&gt; 发行价；博通约 &lt;span class=&quot;num&quot;&gt;$1B&lt;/span&gt; 认购浮盈约 &lt;span class=&quot;num&quot;&gt;+10.7%&lt;/span&gt;；Tepper 的 Appaloosa 在 Q3 已清仓全部 &lt;span class=&quot;num&quot;&gt;15&lt;/span&gt; 万股 AVGO。</description>
+    </item>
+    <item>
       <title>AVGO 日报 2026-11-27：感恩节休市 · 周三探至 $278 新低后收复 $300，盘后升至 $304</title>
       <link>https://avgo.pages.dev/briefs/2026-11-27</link>
       <guid>https://avgo.pages.dev/briefs/2026-11-27</guid>
@@ -137,13 +144,6 @@
       <guid>https://avgo.pages.dev/briefs/2026-11-09</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
       <description>周五收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度跌破 52 周低点至 &lt;span class=&quot;num&quot;&gt;$289.77&lt;/span&gt; 后收回；5 日累计 &lt;span class=&quot;num&quot;&gt;-9.93%&lt;/span&gt;、1 个月 &lt;span class=&quot;num&quot;&gt;-18.77%&lt;/span&gt;（Finnhub）。；Anthropic 担保敞口细节浮现：博通为其融资提供合计最高约 &lt;span class=&quot;num&quot;&gt;720&lt;/span&gt; 亿美元担保，对照现金约 &lt;span class=&quot;num&quot;&gt;240&lt;/span&gt; 亿美元（theinference／Tikr，11/6–7）；Epoch AI 估算 Q3 TPU 出货翻倍至约 &lt;span class=&quot;num&quot;&gt;200&lt;/span&gt; 万 H100 当量，v8i 已投产（11/4）。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+80.6%&lt;/span&gt;）；近一周无新评级变动；基板厂盯线 11/9 晨核验无实质进展。</description>
-    </item>
-    <item>
-      <title>AVGO 日报 2026-11-08：周日版 · AVGO 周五冲高回落收涨 0.74%，Marvell 收购 Lumentum 长期挑战光互连优势</title>
-      <link>https://avgo.pages.dev/briefs/2026-11-08</link>
-      <guid>https://avgo.pages.dev/briefs/2026-11-08</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
-      <description>周五冲高回落收涨：收盘 &lt;span class=&quot;num&quot;&gt;$%%PRICE%%&lt;/span&gt;（&lt;span class=&quot;num&quot;&gt;%%CHANGE_PCT%%&lt;/span&gt;），盘中一度摸高 &lt;span class=&quot;num&quot;&gt;$311.52&lt;/span&gt;、一度跌破 52 周低点至 &lt;span class=&quot;num&quot;&gt;$289.77&lt;/span&gt; 后收回；5 日累计 &lt;span class=&quot;num&quot;&gt;-9.93%&lt;/span&gt;、1 个月 &lt;span class=&quot;num&quot;&gt;-18.45%&lt;/span&gt;（Finnhub）。；Marvell 以约 &lt;span class=&quot;num&quot;&gt;1150&lt;/span&gt; 亿美元收购 Lumentum，补齐激光器能力，长期或挑战博通在 AI 光互连的一体化优势（TrendForce／Counterpoint，11/7）；交易预计 2028 年上半年完成，短期影响有限。；MarketBeat 综合评级仍为 Moderate Buy（&lt;span class=&quot;num&quot;&gt;45&lt;/span&gt; 家），平均目标价 &lt;span class=&quot;num&quot;&gt;$530.52&lt;/span&gt;（现价隐含约 &lt;span class=&quot;num&quot;&gt;+80.6%&lt;/span&gt;）；近一周无新评级变动；基板厂盯线 11/8 晨核验无实质进展。</description>
     </item>
   </channel>
 </rss>
